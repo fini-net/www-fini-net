@@ -1,5 +1,0 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1121521245" format="1.0" version="1.2"}%
-[[WebTopicList]]
-
-%WEBLIST{"	* [[$name.WebHome]]"}%
-

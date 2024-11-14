@@ -1,6 +1,0 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1182781785" format="1.1" version="1.6"}%
-%META:TOPICPARENT{name="TWiki.WebIndex"}%
-<!--
-   * Set DENYTOPICCHANGE = Main.TWikiGuest
-   * Set ALLOWTOPICCHANGE = Main.TWikiAdminGroup
--->
