@@ -1,0 +1,11 @@
+%META:TOPICINFO{author="JohnLundin" date="1128392461" format="1.0" version="1.1"}%
+%META:TOPICPARENT{name="TWikiGroups"}%
+---+!! <nop>FiniDocGroup
+
+	* Set GROUP = Main.JohnLundin, Main.CynthiaManuel, Main.ChristopherHicks
+	* Set ALLOWTOPICCHANGE = FiniDocGroup
+
+__Related topics:__ %WIKIUSERSTOPIC%, TWikiGroups, %TWIKIWEB%.TWikiAccessControl
+
+-- Main.JohnLundin - 04 Oct 2005
+

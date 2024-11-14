@@ -1,0 +1,29 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1160827234" format="1.1" version="1.6"}%
+%META:TOPICPARENT{name="HostingServices"}%
+---+++ Web Design
+
+Want a top shelf designer to do it for you? FINI can put one in your pocket!
+
+Our creative designers have developed successful corporate identities for national and local companies as well as branding websites with pre-existing corporate identities. 
+
+View our [[ProjectGallery][project gallery]], which features many of our completed design projects.
+
+---+++E-commerce, FINI's Design Forte
+
+<div style="float:left; margin:0 1em;"> %PUBURL%/%MAINWEB%/WebImages/ecommerce.jpg </div>
+
+---++++++The Mechanics of Profitability
+
+Using the right technology and architecture is paramount to profitability. E-commerce has grown to be a $1,000,000,000+ annual market, yet dot coms and online retailers are falling like flies. The real answer to this phenomena lies hidden in the vision statements of these companies operating in the red. "Our (tremendous) investments in technology now will pay off in the future."  This mentality is dangerous and has Wall Street as well as the at home investor nervously questioning the business models and strategies of online retailers.
+
+The real answer hidden in the "invest more in technology now and they will come later" mantra is ...
+
+<blockquote><em><b>the technology to give our customers what they want is costing us millions of dollars and we're hoping like heck there will eventually be enough customers to justify all this money we have had to spend.</b></em></blockquote> 
+
+The solution to this problem is not in hoping that the profit will come in the future, it is in making better informed decisions about the technology that you are implementing.
+
+[[StandardsReport][Standards based architecture]] allows our customers to have a single version of their Internet Commerce System. Right from the beginning this saves our customers hundreds of thousands of dollars in development fees. Our extensible architecture makes it possible for us to design one site that is highly compatible across browsers and platforms.
+
+We encourage you to read more about FINI's [[FiniCommerce][e-Commerce solutions]].
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
+%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

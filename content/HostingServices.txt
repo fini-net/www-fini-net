@@ -1,0 +1,32 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1238506650" format="1.1" version="1.6"}%
+<style>img{border:none;"}</style>
+---++++ What do you get when you host with FINI?
+
+You get a total solution with unparalled access and control. FINI puts YOU in control and that saves you time and money!
+
+*Domain Locking* - Domain locking prevents unwanted registrar transfers. The domain lock feature secures your domain slamming, hijacking or other forms of domain transfers that have not been properly authorized.
+
+*Domain Renewal* - Automatic domain renewal ensures your domain will remain YOUR domain.
+
+%PUBURL%/%MAINWEB%/WebImages/finilever_logo.jpg *FINILever* - Coming Soon. Choose a domain name, register it, set up your email... FINILever enables you to easily do it all. With FINI there is no need to wait on the phone for some tech support associate to make the changes you need.
+
+
+%PUBURL%/%MAINWEB%/WebImages/stats.jpg *Stats* - Track and analyze your site traffic. FINIStats gives you an immediate, detailed view of the traffic on your site. This gives you a wealth of information to use when making decisions about the content and structure of your site.
+
+
+%PUBURL%/%MAINWEB%/WebImages/bugzilla.jpg *Bugzilla* - Bugzilla is a "Defect Tracking System" or "Bug-Tracking System". Defect Tracking Systems allow individuals or groups to keep track of outstanding bugs in their product effectively. Successful projects often are the result of successful organization and communication. Bugzilla is a powerful tool that will help your team get organized and communicate effectively.
+
+
+%PUBURL%/%MAINWEB%/WebImages/twiki_icon.gif *TWiki* - TWiki is a flexible, powerful, and easy to use enterprise collaboration platform. Uses include running a project development space, a document management system, a knowledge base, or any other groupware tool, on an intranet or on the internet. Content can be created collaboratively by using just a browser.
+
+---++++ Additional Hosting Services
+
+   * [[FiniDNS][DNS]]
+   * [[FiniCommerce][E-commerce]]
+   * [[RegistrationService][Registration]]
+   * [[WebDesign][Web Design]]
+   * [[WebHosting][Web Hosting]]
+
+
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
+%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

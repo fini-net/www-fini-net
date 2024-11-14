@@ -1,0 +1,11 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1128452192" format="1.0" version="1.1"}%
+%META:TOPICPARENT{name="TWikiGroups"}%
+---+!! <nop>RushAdminGroup
+
+	* Set GROUP = Main.CynthiaManuel, Main.ChristopherHicks, Main.ThomasStJacques
+	* Set ALLOWTOPICCHANGE = RushAdminGroup
+
+__Related topics:__ %WIKIUSERSTOPIC%, TWikiGroups, %TWIKIWEB%.TWikiAccessControl
+
+-- Main.CynthiaManuel - 04 Oct 2005
+

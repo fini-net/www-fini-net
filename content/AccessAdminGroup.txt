@@ -1,0 +1,10 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1172773082" format="1.1" version="1.2"}%
+%META:TOPICPARENT{name="TWikiGroups"}%
+---+!! <nop>AccessAdminGroup
+
+   * Member list:
+      * Set GROUP = Main.CynthiaManuel, Main.ShaunSmith
+   * Persons/group who can change the list:
+      * Set ALLOWTOPICCHANGE = AccessAdminGroup
+
+__%MAKETEXT{"Related topics:"}%__ %WIKIUSERSTOPIC%, TWikiGroups, %TWIKIWEB%.TWikiAccessControl

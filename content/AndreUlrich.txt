@@ -1,0 +1,5 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1173839510" format="1.1" version="1.23"}%
+%META:TOPICPARENT{name="TWiki.WebIndex"}%
+<!--
+   * Set ALLOWTOPICCHANGE = Main.TWikiAdminGroup
+-->

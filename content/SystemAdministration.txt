@@ -1,0 +1,21 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1154182282" format="1.1" version="1.3"}%
+%META:TOPICPARENT{name="SystemsAnalysis"}%
+---+++System Administration
+
+FINI can provide in-house or remote systems administration.
+
+System administration services include:
+
+   * Performing backups
+   * Applying any operating system updates, and configuration changes
+   * Installing and configuring any new hardware/software
+   * Adding/deleting/modifying user account information, resetting passwords, etc.
+   * Answering technical queries
+   * [[PracticalSecurity][Security Audits and Analysis]]
+   * Documenting the configuration of the system.
+   * Recovery
+   * Troubleshooting
+
+Let FINI remind you of how fun technology can be. Stop blaming yourself for shoddy software and bug-ridden operating systems. Stop being a slave to the machine and let the machine relieve your burden for awhile. 
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
+%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

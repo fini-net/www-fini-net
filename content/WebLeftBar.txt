@@ -1,0 +1,23 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1187698184" format="1.1" version="1.8"}%
+%INCLUDE{"%IF{"context can_login" then="WebLeftBarLogin"}%" warn="off"}%
+%INCLUDE{ "%TWIKIWEB%.WebLeftBarSearch" }%
+
+---
+   * <b>[[%INCLUDINGWEB%.%HOMETOPIC%][ %ICON{"home"}% <nop>%MAKETEXT{"[_1] Web" args="%INCLUDINGWEB%"}%]]</b>
+   * [[TWikiUsers][ %ICON{"person"}% %MAKETEXT{"Users"}%]]
+   * [[TWikiGroups][ %ICON{"group"}% %MAKETEXT{"Groups"}%]]
+   * [[WebTopicList][ %ICON{"index"}% %MAKETEXT{"Index"}%]]
+   * [[%INCLUDINGWEB%.WebSearch][ %ICON{"searchtopic"}% %MAKETEXT{"Search"}%]]
+   * [[WebChanges][ %ICON{"changes"}% %MAKETEXT{"Changes"}%]]
+   * [[WebNotify][ %ICON{"notify"}% %MAKETEXT{"Notifications"}%]]
+   * [[WebStatistics][ %ICON{"statistics"}% %MAKETEXT{"Statistics"}%]]
+   * [[WebPreferences][ %ICON{"wrench"}% %MAKETEXT{"Preferences"}%]]
+---
+---++++++ FINI Services
+   * [[ApplicationDevelopment][%MAKETEXT{"Application Development"}%]]
+   * [[ConsultingServices][%MAKETEXT{"Consulting"}%]]
+   * [[EdgeReports][%MAKETEXT{"Flamingo Edge Reports"}%]]
+   * [[HostingServices][%MAKETEXT{"Hosting"}%]]
+   * [[SystemsAnalysis][%MAKETEXT{"Systems Analysis"}%]]
+---
+%INCLUDE{ "%TWIKIWEB%.WebLeftBarWebsList" }%

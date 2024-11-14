@@ -1,0 +1,12 @@
+%META:TOPICINFO{author="JohnLundin" date="1266840190" format="1.1" version="1.2"}%
+Customise this topic; samples and ideas available at TWiki:TWiki.WebLeftBarCookbook.
+
+%STARTINCLUDE%
+   * *My links*
+   * [[Main.ThomasStJacques][My home page]]
+   * [[Trash.Rush.RightBar][Right Bar]]
+   * [[Trash.Rush.WebTopBar][Top Bar]]
+   * [[Trash.Rush.WebLeftBar][Left Bar]]
+
+<div class="twikiSmall"><a href="%SCRIPTURLPATH%/edit%SCRIPTSUFFIX%/%WEB%/%TOPIC%?t=%GMTIME{"$year$mo$day$hours$minutes$seconds"}%">edit</a></div>
+%STOPINCLUDE%

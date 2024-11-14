@@ -1,0 +1,3 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1184028999" format="1.1" version="1.2"}%
+%META:TOPICPARENT{name="TWiki.BulkRegistration"}%
+| *FirstName* | *LastName* | *Email* | *WikiName* |

@@ -1,0 +1,15 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1154181887" format="1.1" version="1.2"}%
+%META:TOPICPARENT{name="ConsultingServices"}%
+---+++ Information Technology Training
+
+FINI offers on-site and remote training services for information technology professionals.
+
+Instruction is available in, but not limited to, the following:
+
+   * CSS
+   * HTML
+   * Javascript
+   * Perl
+   * Unix/Linux
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
+%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

@@ -1,0 +1,7 @@
+%META:TOPICINFO{author="ChristopherHicks" date="1144941596" format="1.1" version="1.1"}%
+%META:TOPICPARENT{name="ChristopherHicks"}%
+This is basically a links page to save me trouble navigating http://search.cpan.org .
+
+   * CPAN:Catalyst, CPAN:Catalyst::Plugin::Authentication
+   * CPAN:DBIx::Class
+   * CPAN:Template - Template Toolkit

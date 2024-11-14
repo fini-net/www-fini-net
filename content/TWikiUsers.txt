@@ -1,0 +1,101 @@
+%META:TOPICINFO{author="TWikiRegistrationAgent" date="1321256741" format="1.1" version="1.222"}%
+---+ List of <nop>%WIKITOOLNAME% users
+
+Below is a list of users with accounts. If you want to edit topics or see protected areas of the site then you can get added to the list by registering: fill out the form in %TWIKIWEB%.TWikiRegistration. 
+
+If you forget your password, %TWIKIWEB%.ResetPassword will get a new one sent to you.
+
+%INCLUDE{"UserListHeader"}%
+
+----
+#ListStart
+[[#A][A]] [[#B][B]] [[#C][C]] [[#D][D]] [[#E][E]] [[#F][F]] [[#G][G]] [[#H][H]] [[#I][I]] [[#J][J]] [[#K][K]] [[#L][L]] [[#M][M]] [[#N][N]] [[#O][O]] [[#P][P]] [[#Q][Q]] [[#R][R]] [[#S][S]] [[#T][T]] [[#U][U]] [[#V][V]] [[#W][W]] [[#X][X]] [[#Y][Y]] [[#Z][Z]]
+
+   * A - <a name="A">- - - -</a>
+	* AronAbram - AronAbram - 13 Dec 2010
+	* AronTorn - AronTorn - 24 Sep 2010
+   * B - <a name="B">- - - -</a>
+   * BettyWalls - BettyWalls - 23 Mar 2006
+	* BilligsterStromanbieter - BilligsterStromanbieter - 26 Oct 2011
+   * C - <a name="C">- - - -</a>
+	* CharlesMarco - CharlesMarco - 03 Nov 2011
+   * CherylGugliuzza - CherylGugliuzza - 05 Jan 2010
+   * ChristopherHicks - ChristopherHicks - 30 Oct 2004
+   * CynthiaManuel - CynthiaManuel - 29 Oct 2004
+   * D - <a name="D">- - - -</a>
+   * E - <a name="E">- - - -</a>
+	* EdanSharp - EdanSharp - 17 Oct 2010
+	* EnergieVersorger - EnergieVersorger - 17 Oct 2011
+	* EriqueGuedesPinto - EriqueGuedesPinto - 22 Sep 2010
+   * F - <a name="F">- - - -</a>
+	* FahrradRoutenplaner - FahrradRoutenplaner - 09 Nov 2011
+	* FlirtenLernen - FlirtenLernen - 01 Nov 2011
+	* FlirtenTipps - FlirtenTipps - 14 Nov 2011
+   * FranckyColombo - FranckyColombo - 18 Feb 2008
+   * G - <a name="G">- - - -</a>
+	* GasPreise - GasPreise - 12 Nov 2011
+	* GuteNacht - GuteNacht - 11 Nov 2011
+   * H - <a name="H">- - - -</a>
+   * I - <a name="I">- - - -</a>
+   * J - <a name="J">- - - -</a>
+   * JerryTenney - JerryTenney - 26 Nov 2008
+   * JimJensen - JimJensen - 10 Jul 2007
+   * JohnIngersoll - JohnIngersoll - 05 Aug 2006
+   * JohnLundin - JohnLundin - 26 Oct 2004
+   * K - <a name="K">- - - -</a>
+   * L - <a name="L">- - - -</a>
+	* LedTeelichter - LedTeelichter - 04 Nov 2011
+   * LeeHeyne - LeeHeyne - 29 Feb 2008
+	* LottoZahlen - LottoZahlen - 21 Oct 2011
+	* LottozahlenSamstag - LottozahlenSamstag - 12 Oct 2011
+   * M - <a name="M">- - - -</a>
+   * MattAvitable - MattAvitable - 10 Aug 2006
+   * N - <a name="N">- - - -</a>
+	* NaturstromVergleich - NaturstromVergleich - 13 Nov 2011
+	* NyyzpjhaGypxxgkh - NyyzpjhaGypxxgkh - 01 Apr 2011
+   * O - <a name="O">- - - -</a>
+   * P - <a name="P">- - - -</a>
+   * PabloCrespo - PabloCrespo - 28 Apr 2008
+	* PreisvergleichStrom - PreisvergleichStrom - 14 Oct 2011
+   * Q - <a name="Q">- - - -</a>
+   * R - <a name="R">- - - -</a>
+	* RandyBosh - RandyBosh - 23 Mar 2011
+	* RaynnPada - RaynnPada - 15 Aug 2011
+	* RichtigFlirten - RichtigFlirten - 14 Nov 2011
+	* RoutenplanerFahrrad - RoutenplanerFahrrad - 09 Nov 2011
+   * S - <a name="S">- - - -</a>
+   * SallyBatey - SallyBatey - 06 Sep 2007
+	* SashaReyes - SashaReyes - 11 Aug 2011
+   * ShaunSmith - ShaunSmith - 01 Mar 2007
+   * SteveKirkup - SteveKirkup - 18 Apr 2006
+	* StromAnbieter - StromAnbieter - 16 Oct 2011
+	* StromVergleich - StromVergleich - 11 Nov 2011
+	* StromanbieterVergleich - StromanbieterVergleich - 03 Nov 2011
+	* StromversorgerVergleichen - StromversorgerVergleichen - 11 Nov 2011
+   * T - <a name="T">- - - -</a>
+   * TWikiContributor - 1 Jan 2005
+   * TWikiGuest - guest - 10 Feb 1999
+   * TWikiRegistrationAgent - 1 Jan 2005
+   * ThomasStJacques - 04 Oct 2005
+   * U - <a name="U">- - - -</a>
+   * UnknownUser - 1 Jan 2005
+   * V - <a name="V">- - - -</a>
+	* VergleichOekostrom - VergleichOekostrom - 13 Nov 2011
+	* VergleichStromanbieter - VergleichStromanbieter - 12 Nov 2011
+   * W - <a name="W">- - - -</a>
+   * X - <a name="X">- - - -</a>
+   * Y - <a name="Y">- - - -</a>
+   * Z - <a name="Z">- - - -</a>
+
+[[#A][A]] [[#B][B]] [[#C][C]] [[#D][D]] [[#E][E]] [[#F][F]] [[#G][G]] [[#H][H]] [[#I][I]] [[#J][J]] [[#K][K]] [[#L][L]] [[#M][M]] [[#N][N]] [[#O][O]] [[#P][P]] [[#Q][Q]] [[#R][R]] [[#S][S]] [[#T][T]] [[#U][U]] [[#V][V]] [[#W][W]] [[#X][X]] [[#Y][Y]] [[#Z][Z]]
+
+__%X% Note:__ There are four default system users:
+      * *TWikiContributor* - placeholder for a TWiki developer, and is used in TWiki documentation
+      * *TWikiGuest* - guest user, used as a fallback if the user can't be identified
+      * *TWikiRegistrationAgent* - special user used during the new user registration process
+      * *UnknownUser* - used where the author of a previously stored piece of data can't be determined
+
+__Access Control:__
+      * Set ALLOWTOPICCHANGE = TWikiAdminGroup, TWikiRegistrationAgent
+
+%META:PREFERENCE{name="DENYTOPICVIEW" title="DENYTOPICVIEW" type="Set" value="TWikiGuest"}%

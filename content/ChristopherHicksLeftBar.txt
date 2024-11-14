@@ -1,0 +1,20 @@
+%META:TOPICINFO{author="ChristopherHicks" date="1180835163" format="1.1" version="1.11"}%
+Customise this topic; samples and ideas available at TWiki:TWiki.WebLeftBarCookbook.
+
+%STARTINCLUDE%
+*My links*
+   * [[Main.ChristopherHicks][My home page]]
+   * [[http://www.wunderground.org/cgi-bin/findweather/getForecast?query=23603][NN Weather]]
+   * %INCLUDINGWEB%.WebSearchAdvanced
+   * [[OurHouse.Numbers][Phone #s]]
+   * [[OurHouse.YearLongCalendar][Yr Cal.]]
+
+*wikis*
+   * [[Work.WebHome][Work]]
+   * [[OurHouse.WebHome][OurHouse]] ([[OurHouse.EventsList][events]])
+   * [[UUFP.WebHome][UUFP]] ([[UUFP.EventsList][events]])
+   * [[FiniGeeks.WebHome][fini-geeks]] ([[FiniGeeks.EventsList][events]])
+   * [[Support.WebHome][support]] ([[Support.EventsList][events]])
+
+<div class="twikiSmall"><a href="%SCRIPTURLPATH%/edit%SCRIPTSUFFIX%/%WEB%/%TOPIC%?t=%GMTIME{"$year$mo$day$hours$minutes$seconds"}%">edit</a></div>
+%STOPINCLUDE%

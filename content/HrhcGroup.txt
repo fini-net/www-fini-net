@@ -1,0 +1,14 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1190924443" format="1.1" version="1.3"}%
+%META:TOPICPARENT{name="TWikiGroups"}%
+---+!! <nop>HrhcGroup
+
+   * Member list:
+      * Set GROUP = Main.HrhcAdminGroup
+
+   * Persons/group who can change this member list:
+      * Set ALLOWTOPICCHANGE = HrhcAdminGroup
+
+   * Persons/groups allowed to view this topic:
+      * Set ALLOWTOPICVIEW = HrhcGroup, TWikiAdminGroup
+
+__%MAKETEXT{"Related topics:"}%__ %WIKIUSERSTOPIC%, TWikiGroups, %TWIKIWEB%.TWikiAccessControl

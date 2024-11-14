@@ -1,0 +1,14 @@
+%META:TOPICINFO{author="JohnLundin" date="1250247332" format="1.1" version="1.4"}%
+%META:TOPICPARENT{name="JohnLundin"}%
+Customise this topic; samples and ideas available at TWiki:TWiki.WebLeftBarCookbook.
+
+%STARTINCLUDE%
+*My links:*
+   * [[Main.JohnLundin][My home page]]
+   * [[%SCRIPTURL{search}%/%INCLUDINGWEB%/?search=JohnLundin;order=modified;limit=50;reverse=on][My %INCLUDINGWEB% activities]]
+   * [[Work.WebHome][FINI Work section]]
+   * [[Work.JohnLundin][My FINI work page]]
+   * [[TWiki.BlackListPlugin#BanList][BanList]]
+
+<a class="twikiSmall" href="%SCRIPTURLPATH{"edit"}%/%WEB%/%TOPIC%?t=%GMTIME{"$epoch"}%">edit</a>
+%STOPINCLUDE%

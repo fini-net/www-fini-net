@@ -1,0 +1,9 @@
+%META:TOPICINFO{author="CynthiaManuel" date="1180631263" format="1.1" version="1.5"}%
+---+ Gaddis Website
+
+%IMAGEGALLERY%
+
+
+%META:FILEATTACHMENT{name="gaddis_splash_heating.png" attr="" autoattached="1" comment="Gaddis Splash - Heating" date="1180627326" path="gaddis_splash_heating.png" size="303784" user="Main.CynthiaManuel" version="1"}%
+%META:FILEATTACHMENT{name="gaddis_splash_ac.png" attr="" autoattached="1" comment="Gaddis Splash - Air Conditioning" date="1180629642" path="gaddis_splash_ac.png" size="396955" user="Main.CynthiaManuel" version="1"}%
+%META:FILEATTACHMENT{name="gaddis_splash.png" attr="" autoattached="1" comment="Gaddis Splash - Home Page" date="1180625996" path="gaddis_splash.png" size="272262" user="Main.CynthiaManuel" version="1"}%
