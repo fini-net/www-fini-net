@@ -27,6 +27,3 @@ Because the Internet is a relatively new arena that is having a far-reaching imp
 ---++++The Technology of Computing
 
 The most unique and exciting quality of the web is that customer interaction takes place within &quot;live&quot; media. Users expect a Web site, to present information in an intuitive, compelling and efficient manner, and still leverage the technology of computing. By utilizing standards based programming languages like XML, Perl, CSS and HTML we deploy web solutions that work. We rely on the proven FINI database architecture to create secure, reliable and extensible database applications.		
-%META:TOPICMOVED{by="CynthiaManuel" date="1143394093" from="Main.EcommerceSolutions" to="Main.FiniCommerce"}%
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

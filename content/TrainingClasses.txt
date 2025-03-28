@@ -6,10 +6,7 @@ FINI offers on-site and remote training services for information technology prof
 
 Instruction is available in, but not limited to, the following:
 
-   * CSS
-   * HTML
-   * Javascript
-   * Perl
    * Unix/Linux
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
+   * Perl
+   * Golang
+   * Systems Adminsitration

@@ -43,5 +43,3 @@ Go ahead, break free of the monopoly and contact us to start benefiting from PIE
 
 If we can't convince you of the viability of PIES take a look at what [[OthersSay][others are saying]] about this new technology.
 
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

@@ -25,5 +25,3 @@ This ensures Microsoft and the like, repeating revenue from licensing as you are
 ---++++ Break Free From The Monopoly
 
 FINI can free you from this extortion. FINI develops open source applications that are cross platform and that allow for and encourage the integrated use of other open source software applications. Imagine being able to seemlessly move the same data through the various tasks of word processing, spreadsheet/numeric tabulation, image manipulation, etc. without ever paying another licensing fee! Proprietary solutions just can't offer you that. 
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

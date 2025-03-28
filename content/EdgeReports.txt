@@ -20,5 +20,3 @@ Microsoft may be a Monopoly, but being a commercial software vendor is far worse
 By: Cynthia Manuel %BR%
 Lack of standards makes websites more expensive for clients and developers, makes pages break for users, and will break the web itself, unless the situation improves[[ ][...]]
 </div>
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

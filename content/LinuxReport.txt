@@ -28,5 +28,3 @@ My last point about linux is merely a reminder for those of you who've skipped t
  Flamingo Internet Navigators is committed to Open Source Software and Linux. Our customers benefit from this in many ways. The solutions we recommend don't have to include thousands of dollars for buggy proprietary software. Our engineers are happier and more effective. We can fix many problems remotely instead of travelling to your site. Our equipment is more reliable because Linux is much less prone to viruses, worms, security bugs, and doesn't need to be rebooted every day.
 
 FINI's commitment to this technology is a commitment to the future of computing.
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

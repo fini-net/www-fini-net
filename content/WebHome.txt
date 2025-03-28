@@ -42,9 +42,3 @@ Curious about what FINI can do for you? Please take a look at the services we of
    * [[SystemAdministration][System Administration]]
    * [[HostingServices][Hosting Services]]
 
-
-%META:FILEATTACHMENT{name="now.jpg" attr="h" autoattached="1" comment="it's about now jpg" date="1142437184" path="now.jpg" size="3422" user="Main.CynthiaManuel" version="1"}%
-%META:FILEATTACHMENT{name="business.jpg" attr="h" autoattached="1" comment="it's about business jpg" date="1142437161" path="business.jpg" size="2808" user="Main.CynthiaManuel" version="1"}%
-%META:FILEATTACHMENT{name="you.jpg" attr="h" autoattached="1" comment="it's about you jpg" date="1142437211" path="you.jpg" size="3595" user="Main.CynthiaManuel" version="1"}%
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

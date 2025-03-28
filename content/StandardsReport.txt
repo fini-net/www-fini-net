@@ -55,5 +55,3 @@ By rigidly adhering to the standards of the core technologies while developing s
 If you would like more information about the standards based, single version Internet solutions that we are deploying please call or <a  href="mailto:info@fini.net">email us</a> today. We are eager to share with you our mechanics for online profitability. We promise you will be amazed!
 
 
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
