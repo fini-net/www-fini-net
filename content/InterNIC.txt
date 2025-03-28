@@ -1,9 +1,0 @@
-%META:TOPICINFO{author="JohnLundin" date="1194274176" format="1.1" version="1.2"}%
-This page intentionally kept blank. (Spam removed)
-
-<!--
-   * Set ALLOWTOPICCHANGE = TWikiAdminGroup
-   * Set ALLOWTOPICRENAME = TWikiAdminGroup
--->
-
--- Main.JohnLundin - 05 Nov 2007

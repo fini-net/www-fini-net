@@ -29,5 +29,3 @@ FINI has considerable experience consulting for companies in the following indus
    * Retail Sales
 
 [[http://mailto:info@fini.net][Contact us]] today for references.
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%

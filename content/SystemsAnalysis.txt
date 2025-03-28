@@ -8,7 +8,6 @@ The systems discussed within systems analysis can be within any field such as in
 ---++++ Discussions Within Systems Analysis
 
    * [[DatabaseAnalysis][Database Analysis]]
-   * [[PracticalSecurity][Practical Security]]
    * [[SystemAdministration][System Administration]]
 
 FINI applies this methodology in regard to information technology and it's integration and interaction within your business processes. Enabling you to make informed, logical decisions about your business practices in the 21st century, as well as the information technology you utilize.
@@ -20,6 +19,3 @@ The typical use of systems analysis is to guide decisions on issues such as nati
 Whether your organization has one computer or 100,000 computers, FINI can help you leverage the full power of your computing environment and fully utilize the abundant information resources that environment should be supplying you.
 
 Stop being a victim of fear, uncertainty and doubt and let FINI navigate your technology efforts.
-
-%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
-%META:PREFERENCE{name="ALLOWTOPICRENAME" title="ALLOWTOPICRENAME" type="Set" value="%25MAINWEB%25.TWikiAdminGroup"}%
