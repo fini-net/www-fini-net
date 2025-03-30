@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1160250660" format="1.1" version="1.5"}%
+<pre>
++++
+title = 'StandardsReport'
+date = 2006-10-07T19:51+00:00
+draft = false
+description = 'Converted from twiki - v1.5'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 %META:TOPICPARENT{name="EdgeReports"}%
 ---+++ Why Should Businesses Care About Web Standards?
 By: Cynthia Manuel

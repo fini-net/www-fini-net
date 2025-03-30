@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1190985184" format="1.1" version="1.7"}%
+<pre>
++++
+title = 'TWikiPreferences'
+date = 2007-09-28T13:13+00:00
+draft = false
+description = 'Converted from twiki - v1.7'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 | Site-level preferences are located in [[%TWIKIWEB%.%TOPIC%]], however this [[%MAINWEB%.%TOPIC%]] prefs topic has overrride priority and should be used for local customisations. This allows for easier upgrades as you don't need to worry about the shipped preferences clobbering yours. It's easier to keep a handle on if you only copy over the settings you actually change.|
 
 %EDITPREFERENCES{"TWikiPreferencesForm"}% 

@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1154182282" format="1.1" version="1.3"}%
+<pre>
++++
+title = 'SystemAdministration'
+date = 2006-07-29T14:11+00:00
+draft = false
+description = 'Converted from twiki - v1.3'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 %META:TOPICPARENT{name="SystemsAnalysis"}%
 ---+++System Administration
 

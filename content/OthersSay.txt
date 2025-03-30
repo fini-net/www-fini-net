@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1154181843" format="1.1" version="1.2"}%
+<pre>
++++
+title = 'OthersSay'
+date = 2006-07-29T14:04+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 %META:TOPICPARENT{name="ApplicationDevelopment"}%
 ---+++ What Other's Are Saying About Platform Independent Enterprise Software
 

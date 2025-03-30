@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1154181932" format="1.1" version="1.2"}%
+<pre>
++++
+title = 'LinuxReport'
+date = 2006-07-29T14:05+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 %META:TOPICPARENT{name="EdgeReports"}%
 ---+++ Linux... changing the face of computing.
 By: Christopher Hicks

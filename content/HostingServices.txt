@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1238506650" format="1.1" version="1.6"}%
+<pre>
++++
+title = 'HostingServices'
+date = 2009-03-31T13:37+00:00
+draft = false
+description = 'Converted from twiki - v1.6'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 <style>img{border:none;"}</style>
 ---++++ What do you get when you host with FINI?
 
