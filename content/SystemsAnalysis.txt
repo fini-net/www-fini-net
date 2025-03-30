@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1154182218" format="1.1" version="1.4"}%
+<pre>
++++
+title = 'SystemsAnalysis'
+date = 2006-07-29T14:10+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 ---+++ Systems Analysis
 
 Systems analysis is the science dealing with analysis of complex, large scale systems and the interactions within those systems.

@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1157404101" format="1.1" version="1.4"}%
+<pre>
++++
+title = 'EdgeReports'
+date = 2006-09-04T21:08+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 ---+++ Flamingo Edge Reports
 
 <div style="margin:0 0 3em 0">

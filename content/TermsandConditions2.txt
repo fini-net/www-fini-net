@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1143870963" format="1.1" version="1.2"}%
+<pre>
++++
+title = 'TermsandConditions2'
+date = 2006-04-01T05:56+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 ---++ Terms and Conditions for Web Hosting and other Internet Services
 
 3 December 1998

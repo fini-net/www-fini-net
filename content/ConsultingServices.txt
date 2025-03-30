@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1154181872" format="1.1" version="1.2"}%
+<pre>
++++
+title = 'ConsultingServices'
+date = 2006-07-29T14:04+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 ---++++ FINI Consulting
 
 IT consulting is the process of helping companies to improve or transform themselves through or with their information technology. This may involve the identification and cross-fertilization of best practices, analytical techniques, technology implementations, strategy development or even the simple advantage of an outsider's perspective.

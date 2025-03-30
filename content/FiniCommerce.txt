@@ -1,4 +1,14 @@
-%META:TOPICINFO{author="CynthiaManuel" date="1160251853" format="1.1" version="1.4"}%
+<pre>
++++
+title = 'FiniCommerce'
+date = 2006-10-07T20:10+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
 %META:TOPICPARENT{name="WebDesign"}%
 ---+++ E-Commerce Solutions
 
