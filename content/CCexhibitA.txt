@@ -80,7 +80,7 @@ We reserve the right to delete or transfer your domain name within a thirty (30)
 
 Our address:
 
-<blockquote><strong>TUCOWS Inc.
+<blockquote>TUCOWS Inc.
 
 96 Mowat Avenue
 
@@ -88,7 +88,7 @@ Toronto, Ontario
 
 M6K 3M1
 
-Attention:&#65533; Legal Affairs</strong></blockquote>
+Attention:&#65533; Legal Affairs</blockquote>
 
 and in the case of notification to you shall be to the address specified in the &#65533;Administrative Contact&#65533; in your WHOIS record.
 
