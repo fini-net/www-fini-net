@@ -1,11 +1,11 @@
-    +++
-    title = 'WebHome'
-    date = 2008-06-18T20:40+00:00
-    draft = false
-    description = 'Converted from twiki - v1.36'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'WebHome'
+date = 2008-06-18T20:40+00:00
+draft = false
+description = 'Converted from twiki - v1.36'
+cover.hidden = true
+#tags = []
++++
 
 ### ! Welcome to our %MAINWEB% wiki. This is the wiki for Flamingo Internet Navigators (FINI). Some of the information on this wiki is carefully controlled, but for the most part feel free to make contributions and suggestions. Thank you for taking some time to get to know us better.
 

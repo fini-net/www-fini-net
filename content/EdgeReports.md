@@ -1,11 +1,11 @@
-    +++
-    title = 'EdgeReports'
-    date = 2006-09-04T21:08+00:00
-    draft = false
-    description = 'Converted from twiki - v1.4'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'EdgeReports'
+date = 2006-09-04T21:08+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
 
 ### Flamingo Edge Reports
 

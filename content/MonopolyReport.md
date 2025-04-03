@@ -1,11 +1,11 @@
-    +++
-    title = 'MonopolyReport'
-    date = 2006-07-29T14:05+00:00
-    draft = false
-    description = 'Converted from twiki - v1.2'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'MonopolyReport'
+date = 2006-07-29T14:05+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[EdgeReports](EdgeReports "wikilink")"}%
 

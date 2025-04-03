@@ -1,11 +1,11 @@
-    +++
-    title = 'ApplicationDevelopment'
-    date = 2006-10-17T21:07+00:00
-    draft = false
-    description = 'Converted from twiki - v1.7'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'ApplicationDevelopment'
+date = 2006-10-17T21:07+00:00
+draft = false
+description = 'Converted from twiki - v1.7'
+cover.hidden = true
+#tags = []
++++
 
 ### What does FINI do best?
 

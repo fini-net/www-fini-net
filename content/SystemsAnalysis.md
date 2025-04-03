@@ -1,11 +1,11 @@
-    +++
-    title = 'SystemsAnalysis'
-    date = 2006-07-29T14:10+00:00
-    draft = false
-    description = 'Converted from twiki - v1.4'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'SystemsAnalysis'
+date = 2006-07-29T14:10+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
 
 ### Systems Analysis
 

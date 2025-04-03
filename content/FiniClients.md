@@ -1,11 +1,11 @@
-    +++
-    title = 'FiniClients'
-    date = 2006-03-28T15:40+00:00
-    draft = false
-    description = 'Converted from twiki - v1.2'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'FiniClients'
+date = 2006-03-28T15:40+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[RoavingFlamingians](RoavingFlamingians "wikilink")"}%
 

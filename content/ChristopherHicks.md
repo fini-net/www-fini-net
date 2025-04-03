@@ -1,11 +1,11 @@
-    +++
-    title = 'ChristopherHicks'
-    date = 2007-04-24T16:43+00:00
-    draft = false
-    description = 'Converted from twiki - v1.13'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'ChristopherHicks'
+date = 2007-04-24T16:43+00:00
+draft = false
+description = 'Converted from twiki - v1.13'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[TWikiUsers](TWikiUsers "wikilink")"}%
 
