@@ -1,11 +1,11 @@
-    +++
-    title = 'IReserve'
-    date = 2006-03-15T15:44+00:00
-    draft = false
-    description = 'Converted from twiki - v1.1'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'IReserve'
+date = 2006-03-15T15:44+00:00
+draft = false
+description = 'Converted from twiki - v1.1'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[WebHome](WebHome "wikilink")"}%
 

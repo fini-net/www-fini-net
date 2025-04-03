@@ -1,11 +1,11 @@
-    +++
-    title = 'TermsandConditions4'
-    date = 2009-03-31T22:16+00:00
-    draft = false
-    description = 'Converted from twiki - v1.6'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'TermsandConditions4'
+date = 2009-03-31T22:16+00:00
+draft = false
+description = 'Converted from twiki - v1.6'
+cover.hidden = true
+#tags = []
++++
 
 ## Flamingo Internet Navigators Terms and Conditions for Web Hosting and other Internet Services
 

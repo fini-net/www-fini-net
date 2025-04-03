@@ -1,11 +1,11 @@
-    +++
-    title = 'FiniCommerce'
-    date = 2006-10-07T20:10+00:00
-    draft = false
-    description = 'Converted from twiki - v1.4'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'FiniCommerce'
+date = 2006-10-07T20:10+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[WebDesign](WebDesign "wikilink")"}%
 

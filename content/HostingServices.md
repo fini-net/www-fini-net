@@ -1,11 +1,11 @@
-    +++
-    title = 'HostingServices'
-    date = 2009-03-31T13:37+00:00
-    draft = false
-    description = 'Converted from twiki - v1.6'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'HostingServices'
+date = 2009-03-31T13:37+00:00
+draft = false
+description = 'Converted from twiki - v1.6'
+cover.hidden = true
+#tags = []
++++
 
 \<style\>img{border:none;"}\</style\>
 

@@ -1,11 +1,11 @@
-    +++
-    title = 'CrossPlatform'
-    date = 2006-07-29T14:02+00:00
-    draft = false
-    description = 'Converted from twiki - v1.2'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'CrossPlatform'
+date = 2006-07-29T14:02+00:00
+draft = false
+description = 'Converted from twiki - v1.2'
+cover.hidden = true
+#tags = []
++++
 
 %META:TOPICPARENT{name="[ApplicationDevelopment](ApplicationDevelopment "wikilink")"}%
 

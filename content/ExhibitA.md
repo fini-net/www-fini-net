@@ -1,11 +1,11 @@
-    +++
-    title = 'ExhibitA'
-    date = 2006-04-01T18:14+00:00
-    draft = false
-    description = 'Converted from twiki - v1.1'
-    cover.hidden = true
-    #tags = []
-    +++
++++
+title = 'ExhibitA'
+date = 2006-04-01T18:14+00:00
+draft = false
+description = 'Converted from twiki - v1.1'
+cover.hidden = true
+#tags = []
++++
 
 \<div align="center"\>**Exhibit A \<BR\> Registration
 Agreement**\</div\> \<BR\> \<BR\>
