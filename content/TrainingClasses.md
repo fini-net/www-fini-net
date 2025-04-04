@@ -1,8 +1,8 @@
 +++
 title = 'TrainingClasses'
-date = 2006-07-29T14:04+00:00
+date = 2025-03-28T12:14+00:00
 draft = false
-description = 'Converted from twiki - v1.2'
+description = 'Converted from twiki - v1.3'
 cover.hidden = true
 #tags = []
 +++
