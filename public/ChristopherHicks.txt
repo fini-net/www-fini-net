@@ -1,0 +1,45 @@
+<pre>
++++
+title = 'ChristopherHicks'
+date = 2007-04-24T16:43+00:00
+draft = false
+description = 'Converted from twiki - v1.13'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
+%META:TOPICPARENT{name="TWikiUsers"}%
+---+ ChristopherHicks
+
+   * Name: Christopher Hicks
+   * Email: chicks@chicks.net
+   * Company Name: Flamingo Internet Navigators
+   * Company URL: http://www.fini.net/
+   * Personal Web Page: http://www.chicks.net/
+   * Country: [[http://en.wikipedia.org/wiki/Unites_States][USA]]
+   * Hobbies: Billiards, Movies, Remodeling, FrisbeeGolf, AmateurRadio
+
+__My Links__
+   * Blog: http://www.bloglines.com/
+   * Projects: http://www.ireserve.info/
+   * Waste of CPU: [[http://stats.distributed.net/team/tmsummary.php?project_id=8&team=31403][team]] [[http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444][me]]
+   * My sand boxen: Sandbox.ChristopherHicksSandbox and Sandbox.ChickyTestPad
+   * CHicksFavoritePerlModules
+
+__Personal Preferences (details in %TWIKIWEB%.TWikiVariables)__
+   * Show tool-tip topic info on mouse-over of %TWIKIWEB%.WikiWord links, on or off: (see details in %TWIKIWEB%.%WIKIPREFSTOPIC%)
+      * Set LINKTOOLTIPINFO = on
+   * Horizontal size of text edit box:
+      * Set EDITBOXWIDTH = 110
+   * Vertical size of text edit box:
+      * Set EDITBOXHEIGHT = 21
+   * Style of text edit box. =width: 99%= for full window width (default), =width: auto= to disable.
+      * Set EDITBOXSTYLE = width: 99%
+   * Optionally write protect your home page: (set it to your %TWIKIWEB%.WikiName)
+      * Set ALLOWTOPICCHANGE = Main.ChristopherHicks
+
+__Related topics__
+   * ChangePassword
+   * %TWIKIWEB%.%WIKIPREFSTOPIC% has site-level preferences of %WIKITOOLNAME%. %WEBPREFSTOPIC% has preferences of the %WIKITOOLNAME%.%WEB% web.
+   * %MAINWEB%.%WIKIUSERSTOPIC% has a list of other TWiki users.

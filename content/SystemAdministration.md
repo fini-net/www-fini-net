@@ -1,6 +1,6 @@
 +++
 title = 'SystemAdministration'
-date = 2006-07-29T14:11+00:00
+date = 2006-07-29T14:11:00+00:00
 draft = false
 description = 'Converted from twiki - v1.3'
 cover.hidden = true

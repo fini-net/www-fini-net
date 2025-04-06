@@ -1,0 +1,45 @@
+<pre>
++++
+title = 'FiniLever'
+date = 2006-03-26T17:13+00:00
+draft = false
+description = 'Converted from twiki - v1.3'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
+%META:TOPICPARENT{name="HostingServices"}%
+---+++ FiniLever
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_01.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_01.jpg" width="200px" height="225px" /></a>%BR%
+*My FINILever* %BR%
+Access all of your accounts, both domains and vhosts, from one screen.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_03.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_03.jpg" width="200px" height="225px" /></a>%BR%
+*Domain Accounting* %BR%
+Full Account history for each domain. Track usage, and view invoices.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_08.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_08.jpg" width="200px" height="225px" /></a>%BR%
+*VHost Account* %BR%
+Full Account history for each vhost. Track usage, and view invoices.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_05.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_05.jpg" width="200px" height="225px" /></a>%BR%
+*VHost Aliases* %BR%
+Administer virtual host aliases.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_07.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_07.jpg" width="200px" height="225px" /></a>%BR%
+*Contacts* %BR%
+Manage contacts for each domain or vhost. Access full contact list.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_06.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_06.jpg" width="200px" height="225px" /></a>%BR%
+*Edit Services* %BR%
+Manage service levels for each domain.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_04.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_04.jpg" width="200px" height="225px" /></a>%BR%
+*VHost Edit* %BR%
+Set service levels and grant user access. Maintain aliases and view access and error logs.</div>
+
+<div style="float:left; width:200px; margin:0.5em; padding:0.5em; border:1px solid #eaeaea;"><a target="_blank" href="%PUBURL%/%MAINWEB%/WebImages/fl_02.jpg"><img style="margin-bottom:0.5em; border:none;" src="%PUBURL%/%MAINWEB%/WebImages/fl_02.jpg" width="200px" height="225px" /></a>%BR%
+*Domain Edit* %BR%
+Maintain WHOIS information for your domain. Set service level and lock your domain, protecting it from unauthorized transfer.</div>

@@ -1,6 +1,6 @@
 +++
 title = 'CHicksFavoritePerlModules'
-date = 2006-04-13T15:19+00:00
+date = 2006-04-13T15:19:00+00:00
 draft = false
 description = 'Converted from twiki - v1.1'
 cover.hidden = true

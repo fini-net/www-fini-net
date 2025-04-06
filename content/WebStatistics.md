@@ -1,6 +1,6 @@
 +++
 title = 'WebStatistics'
-date = 2007-10-25T00:29+00:00
+date = 2007-10-25T00:29:00+00:00
 draft = false
 description = 'Converted from twiki - v1.658'
 cover.hidden = true
