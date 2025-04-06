@@ -1,6 +1,6 @@
 +++
 title = 'WebHome'
-date = 2008-06-18T20:40+00:00
+date = 2008-06-18T20:40:00+00:00
 draft = false
 description = 'Converted from twiki - v1.36'
 cover.hidden = true

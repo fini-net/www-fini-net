@@ -1,6 +1,6 @@
 +++
 title = 'SystemsAnalysis'
-date = 2025-03-28T12:14+00:00
+date = 2025-03-28T12:14:00+00:00
 draft = false
 description = 'Converted from twiki - v1.5'
 cover.hidden = true

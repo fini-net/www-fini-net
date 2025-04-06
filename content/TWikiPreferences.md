@@ -1,6 +1,6 @@
 +++
 title = 'TWikiPreferences'
-date = 2007-09-28T13:13+00:00
+date = 2007-09-28T13:13:00+00:00
 draft = false
 description = 'Converted from twiki - v1.7'
 cover.hidden = true
