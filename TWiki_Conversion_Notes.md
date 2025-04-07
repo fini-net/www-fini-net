@@ -37,7 +37,7 @@ We should [use commonmark since it is the format hugo expects](https://github.co
 I ended up with this snippet to convert unix seconds since 1970 time into an ISO date/time:
 
 ```
-TZ=UTC date -r $UNIX_TIME -Iminutes
+TZ=UTC date -r $UNIX_TIME -Iseconds
 ```
 
 Thanks to [Gilles](https://unix.stackexchange.com/a/2993/79839) for setting me on the right path.
@@ -45,8 +45,27 @@ Thanks to [Gilles](https://unix.stackexchange.com/a/2993/79839) for setting me o
 I could have come up with a Perl way to do this, but this was clean enough that I
 just shelled out of the Perl for the handy old school `date` command.
 
+Hugo will error out if you leave off the seconds.  Fixed in #6 with `vim` regexes.
+The datetime formats in https://gohugo.io/functions/time/format/ were the most authoritative source
+for this other than the hugo error messages.
+
+```
+Error: error building site: process: readAndProcessContent: "/Users/chicks/Documents/git/www-fini-net/content/ConsultingServices.md:3:27":
+unmarshal failed: toml: invalid date-time timezone
+```
+
 ### Convert HTML arefs into Markdown-style links
 
 The Perl for this conversion came from https://unix.stackexchange.com/a/582424/79839
 which deserves a lot more upvotes than it has gotten at the time of this writing.
 I was only the fourth upvote.  It just worked.  Simple cut and paste.  No AI.  Like magic.
+
+### Hack together hugo
+
+If you're done following the tutorial
+
+1. Copy `hugo.toml` from previous project.
+1. Add some Markdown files.
+1. Run `hugo mod init $REPO_URL`
+1. Run `hugo mod get -u`
+1. Run `hugo` over and over and fix the error messages.
