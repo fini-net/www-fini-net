@@ -46,7 +46,7 @@ fix_twiki_headers:
     sub generate {
         my ($file_name, $author, $unixdate, $version) = @_;
 
-        my $iso_date = `TZ=UTC date -r $unixdate -Iminutes`;
+        my $iso_date = `TZ=UTC date -r $unixdate -Iseconds`;
         $iso_date =~ s/\s+$//; # strip trailing whitespace
 
         $file_name =~ s/[.]txt$//; # strip extension
