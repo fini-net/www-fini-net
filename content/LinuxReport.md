@@ -1,15 +1,15 @@
 +++
-title = 'LinuxReport'
+title = 'Linux... changing the face of computing.'
 date = 2006-07-29T14:05:00+00:00
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true
-#tags = []
+#tags = ['edge-reports']
 +++
 
 %META:TOPICPARENT{name="[EdgeReports](EdgeReports "wikilink")"}%
 
-### Linux... changing the face of computing.
+### Linux... changing the face of computing
 
 By: Christopher Hicks
 

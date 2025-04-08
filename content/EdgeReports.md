@@ -7,11 +7,11 @@ cover.hidden = true
 #tags = []
 +++
 
-### Flamingo Edge Reports
+## Flamingo Edge Reports
 
 \<div style="margin:0 0 3em 0"\>
 
-##### [Linux... changing the face of computing.](LinuxReport)
+### [Linux... changing the face of computing.](LinuxReport)
 
 \<img
 src="%PUBURL%/%MAINWEB%/[WebImages](WebImages "wikilink")/penguin.gif"
@@ -22,7 +22,7 @@ servers[...]( ) \</div\>
 
 \<div style="margin:0 0 3em 0"\>
 
-##### [Microsoft Is A Monopoly](MonopolyReport)
+### [Microsoft Is A Monopoly](MonopolyReport)
 
 \<img
 src="%PUBURL%/%MAINWEB%/[WebImages](WebImages "wikilink")/bgates.gif"
@@ -32,7 +32,7 @@ far worse[...]( ) \</div\>
 
 \<div style="margin:0 0 3em 0"\>
 
-##### [Why Should Businesses Care About Web Standards?](StandardsReport)
+### [Why Should Businesses Care About Web Standards?](StandardsReport)
 
 By: Cynthia Manuel  
 Lack of standards makes websites more expensive for clients and

@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-### Systems Analysis
+## Systems Analysis
 
 Systems analysis is the science dealing with analysis of complex, large
 scale systems and the interactions within those systems.
@@ -18,7 +18,7 @@ environmental protection processes etc. Systems analysis researchers
 apply mathematical methodology to the analysis of the systems involved
 to form a detailed overall picture.
 
-#### Discussions Within Systems Analysis
+### Discussions Within Systems Analysis
 
 - [Database Analysis](DatabaseAnalysis)
 - [System Administration](SystemAdministration)
@@ -29,7 +29,7 @@ Enabling you to make informed, logical decisions about your business
 practices in the 21st century, as well as the information technology you
 utilize.
 
-###### FINI gives you time to think about something (anything) other than technology.
+#### FINI gives you time to think about something (anything) other than technology
 
 The typical use of systems analysis is to guide decisions on issues such
 as national or corporate plans and programs, resource use and protection

@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="<a href="TermsandConditions4" class="wikilink">TermsandConditions4</a>"}%
+%META:TOPICPARENT{name="TermsandConditions4"}%
 
 ## APPENDIX A
 
@@ -88,8 +88,8 @@ domain name through us, or transferred a domain name to us from another
 registrar, you agree to be bound by the Dispute Policy that is
 incorporated herein and made a part of this Agreement by reference.� The
 current version of the Dispute Policy may be found at
-http://www.nic.cc/policies/dispute.html.� Please take the time to
-familiarize yourself with this policy.
+[http://www.nic.cc/policies/dispute.html](http://www.nic.cc/policies/dispute.html).
+� Please take the time to familiarize yourself with this policy.
 
 8\. **DOMAIN NAME DISPUTES**. �You agree that, if the registration or
 reservation of your domain name is challenged by a third party, you will
@@ -115,7 +115,7 @@ resolution of disputes concerning the domain name.� You acknowledge and
 understand that by accepting the terms and conditions of this agreement
 you shall be bound by Registry policies and any pertinent rules or
 policies that exist now or in the future and which are posted on the
-Registry website at http://www.nic.cc.� You are responsible for
+Registry website at [http://www.nic.cc](http://www.nic.cc).� You are responsible for
 monitoring the Registry�s site on a regular basis.� In the event that
 you do not wish to be bound by a revision or modification to any
 Registry policy, your sole remedy is to cancel your domain name
@@ -352,7 +352,7 @@ Our address:
 >
 > Toronto, Ontario
 >
-> <a href="M6K" class="wikilink">M6K</a> 3M1
+> M6K 3M1
 >
 > Attention:� Legal Affairs
 

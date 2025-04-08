@@ -11,7 +11,7 @@ cover.hidden = true
 
 ## SCHEDULE B
 
-##### Form of Registration Agreement
+### Form of Registration Agreement
 
 **AGREEMENT**.� In this Registration Agreement ("Agreement") "you" and
 "your" refer to the registrant of each domain name registration, "we",
@@ -55,7 +55,7 @@ then the term of this Registration Agreement shall be extended
 accordingly. Should the domain name be transferred to another Registrar,
 the terms and conditions of this contract shall cease. \<p\>
 
-** MODIFICATIONS TO AGREEMENT.** You agree that we may: (1) revise the
+**MODIFICATIONS TO AGREEMENT.** You agree that we may: (1) revise the
 terms and conditions of this Agreement; and (2) change the services
 provided under this Agreement.� You agree to be bound by any such
 revision or change will which shall be effective immediately upon
@@ -75,7 +75,7 @@ presently written and posted on \<a
 href="<http://www.opensrs.org/legal/udrp.shtml>"\><http://www.opensrs.org/legal/udrp.shtml>\</a\>
 and as shall be amended from time to time.� You acknowledge that if you
 do not agree to any such modifications, you may request that your domain
-name be deleted from the domain name database. \<p\> ** MODIFICATIONS TO
+name be deleted from the domain name database. \<p\> **MODIFICATIONS TO
 YOUR ACCOUNT**.� In order to change any of your account information with
 us, you must use your Account Identifier and Password that you selected
 when you opened your account with us.� You agree to safeguard your
@@ -90,7 +90,7 @@ reference.� The current version of the Dispute Policy may be found at
 href="<http://www.opensrs.org/legal/udrp.shtml>"\><http://www.opensrs.org/legal/udrp.shtml>\</a\>.�
 Please take the time to familiarize yourself with this policy.
 
-** DOMAIN NAME DISPUTES.**�You acknowledge having read and understood
+**DOMAIN NAME DISPUTES.**�You acknowledge having read and understood
 and agree to be bound by the terms and conditions of the following
 documents, as they may be amended from time to time, which are hereby
 incorporated and made an integral part of this Agreement:\<p\>(i) The
@@ -298,7 +298,7 @@ of the parties, and the remaining terms and provisions will remain in
 full force and effect.\<p\> **NON-AGENCY**.� Nothing contained in this
 Agreement or the Dispute Policies shall be construed as creating any
 agency, partnership, or other form of joint enterprise between the
-parties.\<p\> ** NON-WAIVER.**� Our failure to require performance by
+parties.\<p\> **NON-WAIVER.**�Our failure to require performance by
 you of any provision hereof shall not affect the full right to require
 such performance at any time thereafter; nor shall the waiver by us of a
 breach of any provision hereof be taken or held to be a waiver of the
@@ -331,7 +331,7 @@ Agreement and the Dispute Policy supersede all prior agreements and
 understandings, whether established by custom, practice, policy or
 precedent. \<p\>
 
-** GOVERNING LAW.**� This Agreement shall be governed by and interpreted
+**GOVERNING LAW.**� This Agreement shall be governed by and interpreted
 and enforced in accordance with the LAWS OF Province of ontario and the
 FEDERAL LAWS OF canada applicable therein without reference to rules
 governing choice of laws. Any action relating to this Agreement must be

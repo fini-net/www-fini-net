@@ -1,15 +1,15 @@
 +++
 title = 'ChristopherHicks'
-date = 2007-04-24T16:43:00+00:00
+date = 2025-04-08
 draft = false
-description = 'Converted from twiki - v1.13'
+description = 'Converted from twiki - v1.14'
 cover.hidden = true
 #tags = []
 +++
 
 %META:TOPICPARENT{name="[TWikiUsers](TWikiUsers "wikilink")"}%
 
-# [ChristopherHicks](ChristopherHicks "wikilink")
+## [ChristopherHicks](ChristopherHicks "wikilink")
 
 - Name: Christopher Hicks
 - Email: <chicks@chicks.net>
@@ -21,7 +21,7 @@ cover.hidden = true
   [FrisbeeGolf](FrisbeeGolf "wikilink"),
   [AmateurRadio](AmateurRadio "wikilink")
 
-***My Links***
+### My Links
 
 - Blog: <http://www.bloglines.com/>
 - Projects: <http://www.ireserve.info/>
@@ -32,35 +32,3 @@ cover.hidden = true
   Sandbox.[ChristopherHicksSandbox](ChristopherHicksSandbox "wikilink")
   and Sandbox.[ChickyTestPad](ChickyTestPad "wikilink")
 - [CHicksFavoritePerlModules](CHicksFavoritePerlModules "wikilink")
-
-***Personal Preferences (details in
-<span class="twiki-macro TWIKIWEB"></span>.[TWikiVariables](TWikiVariables "wikilink"))***
-
-- Show tool-tip topic info on mouse-over of
-  <span class="twiki-macro TWIKIWEB"></span>.[WikiWord](WikiWord "wikilink")
-  links, on or off: (see details in
-  <span class="twiki-macro TWIKIWEB"></span>.<span class="twiki-macro WIKIPREFSTOPIC"></span>)
-  - Set LINKTOOLTIPINFO = on
-- Horizontal size of text edit box:
-  - Set EDITBOXWIDTH = 110
-- Vertical size of text edit box:
-  - Set EDITBOXHEIGHT = 21
-- Style of text edit box. `width: 99%` for full window width (default),
-  `width: auto` to disable.
-  - Set EDITBOXSTYLE = width: 99%
-- Optionally write protect your home page: (set it to your
-  <span class="twiki-macro TWIKIWEB"></span>.[WikiName](WikiName "wikilink"))
-  - Set ALLOWTOPICCHANGE =
-    Main.[ChristopherHicks](ChristopherHicks "wikilink")
-
-***Related topics***
-
-- [ChangePassword](ChangePassword "wikilink")
-- <span class="twiki-macro TWIKIWEB"></span>.<span class="twiki-macro WIKIPREFSTOPIC"></span>
-  has site-level preferences of
-  <span class="twiki-macro WIKITOOLNAME"></span>.
-  <span class="twiki-macro WEBPREFSTOPIC"></span> has preferences of the
-  <span class="twiki-macro WIKITOOLNAME"></span>.<span class="twiki-macro WEB"></span>
-  web.
-- <span class="twiki-macro MAINWEB"></span>.<span class="twiki-macro WIKIUSERSTOPIC"></span>
-  has a list of other TWiki users.
