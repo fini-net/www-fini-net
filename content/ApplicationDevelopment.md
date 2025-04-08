@@ -7,11 +7,11 @@ cover.hidden = true
 #tags = []
 +++
 
-### What does FINI do best?
+## What does FINI do best?
 
-###### We make PIES!
+### We make PIES!
 
-###### Platform Independent Enterprise Software.
+### Platform Independent Enterprise Software.
 
 That's what we call our Linux server based software solutions.
 
@@ -62,7 +62,7 @@ That's with installation and training!
 There is never a charge for an initial consultation. So, don't hesitate
 to call and discuss your needs with us.
 
-### What can you do with PIES?
+## What can you do with PIES?
 
 You do whatever you need to do with them! There are no bounds to the
 kinds of PIES that can be made. Right now we have PIES that totally

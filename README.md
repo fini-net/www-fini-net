@@ -10,4 +10,6 @@ but hopefully we will be live within a year.
 
 ### Working:
 
-* Pull down fuller `justfile` from [www-chicks-net](https://github.com/chicks-net/www-chicks-net).
+- Pull down fuller `justfile` from [www-chicks-net](https://github.com/chicks-net/www-chicks-net).
+- Converted from TWiki
+- Generating with `hugo`

@@ -352,7 +352,7 @@ Our address:
 >
 > Toronto, Ontario
 >
-> <a href="M6K" class="wikilink">M6K</a> 3M1
+> M6K 3M1
 >
 > Attention:� Legal Affairs
 
