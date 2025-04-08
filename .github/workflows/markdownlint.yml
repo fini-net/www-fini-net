@@ -10,5 +10,5 @@ jobs:
       with:
         globs: |
           '**/*.md'
-          !**/TWikiPreferences.md
-          !**/WebStatistics.md
+          '!**/TWikiPreferences.md'
+          '!**/WebStatistics.md'
