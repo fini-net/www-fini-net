@@ -11,7 +11,7 @@ Open questions: `none that are currently written down` :grinning:
 ## HOWTO
 
 If your twiki markup is in the `content/` directory named `*.txt`, run
-`just twiki2hugo` and you should end up with modified `txt` files and 
+`just twiki2hugo` and you should end up with modified `txt` files and
 `md` files with the Hugo Markdown in the same directory.
 
 ## Details on aspects
@@ -56,7 +56,7 @@ unmarshal failed: toml: invalid date-time timezone
 
 ### Convert HTML arefs into Markdown-style links
 
-The Perl for this conversion came from 
+The Perl for this conversion came from
 [Unix StackExchange](https://unix.stackexchange.com/a/582424/79839)
 which deserves a lot more upvotes than it has gotten at the time of this writing.
 I was only the fourth upvote.  It just worked.  Simple cut and paste.  No AI.  Like magic.

@@ -7,7 +7,9 @@ cover.hidden = true
 #tags = []
 +++
 
-### ! Welcome to our %MAINWEB% wiki. This is the wiki for Flamingo Internet Navigators (FINI). Some of the information on this wiki is carefully controlled, but for the most part feel free to make contributions and suggestions. Thank you for taking some time to get to know us better.
+## Welcome to FINI
+
+This is the home page for Flamingo Internet Navigators (FINI).
 
 \<div class="indexbox"\> \<h3\>Because FINI knows...\</h3\> \<div
 id="business"\> \<img src="%ATTACHURL%/business.jpg" alt="It's about
