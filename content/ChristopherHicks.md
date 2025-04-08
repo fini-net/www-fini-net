@@ -9,7 +9,7 @@ cover.hidden = true
 
 %META:TOPICPARENT{name="[TWikiUsers](TWikiUsers "wikilink")"}%
 
-# [ChristopherHicks](ChristopherHicks "wikilink")
+## [ChristopherHicks](ChristopherHicks "wikilink")
 
 - Name: Christopher Hicks
 - Email: <chicks@chicks.net>
@@ -21,7 +21,7 @@ cover.hidden = true
   [FrisbeeGolf](FrisbeeGolf "wikilink"),
   [AmateurRadio](AmateurRadio "wikilink")
 
-***My Links***
+### My Links
 
 - Blog: <http://www.bloglines.com/>
 - Projects: <http://www.ireserve.info/>

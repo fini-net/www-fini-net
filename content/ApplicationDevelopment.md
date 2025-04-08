@@ -1,15 +1,14 @@
 +++
-title = 'ApplicationDevelopment'
-date = 2006-10-17T21:07:00+00:00
+title = 'Application Development'
+date = 2025-04-08
 draft = false
-description = 'Converted from twiki - v1.7'
+description = 'Converted from twiki - v1.8'
 cover.hidden = true
 #tags = []
 +++
 
-## What does FINI do best?
-
-### We make PIES!
+* What does FINI do best?
+* We make PIES!
 
 ### Platform Independent Enterprise Software.
 

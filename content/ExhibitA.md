@@ -1375,7 +1375,7 @@ width="28"\>(iii)\</td\>
 Registry’s Naming Charter, its registration rules for .fr. English
 language translations of the Registry’s documents are provided for
 convenience. The Registry documents may be found at:
-www.afnic.fr/obtenir/chartes/nommage-fr.\</td\> \</tr\> \<tr\> \<td
+[www.afnic.fr/obtenir/chartes/nommage-fr](http://www.afnic.fr/obtenir/chartes/nommage-fr).\</td\> \</tr\> \<tr\> \<td
 valign="top" width="28"\>(iv)\</td\> \<td width="693"\>Domain Name
 Disputes. You agree that, if the registration or reservation of your
 domain name is challenged by a third party, you will be subject to the
