@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="<a href="TermsandConditions4" class="wikilink">TermsandConditions4</a>"}%
+%META:TOPICPARENT{name="TermsandConditions4"}%
 
 ## APPENDIX A
 

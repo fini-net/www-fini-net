@@ -47,13 +47,13 @@ used today by companies such as Sentara, Eastern Virginia Medical School
 and others. Please take a moment to [read more about
 iReserve](IReserve).
 
-#### Flamingo Edge Reports
+### Flamingo Edge Reports
 
 While you're here be sure to check some of the [Edge
 Reports](EdgeReports) written by our own
 [Flamingians](RoavingFlamingians).
 
-#### FINI Services
+### FINI Services
 
 Curious about what FINI can do for you? Please take a look at the
 services we offer.

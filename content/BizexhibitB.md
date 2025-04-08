@@ -11,7 +11,7 @@ cover.hidden = true
 
 ## SCHEDULE B
 
-##### Form of Registration Agreement
+### Form of Registration Agreement
 
 **AGREEMENT**.� In this Registration Agreement ("Agreement") "you" and
 "your" refer to the registrant of each domain name registration, "we",
@@ -298,7 +298,7 @@ of the parties, and the remaining terms and provisions will remain in
 full force and effect.\<p\> **NON-AGENCY**.� Nothing contained in this
 Agreement or the Dispute Policies shall be construed as creating any
 agency, partnership, or other form of joint enterprise between the
-parties.\<p\> ** NON-WAIVER.**�Our failure to require performance by
+parties.\<p\> **NON-WAIVER.**�Our failure to require performance by
 you of any provision hereof shall not affect the full right to require
 such performance at any time thereafter; nor shall the waiver by us of a
 breach of any provision hereof be taken or held to be a waiver of the

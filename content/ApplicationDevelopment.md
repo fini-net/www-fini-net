@@ -7,10 +7,10 @@ cover.hidden = true
 #tags = []
 +++
 
-* What does FINI do best?
-* We make PIES!
+- What does FINI do best?
+- We make PIES!
 
-### Platform Independent Enterprise Software.
+### Platform Independent Enterprise Software
 
 That's what we call our Linux server based software solutions.
 

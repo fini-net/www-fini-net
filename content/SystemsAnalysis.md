@@ -29,7 +29,7 @@ Enabling you to make informed, logical decisions about your business
 practices in the 21st century, as well as the information technology you
 utilize.
 
-#### FINI gives you time to think about something (anything) other than technology.
+#### FINI gives you time to think about something (anything) other than technology
 
 The typical use of systems analysis is to guide decisions on issues such
 as national or corporate plans and programs, resource use and protection
