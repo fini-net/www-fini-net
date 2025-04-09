@@ -4,17 +4,16 @@
 
 This process did work for me, as seen in the git history.  There were some manual
 steps before and after the automation, but the automation found in the `justfile`
-took care of the bulk of it.  I have not tested the results in hugo yet.
+took care of the bulk of it.  I was able to process the converted files with
+`hugo` and `PapeerMod`.
 
-Open questions: `none that are currently written down` :grinning:
-
-## HOWTO
+## HOWTO use the automation I wrote
 
 If your twiki markup is in the `content/` directory named `*.txt`, run
 `just twiki2hugo` and you should end up with modified `txt` files and
 `md` files with the Hugo Markdown in the same directory.
 
-## Details on aspects
+## Details on aspects of conversion process
 
 ### TOPICINFO
 
@@ -61,12 +60,12 @@ The Perl for this conversion came from
 which deserves a lot more upvotes than it has gotten at the time of this writing.
 I was only the fourth upvote.  It just worked.  Simple cut and paste.  No AI.  Like magic.
 
-### Hack together hugo
+## Hack together hugo
 
-If you're done following the tutorial
+If you're done following the tutorial:
 
 1. Copy `hugo.toml` from previous project.
-1. Add some Markdown files.
+1. Add some Markdown files in `content`.
 1. Run `hugo mod init $REPO_URL`
 1. Run `hugo mod get -u`
 1. Run `hugo` over and over and fix the error messages.
