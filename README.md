@@ -11,5 +11,6 @@ but hopefully we will be live within a year.
 ### Working
 
 - Pull down fuller `justfile` from [www-chicks-net](https://github.com/chicks-net/www-chicks-net).
-- Converted from TWiki
+- Converted from TWiki (read the [notes](TWiki_Conversion_Notes.md))
 - Generating with `hugo`
+- GHA for `markdownlint`
