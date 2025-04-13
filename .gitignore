@@ -7,6 +7,8 @@
 *.dll
 *.so
 *.dylib
+hugo.linux
+hugo.darwin
 
 # Test binary, built with `go test -c`
 *.test
@@ -24,7 +26,14 @@ go.work.sum
 # env file
 .env
 
+# MacOS debris
 .DS_Store
+
+# vim swap files
 *.sw[a-p]
+
+# hugo debris
 .hugo_build.lock
+
+# repo-level cache for justfiles, etc.
 /.cache
