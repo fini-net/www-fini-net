@@ -8,6 +8,46 @@ local_list:
 justsync:
     curl --create-dirs -o .cache/justfile https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/justfile
 
+# download justfile again if older than 10 days
+justresync:
+    #!/usr/bin/env bash
+    
+    # https://unix.stackexchange.com/a/157108/79839
+    # https://stackoverflow.com/a/1401541/2002471 for MacOS `stat` format
+    function fileAgeSeconds
+    {
+        local fileMod
+        if fileMod=$(stat -f "%m" -- "$1")
+        then
+            echo $(( $(date +%s) - $fileMod ))
+        else
+            return $?
+        fi
+    }
+    
+    function fileAgeDays
+    {
+        local fileSeconds
+        fileSeconds=$(fileAgeSeconds "$*")
+        echo $(( fileSeconds/60/60/24 ))
+    }
+    
+    
+    function resyncJustfile
+    {
+        local fileDays
+        fileDays=$(fileAgeDays .cache/justfile)
+    
+        if (( fileDays > 10 )); then
+            just justsync
+        else
+            echo ".cache/justfile is new enough that we didn't download a new one"
+        fi
+    }
+    
+    resyncJustfile
+
+
 # convert header from twiki to hugo and turn HTML anchors into Markdown
 [no-cd]
 fix_twiki_headers:
