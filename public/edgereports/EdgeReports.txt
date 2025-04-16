@@ -1,0 +1,32 @@
+<pre>
++++
+title = 'EdgeReports'
+date = 2006-09-04T21:08+00:00
+draft = false
+description = 'Converted from twiki - v1.4'
+cover.hidden = true
+#tags = []
++++
+</pre>
+
+---+++ Flamingo Edge Reports
+
+<div style="margin:0 0 3em 0">
+---+++++ [[LinuxReport][Linux... changing the face of computing.]]
+<img src="%PUBURL%/%MAINWEB%/WebImages/penguin.gif" style="float:left;" />
+By: Christopher Hicks %BR%
+Linux already has won the hearts of techies the world over, and lately, the free operating system has carved out a place on corporate servers[[ ][...]]
+</div>
+
+<div style="margin:0 0 3em 0">
+---+++++ [[MonopolyReport][Microsoft Is A Monopoly]]
+<img src="%PUBURL%/%MAINWEB%/WebImages/bgates.gif" style="float:left;" />
+By: Christopher Hicks %BR%
+Microsoft may be a Monopoly, but being a commercial software vendor is far worse[[ ][...]]
+</div>
+
+<div style="margin:0 0 3em 0">
+---+++++ [[StandardsReport][Why Should Businesses Care About Web Standards?]]
+By: Cynthia Manuel %BR%
+Lack of standards makes websites more expensive for clients and developers, makes pages break for users, and will break the web itself, unless the situation improves[[ ][...]]
+</div>
