@@ -1,14 +1,17 @@
 import? '.cache/justfile'
 
 # "list" is already used in the parent (default with no args)
+[group('Local')]
 local_list:
     just --list
 
 # sync justfile from www-chicks-net
+[group('Local_Sync')]
 justsync:
     curl --create-dirs -o .cache/justfile https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/justfile
 
 # download justfile again if older than 10 days
+[group('Local_Sync')]
 justresync:
     #!/usr/bin/env bash
     
@@ -50,6 +53,7 @@ justresync:
 
 # convert header from twiki to hugo and turn HTML anchors into Markdown
 [no-cd]
+[group('Hugo_Convert')]
 fix_twiki_headers:
     #!/usr/bin/env perl
 
@@ -107,6 +111,7 @@ fix_twiki_headers:
     }
 
 # semi-complete conversion of twiki docs into hugo Markdown
+[group('Hugo_Convert')]
 twiki2hugo:
     #!/usr/bin/env bash
     cd content
