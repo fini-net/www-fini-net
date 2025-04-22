@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[ApplicationDevelopment](ApplicationDevelopment "wikilink")"}%
-
 ### Cross Platform Applications
 
 A cross-platform (or platform independent) software application works on

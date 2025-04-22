@@ -1,5 +1,5 @@
 +++
-title = 'ConsultingServices'
+title = 'Consulting Services'
 date = 2006-07-29T14:04:00+00:00
 draft = false
 description = 'Converted from twiki - v1.2'

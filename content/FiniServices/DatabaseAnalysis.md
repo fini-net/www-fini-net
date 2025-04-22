@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[SystemsAnalysis](SystemsAnalysis "wikilink")"}%
-
 ### Database Analysis
 
 FINI provides database analysis to its consulting clients.

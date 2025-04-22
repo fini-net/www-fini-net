@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[ConsultingServices](ConsultingServices "wikilink")"}%
-
 ### Information Technology Training
 
 FINI offers on-site and remote training services for information

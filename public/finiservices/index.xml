@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>FiniServices on Flamingo Internet Navigators (FINI)</title>
+    <title>Consulting Services on Flamingo Internet Navigators (FINI)</title>
     <link>/finiservices/</link>
-    <description>Recent content in FiniServices on Flamingo Internet Navigators (FINI)</description>
+    <description>Recent content in Consulting Services on Flamingo Internet Navigators (FINI)</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
@@ -62,13 +62,6 @@
       <link>/finiservices/finidns/</link>
       <pubDate>Sat, 29 Jul 2006 14:07:00 +0000</pubDate>
       <guid>/finiservices/finidns/</guid>
-      <description>Converted from twiki - v1.2</description>
-    </item>
-    <item>
-      <title>ConsultingServices</title>
-      <link>/finiservices/consultingservices/</link>
-      <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>/finiservices/consultingservices/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
