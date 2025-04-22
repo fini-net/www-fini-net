@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[HostingServices](HostingServices "wikilink")"}%
-
 ### [FiniLever](FiniLever "wikilink")
 
 \<div style="float:left; width:200px; margin:0.5em; padding:0.5em;

@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[WebDesign](WebDesign "wikilink")"}%
-
 ### E-Commerce Solutions
 
 E-Commerce is causing an upheaval that is shaking the very foundations

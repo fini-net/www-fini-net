@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[SystemsAnalysis](SystemsAnalysis "wikilink")"}%
-
 ### System Administration
 
 FINI can provide in-house or remote systems administration.

@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = ['edge-reports']
 +++
 
-%META:TOPICPARENT{name="[EdgeReports](EdgeReports "wikilink")"}%
-
 ### Linux... changing the face of computing
 
 By: Christopher Hicks
@@ -21,22 +19,20 @@ economy as the Internet already has.
 
 You may have heard of Linux. It's been getting lots of press lately - 20
 or 30 articles per week. The week I'm writing this report we find the
-\<a
-href="<Shttp://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/1999/06/03/BU70495.DTL>"
-target="\_blank"\>San Francisco Chronicle\</a\> asking:
+[San Francisco Chronicle](https://www.sfgate.com/business/article/wrestling-for-the-desktop-upstart-os-linux-may-2927478.php)
+asking:
 
-Linux already has won the hearts of techies the world over, and lately,
-the free operating system has carved out a place on corporate servers.
-Could the typical office worker's desktop be the next stop?
+> Linux already has won the hearts of techies the world over, and lately,
+> the free operating system has carved out a place on corporate servers.
+> Could the typical office worker's desktop be the next stop?
 
 The answer is a resounding yes!
 
 Linux is a radically different kind of operating system from any that
 has ever been popular. It's an Open Source operating system. You can
-read \<a href="<http://www.opensource.org/osd.html>"
-target="\_blank"\>the definition\</a\> if you like, but it's a simple
-concept. Open Source means you get the source code and no if's and's or
-but's.
+read [the definition](http://www.opensource.org/osd.html)
+if you like, but it's a simple concept. Open Source means you get the
+source code and no if's and's or but's.
 
 What good is this to real users? First and foremost, we get much better
 software. This is true especially for non-programmers. The Internet
@@ -69,9 +65,8 @@ power to fix show-stopping bugs in a time-frame and budget that meets
 your individual needs.
 
 My last point about linux is merely a reminder for those of you who've
-skipped the tremendous amount of linux \<a
-href="<http://lwn.net/Articles/>" target="\_blank"\>press\</a\>. Linux
-is fast and stable. Reboots are rare. Security bugs are comparatively
+skipped the tremendous amount of linux [press](http://lwn.net/Articles/).
+Linux is fast and stable. Reboots are rare. Security bugs are comparatively
 few and are becoming less frequent. As you may have guessed, these bugs
 get fixed fast. In fact security bugs in linux are usually fixed within
 a day of discovery if not within hours.

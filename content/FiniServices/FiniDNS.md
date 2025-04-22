@@ -7,5 +7,4 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[HostingServices](HostingServices "wikilink")"}%
 Coming Soon.

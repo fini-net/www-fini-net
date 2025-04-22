@@ -39,73 +39,61 @@ theme_color = "#a903fc"
 
 [params.profileMode]
 enabled = true
-title = "Christopher Hicks"
-subtitle = "home on the web"
+title = "FINI"
+subtitle = "consulting services"
 imageUrl = "/chicks/chicks_wedding01.jpg"
 imageTitle = "Wedding picture of Christopher Hicks by Julie"
 imageWidth = 716
 imageHeight = 724
 
 [[params.profileMode.buttons]]
-name = "intro"
-url = "/intro"
+name = "Our Services"
+url = "/FiniServices"
 
 [[params.profileMode.buttons]]
-name = "posts"
+name = "Blog"
 url = "/posts"
 
 [[params.profileMode.buttons]]
-name = "links"
-url = "/links"
+name = "Terms"
+url = "/TermsAndConditions"
 
 [[menu.main]]
-identifier = "intro"
-name = "Intro"
-url = "/intro"
+identifier = "services"
+name = "Services"
+url = "/FiniServices"
 weight = 10
 
 [[menu.main]]
 identifier = "posts"
-name = "Posts"
+name = "Blog"
 url = "/posts"
 weight = 20
 
 [[menu.main]]
-identifier = "links"
-name = "Links"
-url = "/links"
+identifier = "terms"
+name = "Terms & Conditions"
+url = "/TermsAndConditions"
 weight = 30
 
 [[menu.main]]
 identifier = "archive"
 name = "Archive"
-url = "/archives"
+url = "/archive"
 weight = 80
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/chicks-net"
+url = "https://github.com/fini-net"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/chicks2fini"
+url = "https://www.linkedin.com/company/flamingo-internet-navigators/"
 
 [[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@ChristopherHicksFINI"
 
 [[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackexchange.com/users/2276315/chicks"
-
-[[params.socialIcons]]
 name = "serverfault"
 url = "https://serverfault.com/users/205542/chicks"
-
-[[params.socialIcons]]
-name = "steam"
-url = "https://steamcommunity.com/profiles/76561198037662755/"
-
-[[params.socialIcons]]
-name = "rebrickable"
-url = "https://rebrickable.com/users/chicks/"

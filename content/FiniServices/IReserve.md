@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[WebHome](WebHome "wikilink")"}%
-
 ### iReserve
 
 iReserve is a web application designed to manage professional and
