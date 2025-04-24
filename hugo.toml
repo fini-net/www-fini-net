@@ -1,4 +1,6 @@
-baseURL = '/'
+#baseURL = '/'
+# test for github pages which might need to get backed out before we got to prod
+baseURL = '.'
 
 # maybe, see https://discourse.gohugo.io/t/viewing-a-site-without-a-server/35825
 #uglyURLs = true

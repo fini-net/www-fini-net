@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Flamingo Internet Navigators (FINI)</title>
-    <link>/</link>
+    <link>./</link>
     <description>Recent content on Flamingo Internet Navigators (FINI)</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application Development</title>
-      <link>/finiservices/applicationdevelopment/</link>
+      <link>./finiservices/applicationdevelopment/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/finiservices/applicationdevelopment/</guid>
+      <guid>./finiservices/applicationdevelopment/</guid>
       <description>Converted from twiki - v1.8</description>
     </item>
     <item>
       <title>ChristopherHicks</title>
-      <link>/christopherhicks/</link>
+      <link>./christopherhicks/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/christopherhicks/</guid>
+      <guid>./christopherhicks/</guid>
       <description>Converted from twiki - v1.14</description>
     </item>
     <item>
       <title>SystemsAnalysis</title>
-      <link>/finiservices/systemsanalysis/</link>
+      <link>./finiservices/systemsanalysis/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>/finiservices/systemsanalysis/</guid>
+      <guid>./finiservices/systemsanalysis/</guid>
       <description>Converted from twiki - v1.5</description>
     </item>
     <item>
       <title>TrainingClasses</title>
-      <link>/finiservices/trainingclasses/</link>
+      <link>./finiservices/trainingclasses/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>/finiservices/trainingclasses/</guid>
+      <guid>./finiservices/trainingclasses/</guid>
       <description>Converted from twiki - v1.3</description>
     </item>
     <item>
       <title>DatabaseAnalysis</title>
-      <link>/finiservices/databaseanalysis/</link>
+      <link>./finiservices/databaseanalysis/</link>
       <pubDate>Tue, 23 Feb 2010 17:55:00 +0000</pubDate>
-      <guid>/finiservices/databaseanalysis/</guid>
+      <guid>./finiservices/databaseanalysis/</guid>
       <description>Converted from twiki - v1.3</description>
     </item>
     <item>
       <title>TermsandConditions4</title>
-      <link>/termsandconditions/termsandconditions4/</link>
+      <link>./termsandconditions/termsandconditions4/</link>
       <pubDate>Tue, 31 Mar 2009 22:16:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions4/</guid>
+      <guid>./termsandconditions/termsandconditions4/</guid>
       <description>Converted from twiki - v1.6</description>
     </item>
     <item>
       <title>HostingServices</title>
-      <link>/finiservices/hostingservices/</link>
+      <link>./finiservices/hostingservices/</link>
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
-      <guid>/finiservices/hostingservices/</guid>
+      <guid>./finiservices/hostingservices/</guid>
       <description>Converted from twiki - v1.6</description>
     </item>
     <item>
       <title>WebHome</title>
-      <link>/webhome/</link>
+      <link>./webhome/</link>
       <pubDate>Wed, 18 Jun 2008 20:40:00 +0000</pubDate>
-      <guid>/webhome/</guid>
+      <guid>./webhome/</guid>
       <description>Converted from twiki - v1.36</description>
     </item>
     <item>
       <title>WebStatistics</title>
-      <link>/archive/webstatistics/</link>
+      <link>./archive/webstatistics/</link>
       <pubDate>Thu, 25 Oct 2007 00:29:00 +0000</pubDate>
-      <guid>/archive/webstatistics/</guid>
+      <guid>./archive/webstatistics/</guid>
       <description>Converted from twiki - v1.658</description>
     </item>
     <item>
       <title>TWikiPreferences</title>
-      <link>/archive/twikipreferences/</link>
+      <link>./archive/twikipreferences/</link>
       <pubDate>Fri, 28 Sep 2007 13:13:00 +0000</pubDate>
-      <guid>/archive/twikipreferences/</guid>
+      <guid>./archive/twikipreferences/</guid>
       <description>Converted from twiki - v1.7</description>
     </item>
     <item>
       <title>FiniCommerce</title>
-      <link>/finiservices/finicommerce/</link>
+      <link>./finiservices/finicommerce/</link>
       <pubDate>Sat, 07 Oct 2006 20:10:00 +0000</pubDate>
-      <guid>/finiservices/finicommerce/</guid>
+      <guid>./finiservices/finicommerce/</guid>
       <description>Converted from twiki - v1.4</description>
     </item>
     <item>
       <title>StandardsReport</title>
-      <link>/edgereports/standardsreport/</link>
+      <link>./edgereports/standardsreport/</link>
       <pubDate>Sat, 07 Oct 2006 19:51:00 +0000</pubDate>
-      <guid>/edgereports/standardsreport/</guid>
+      <guid>./edgereports/standardsreport/</guid>
       <description>Converted from twiki - v1.5</description>
     </item>
     <item>
       <title>SystemAdministration</title>
-      <link>/finiservices/systemadministration/</link>
+      <link>./finiservices/systemadministration/</link>
       <pubDate>Sat, 29 Jul 2006 14:11:00 +0000</pubDate>
-      <guid>/finiservices/systemadministration/</guid>
+      <guid>./finiservices/systemadministration/</guid>
       <description>Converted from twiki - v1.3</description>
     </item>
     <item>
       <title>FiniDNS</title>
-      <link>/finiservices/finidns/</link>
+      <link>./finiservices/finidns/</link>
       <pubDate>Sat, 29 Jul 2006 14:07:00 +0000</pubDate>
-      <guid>/finiservices/finidns/</guid>
+      <guid>./finiservices/finidns/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>Linux... changing the face of computing.</title>
-      <link>/edgereports/linuxreport/</link>
+      <link>./edgereports/linuxreport/</link>
       <pubDate>Sat, 29 Jul 2006 14:05:00 +0000</pubDate>
-      <guid>/edgereports/linuxreport/</guid>
+      <guid>./edgereports/linuxreport/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>MonopolyReport</title>
-      <link>/edgereports/monopolyreport/</link>
+      <link>./edgereports/monopolyreport/</link>
       <pubDate>Sat, 29 Jul 2006 14:05:00 +0000</pubDate>
-      <guid>/edgereports/monopolyreport/</guid>
+      <guid>./edgereports/monopolyreport/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>OthersSay</title>
-      <link>/otherssay/</link>
+      <link>./otherssay/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>/otherssay/</guid>
+      <guid>./otherssay/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>CrossPlatform</title>
-      <link>/finiservices/crossplatform/</link>
+      <link>./finiservices/crossplatform/</link>
       <pubDate>Sat, 29 Jul 2006 14:02:00 +0000</pubDate>
-      <guid>/finiservices/crossplatform/</guid>
+      <guid>./finiservices/crossplatform/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>RoavingFlamingians</title>
-      <link>/roavingflamingians/</link>
+      <link>./roavingflamingians/</link>
       <pubDate>Tue, 06 Jun 2006 08:59:00 +0000</pubDate>
-      <guid>/roavingflamingians/</guid>
+      <guid>./roavingflamingians/</guid>
       <description>Converted from twiki - v1.7</description>
     </item>
     <item>
       <title>CHicksFavoritePerlModules</title>
-      <link>/chicksfavoriteperlmodules/</link>
+      <link>./chicksfavoriteperlmodules/</link>
       <pubDate>Thu, 13 Apr 2006 15:19:00 +0000</pubDate>
-      <guid>/chicksfavoriteperlmodules/</guid>
+      <guid>./chicksfavoriteperlmodules/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>ExhibitA</title>
-      <link>/termsandconditions/exhibita/</link>
+      <link>./termsandconditions/exhibita/</link>
       <pubDate>Sat, 01 Apr 2006 18:14:00 +0000</pubDate>
-      <guid>/termsandconditions/exhibita/</guid>
+      <guid>./termsandconditions/exhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>CCexhibitA</title>
-      <link>/termsandconditions/ccexhibita/</link>
+      <link>./termsandconditions/ccexhibita/</link>
       <pubDate>Sat, 01 Apr 2006 15:48:00 +0000</pubDate>
-      <guid>/termsandconditions/ccexhibita/</guid>
+      <guid>./termsandconditions/ccexhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>BizexhibitB</title>
-      <link>/termsandconditions/bizexhibitb/</link>
+      <link>./termsandconditions/bizexhibitb/</link>
       <pubDate>Sat, 01 Apr 2006 06:11:00 +0000</pubDate>
-      <guid>/termsandconditions/bizexhibitb/</guid>
+      <guid>./termsandconditions/bizexhibitb/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>TermsandConditions2</title>
-      <link>/termsandconditions/termsandconditions2/</link>
+      <link>./termsandconditions/termsandconditions2/</link>
       <pubDate>Sat, 01 Apr 2006 05:56:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions2/</guid>
+      <guid>./termsandconditions/termsandconditions2/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>TermsandConditions3</title>
-      <link>/termsandconditions/termsandconditions3/</link>
+      <link>./termsandconditions/termsandconditions3/</link>
       <pubDate>Sat, 01 Apr 2006 05:56:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions3/</guid>
+      <guid>./termsandconditions/termsandconditions3/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>FiniClients</title>
-      <link>/finiclients/</link>
+      <link>./finiclients/</link>
       <pubDate>Tue, 28 Mar 2006 15:40:00 +0000</pubDate>
-      <guid>/finiclients/</guid>
+      <guid>./finiclients/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>FiniLever</title>
-      <link>/finiservices/finilever/</link>
+      <link>./finiservices/finilever/</link>
       <pubDate>Sun, 26 Mar 2006 17:13:00 +0000</pubDate>
-      <guid>/finiservices/finilever/</guid>
+      <guid>./finiservices/finilever/</guid>
       <description>Converted from twiki - v1.3</description>
     </item>
     <item>
       <title>FoundersStatement</title>
-      <link>/foundersstatement/</link>
+      <link>./foundersstatement/</link>
       <pubDate>Sun, 26 Mar 2006 16:07:00 +0000</pubDate>
-      <guid>/foundersstatement/</guid>
+      <guid>./foundersstatement/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>IReserve</title>
-      <link>/finiservices/ireserve/</link>
+      <link>./finiservices/ireserve/</link>
       <pubDate>Wed, 15 Mar 2006 15:44:00 +0000</pubDate>
-      <guid>/finiservices/ireserve/</guid>
+      <guid>./finiservices/ireserve/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
   </channel>
