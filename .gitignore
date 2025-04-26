@@ -40,3 +40,6 @@ go.work.sum
 
 # our hugo run artifact
 /public.prev
+
+# tasks for this repo are in github actions
+/TODO.md
