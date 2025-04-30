@@ -7,27 +7,20 @@ cover.hidden = true
 #tags = []
 +++
 
-<table>
-<tbody>
-<tr>
-<td>Site-level preferences are located in <a
-href="%TWIKIWEB%.%TOPIC%">%TWIKIWEB%.%TOPIC%</a>, however this <a
-href="%MAINWEB%.%TOPIC%">%MAINWEB%.%TOPIC%</a> prefs topic has overrride
+Site-level preferences are located in `%TWIKIWEB%.%TOPIC%`, however this
+`%MAINWEB%.%TOPIC%` prefs topic has overrride
 priority and should be used for local customisations. This allows for
 easier upgrades as you don't need to worry about the shipped preferences
 clobbering yours. It's easier to keep a handle on if you only copy over
-the settings you actually change.</td>
-</tr>
-</tbody>
-</table>
+the settings you actually change.
 
-<span class="twiki-macro EDITPREFERENCES">TWikiPreferencesForm</span>
+## TWikiPreferencesForm
 *(Click for form-based editing of existing preferences.)*
 
 - Web-specific background color: (is overwritten by web preferences)
 - Set WEBBGCOLOR = \#[FFD8AA](FFD8AA "wikilink")
 
-<!-- -->
+--------------------
 
 - [favicon](http://en.wikipedia.org/wiki/Favicon): Attach a
   `favicon.ico` to a web's [WebPreferences](WebPreferences "wikilink")
@@ -36,51 +29,42 @@ the settings you actually change.</td>
 - Set FAVICON =
   %PUBURL%/%TWIKIWEB%/[FiniLogos](FiniLogos "wikilink")/favicon.ico
 
-<!-- -->
+--------------------
 
 - Set TABLEATTRIBUTES = tableborder="0" cellpadding="0" cellspacing="1"
   headerbg="#000099" headercolor="#FFFFCC" databg="#e3e3e3, \#f1f1f1"
 
-<!-- -->
+--------------------
 
 - Set WIKILOGOIMG =
   %PUBURL%/%TWIKIWEB%/[FiniLogos](FiniLogos "wikilink")/fini_logo.jpg
-- Set WIKILOGOURL = <http://fini.net/>
+- Set WIKILOGOURL = http://fini.net/
 - Set WIKILOGOALT = FINI home
 - Set FINI =
-  %NAVY%**FINI**%ENDCOLOR%<span class="twiki-macro IMAGE">Main/WebImages/fini_flag_icon.jpg</span>
+  `%NAVY%**FINI**%ENDCOLOR% IMAGE Main/WebImages/fini_flag_icon.jpg`
 
-<!-- -->
+--------------------
 
 - Warn if `%<nop>INCLUDE{}%` of topic fails: Fail silently if empty or
   `off`. Output warning message (defined in templates/oopsalerts.tmpl)
   if set to `on`. Otherwise output specific text (use `$topic` for
   topic). You can override this in web preferences, or by using a
   `warn="..."` parameter with `%<nop>INCLUDE{}%` :
-- Set INCLUDEWARNING = <span class="twiki-macro RED"></span> ***Note:***
-  <span class="twiki-macro ENDCOLOR"></span> Included topic
-  [$topic]($topic) does not exist yet
+- Set INCLUDEWARNING = ***Note:*** Included topic [$topic]($topic) does not exist yet
 
-<!-- -->
+--------------------
 
 - Vertical size of text edit box: (can be overwritten by user
   preferences)
 - Set EDITBOXHEIGHT = 15
 
-<!-- -->
+--------------------
 
-- Set WIKIWEBLIST =
-  [<span class="twiki-macro MAINWEB"></span>](%MAINWEB%.%HOMETOPIC%)
-  <span class="twiki-macro SEP"></span>
-  [<span class="twiki-macro TWIKIWEB"></span>](%TWIKIWEB%.%HOMETOPIC%)
-  <span class="twiki-macro SEP"></span> [Sandbox](Sandbox.%HOMETOPIC%)
-  <span class="twiki-macro SEP"></span> [College](College.%HOMETOPIC%)
-  <span class="twiki-macro SEP"></span> [Plugins](Plugins.%HOMETOPIC%)
-  <span class="twiki-macro SEP"></span> [Skins](Skins.%HOMETOPIC%)
+- Set WIKIWEBLIST = `MAINWEB,TWIKIWEB,Sandbox,College,Plugins,Skins`
 
-<!-- -->
+--------------------
 
-- Set WIKIWEBMASTER = <wikimaster@fini.net>
+- Set WIKIWEBMASTER = `wikimaster@fini.net`
 - Set SMTPMAILHOST = localhost
 - Set SMTPSENDERHOST = wiki.fini.net
 
@@ -91,7 +75,7 @@ the settings you actually change.</td>
 - Set SKIN = pattern
 - Set SKINSTYLE =
 
-<!-- -->
+--------------------
 
 - ***Note:*** See [TWikiSkinBrowser](TWikiSkinBrowser "wikilink") for
   currently installed skins
@@ -104,22 +88,22 @@ the settings you actually change.</td>
 - Set TWIKISTYLEURL =
   %PUBURL%/%TWIKIWEB%/[PatternSkin](PatternSkin "wikilink")/style.css
 
-<!-- -->
+--------------------
 
-- Users or groups allowed to change or rename this %TOPIC% topic: (ex:
-  <span class="twiki-macro MAINWEB"></span>.[TWikiAdminGroup](TWikiAdminGroup "wikilink"))
+- Users or groups allowed to change or rename this `%TOPIC%` topic: (ex:
+  MAINWEB.[TWikiAdminGroup](TWikiAdminGroup "wikilink"))
 - Set ALLOWTOPICCHANGE =
-  <span class="twiki-macro MAINWEB"></span>.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
+  MAINWEB.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
 - Set ALLOWTOPICRENAME =
-  <span class="twiki-macro MAINWEB"></span>.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
+  MAINWEB.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
 
-<!-- -->
+--------------------
 
 - Users or groups allowed to [create new webs](%TWIKIWEB%.ManagingWebs):
   (ex:
-  <span class="twiki-macro MAINWEB"></span>.[TWikiAdminGroup](TWikiAdminGroup "wikilink"))
+  MAINWEB.[TWikiAdminGroup](TWikiAdminGroup "wikilink"))
 - Set ALLOWWEBMANAGE =
-  <span class="twiki-macro MAINWEB"></span>.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
+  MAINWEB.[TWikiAdminGroup](TWikiAdminGroup "wikilink")
 
 ## Preferences Control Settings
 
@@ -129,7 +113,7 @@ the settings you actually change.</td>
   preferences will override topic preferences.
 - Set READTOPICPREFS = on
 
-<!-- -->
+--------------------
 
 - Topic level overrides user level preferences, on or off: If set to
   `on`, topic preferences will override user preferences. The user can
@@ -137,16 +121,16 @@ the settings you actually change.</td>
   in his or her user topic.
 - Set TOPICOVERRIDESUSER = off
 
-<!-- -->
+--------------------
 
 - Site-level preferences that are **not** allowed to be overridden by
-  %WEB
+  `%WEB`
 
-<!-- -->
+--------------------
 
 - `FINALPREFERENCES` locks site-level preferences that are **not**
   allowed to be overridden by
-  <span class="twiki-macro WEBPREFSTOPIC"></span> or user preferences:
+  `WEBPREFSTOPIC` or user preferences:
 - Set FINALPREFERENCES = ATTACHFILESIZELIMIT, PREVIEWBGIMAGE,
   WIKITOOLNAME, WIKIWEBMASTER, SMTPMAILHOST, SMTPSENDERHOST,
   ALLOWWEBMANAGE, PROXYHOST, PROXYPORT

@@ -99,8 +99,8 @@
   "keywords": [
     
   ],
-  "articleBody": " TWikiPreferencesForm (Click for form-based editing of existing preferences.)\nWeb-specific background color: (is overwritten by web preferences) Set WEBBGCOLOR = #FFD8AA favicon: Attach a favicon.ico to a web’s WebPreferences or add a FAVICON setting to WebPreferences Set FAVICON = %PUBURL%/%TWIKIWEB%/FiniLogos/favicon.ico Set TABLEATTRIBUTES = tableborder=“0” cellpadding=“0” cellspacing=“1” headerbg=\"#000099\" headercolor=\"#FFFFCC\" databg=\"#e3e3e3, #f1f1f1\" Set WIKILOGOIMG = %PUBURL%/%TWIKIWEB%/FiniLogos/fini_logo.jpg Set WIKILOGOURL = http://fini.net/ Set WIKILOGOALT = FINI home Set FINI = %NAVY%FINI%ENDCOLOR%Main/WebImages/fini_flag_icon.jpg Warn if %INCLUDE{}% of topic fails: Fail silently if empty or off. Output warning message (defined in templates/oopsalerts.tmpl) if set to on. Otherwise output specific text (use $topic for topic). You can override this in web preferences, or by using a warn=\"...\" parameter with %INCLUDE{}% : Set INCLUDEWARNING = Note: Included topic $topic does not exist yet Vertical size of text edit box: (can be overwritten by user preferences) Set EDITBOXHEIGHT = 15 Set WIKIWEBLIST = Sandbox College Plugins Skins Set WIKIWEBMASTER = wikimaster@fini.net Set SMTPMAILHOST = localhost Set SMTPSENDERHOST = wiki.fini.net Skin Settings Skin overriding the default TWiki templates: (can be overwritten by WebPreferences and user preferences) Set SKIN = pattern Set SKINSTYLE = Note: See TWikiSkinBrowser for currently installed skins CynSkin Using attachments for styles: Set TWIKILAYOUTURL = %PUBURL%/%TWIKIWEB%/PatternSkin/layout.css Set TWIKISTYLEURL = %PUBURL%/%TWIKIWEB%/PatternSkin/style.css Users or groups allowed to change or rename this %TOPIC% topic: (ex: .TWikiAdminGroup) Set ALLOWTOPICCHANGE = .TWikiAdminGroup Set ALLOWTOPICRENAME = .TWikiAdminGroup Users or groups allowed to create new webs: (ex: .TWikiAdminGroup) Set ALLOWWEBMANAGE = .TWikiAdminGroup Preferences Control Settings Allow topic level preferences, on or off: If set to on, topic preferences will be read, and will override any web- or site-level preferences not set as FINALPREFERENCES. By default, user preferences will override topic preferences. Set READTOPICPREFS = on Topic level overrides user level preferences, on or off: If set to on, topic preferences will override user preferences. The user can in turn override this behavior by setting further FINALPREFERENCES in his or her user topic. Set TOPICOVERRIDESUSER = off Site-level preferences that are not allowed to be overridden by %WEB FINALPREFERENCES locks site-level preferences that are not allowed to be overridden by or user preferences: Set FINALPREFERENCES = ATTACHFILESIZELIMIT, PREVIEWBGIMAGE, WIKITOOLNAME, WIKIWEBMASTER, SMTPMAILHOST, SMTPSENDERHOST, ALLOWWEBMANAGE, PROXYHOST, PROXYPORT ",
-  "wordCount" : "358",
+  "articleBody": "Site-level preferences are located in %TWIKIWEB%.%TOPIC%, however this %MAINWEB%.%TOPIC% prefs topic has overrride priority and should be used for local customisations. This allows for easier upgrades as you don’t need to worry about the shipped preferences clobbering yours. It’s easier to keep a handle on if you only copy over the settings you actually change.\nTWikiPreferencesForm (Click for form-based editing of existing preferences.)\nWeb-specific background color: (is overwritten by web preferences) Set WEBBGCOLOR = #FFD8AA favicon: Attach a favicon.ico to a web’s WebPreferences or add a FAVICON setting to WebPreferences Set FAVICON = %PUBURL%/%TWIKIWEB%/FiniLogos/favicon.ico Set TABLEATTRIBUTES = tableborder=“0” cellpadding=“0” cellspacing=“1” headerbg=\"#000099\" headercolor=\"#FFFFCC\" databg=\"#e3e3e3, #f1f1f1\" Set WIKILOGOIMG = %PUBURL%/%TWIKIWEB%/FiniLogos/fini_logo.jpg Set WIKILOGOURL = http://fini.net/ Set WIKILOGOALT = FINI home Set FINI = %NAVY%**FINI**%ENDCOLOR% IMAGE Main/WebImages/fini_flag_icon.jpg Warn if %INCLUDE{}% of topic fails: Fail silently if empty or off. Output warning message (defined in templates/oopsalerts.tmpl) if set to on. Otherwise output specific text (use $topic for topic). You can override this in web preferences, or by using a warn=\"...\" parameter with %INCLUDE{}% : Set INCLUDEWARNING = Note: Included topic $topic does not exist yet Vertical size of text edit box: (can be overwritten by user preferences) Set EDITBOXHEIGHT = 15 Set WIKIWEBLIST = MAINWEB,TWIKIWEB,Sandbox,College,Plugins,Skins Set WIKIWEBMASTER = wikimaster@fini.net Set SMTPMAILHOST = localhost Set SMTPSENDERHOST = wiki.fini.net Skin Settings Skin overriding the default TWiki templates: (can be overwritten by WebPreferences and user preferences) Set SKIN = pattern Set SKINSTYLE = Note: See TWikiSkinBrowser for currently installed skins CynSkin Using attachments for styles: Set TWIKILAYOUTURL = %PUBURL%/%TWIKIWEB%/PatternSkin/layout.css Set TWIKISTYLEURL = %PUBURL%/%TWIKIWEB%/PatternSkin/style.css Users or groups allowed to change or rename this %TOPIC% topic: (ex: MAINWEB.TWikiAdminGroup) Set ALLOWTOPICCHANGE = MAINWEB.TWikiAdminGroup Set ALLOWTOPICRENAME = MAINWEB.TWikiAdminGroup Users or groups allowed to create new webs: (ex: MAINWEB.TWikiAdminGroup) Set ALLOWWEBMANAGE = MAINWEB.TWikiAdminGroup Preferences Control Settings Allow topic level preferences, on or off: If set to on, topic preferences will be read, and will override any web- or site-level preferences not set as FINALPREFERENCES. By default, user preferences will override topic preferences. Set READTOPICPREFS = on Topic level overrides user level preferences, on or off: If set to on, topic preferences will override user preferences. The user can in turn override this behavior by setting further FINALPREFERENCES in his or her user topic. Set TOPICOVERRIDESUSER = off Site-level preferences that are not allowed to be overridden by %WEB FINALPREFERENCES locks site-level preferences that are not allowed to be overridden by WEBPREFSTOPIC or user preferences: Set FINALPREFERENCES = ATTACHFILESIZELIMIT, PREVIEWBGIMAGE, WIKITOOLNAME, WIKIWEBMASTER, SMTPMAILHOST, SMTPSENDERHOST, ALLOWWEBMANAGE, PROXYHOST, PROXYPORT ",
+  "wordCount" : "413",
   "inLanguage": "en",
   "datePublished": "2007-09-28T13:13:00Z",
   "dateModified": "2007-09-28T13:13:00Z",
@@ -198,18 +198,23 @@
     <div class="post-description">
       Converted from twiki - v1.7
     </div>
-    <div class="post-meta"><span title='2007-09-28 13:13:00 +0000 UTC'>September 28, 2007</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;358 words&nbsp;·&nbsp;Christopher Hicks
+    <div class="post-meta"><span title='2007-09-28 13:13:00 +0000 UTC'>September 28, 2007</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;413 words&nbsp;·&nbsp;Christopher Hicks
 
 </div>
   </header> 
-  <div class="post-content"><!-- raw HTML omitted -->
-<p><!-- raw HTML omitted -->TWikiPreferencesForm<!-- raw HTML omitted -->
-<em>(Click for form-based editing of existing preferences.)</em></p>
+  <div class="post-content"><p>Site-level preferences are located in <code>%TWIKIWEB%.%TOPIC%</code>, however this
+<code>%MAINWEB%.%TOPIC%</code> prefs topic has overrride
+priority and should be used for local customisations. This allows for
+easier upgrades as you don&rsquo;t need to worry about the shipped preferences
+clobbering yours. It&rsquo;s easier to keep a handle on if you only copy over
+the settings you actually change.</p>
+<h2 id="twikipreferencesform">TWikiPreferencesForm<a hidden class="anchor" aria-hidden="true" href="#twikipreferencesform">#</a></h2>
+<p><em>(Click for form-based editing of existing preferences.)</em></p>
 <ul>
 <li>Web-specific background color: (is overwritten by web preferences)</li>
 <li>Set WEBBGCOLOR = #<a href="FFD8AA" title="wikilink">FFD8AA</a></li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Favicon">favicon</a>: Attach a
 <code>favicon.ico</code> to a web&rsquo;s <a href="WebPreferences" title="wikilink">WebPreferences</a>
@@ -218,51 +223,42 @@ or add a <code>FAVICON</code> setting to
 <li>Set FAVICON =
 %PUBURL%/%TWIKIWEB%/<a href="FiniLogos" title="wikilink">FiniLogos</a>/favicon.ico</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Set TABLEATTRIBUTES = tableborder=&ldquo;0&rdquo; cellpadding=&ldquo;0&rdquo; cellspacing=&ldquo;1&rdquo;
 headerbg=&quot;#000099&quot; headercolor=&quot;#FFFFCC&quot; databg=&quot;#e3e3e3, #f1f1f1&quot;</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Set WIKILOGOIMG =
 %PUBURL%/%TWIKIWEB%/<a href="FiniLogos" title="wikilink">FiniLogos</a>/fini_logo.jpg</li>
 <li>Set WIKILOGOURL = <a href="http://fini.net/">http://fini.net/</a></li>
 <li>Set WIKILOGOALT = FINI home</li>
 <li>Set FINI =
-%NAVY%<strong>FINI</strong>%ENDCOLOR%<!-- raw HTML omitted -->Main/WebImages/fini_flag_icon.jpg<!-- raw HTML omitted --></li>
+<code>%NAVY%**FINI**%ENDCOLOR% IMAGE Main/WebImages/fini_flag_icon.jpg</code></li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Warn if <code>%&lt;nop&gt;INCLUDE{}%</code> of topic fails: Fail silently if empty or
 <code>off</code>. Output warning message (defined in templates/oopsalerts.tmpl)
 if set to <code>on</code>. Otherwise output specific text (use <code>$topic</code> for
 topic). You can override this in web preferences, or by using a
 <code>warn=&quot;...&quot;</code> parameter with <code>%&lt;nop&gt;INCLUDE{}%</code> :</li>
-<li>Set INCLUDEWARNING = <!-- raw HTML omitted --><!-- raw HTML omitted --> <em><strong>Note:</strong></em>
-<!-- raw HTML omitted --><!-- raw HTML omitted --> Included topic
-<a href="$topic">$topic</a> does not exist yet</li>
+<li>Set INCLUDEWARNING = <em><strong>Note:</strong></em> Included topic <a href="$topic">$topic</a> does not exist yet</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Vertical size of text edit box: (can be overwritten by user
 preferences)</li>
 <li>Set EDITBOXHEIGHT = 15</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
-<li>Set WIKIWEBLIST =
-<a href="%25MAINWEB%25.%25HOMETOPIC%25"><!-- raw HTML omitted --><!-- raw HTML omitted --></a>
-<!-- raw HTML omitted --><!-- raw HTML omitted -->
-<a href="%25TWIKIWEB%25.%25HOMETOPIC%25"><!-- raw HTML omitted --><!-- raw HTML omitted --></a>
-<!-- raw HTML omitted --><!-- raw HTML omitted --> <a href="Sandbox.%25HOMETOPIC%25">Sandbox</a>
-<!-- raw HTML omitted --><!-- raw HTML omitted --> <a href="College.%25HOMETOPIC%25">College</a>
-<!-- raw HTML omitted --><!-- raw HTML omitted --> <a href="Plugins.%25HOMETOPIC%25">Plugins</a>
-<!-- raw HTML omitted --><!-- raw HTML omitted --> <a href="Skins.%25HOMETOPIC%25">Skins</a></li>
+<li>Set WIKIWEBLIST = <code>MAINWEB,TWIKIWEB,Sandbox,College,Plugins,Skins</code></li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
-<li>Set WIKIWEBMASTER = <a href="mailto:wikimaster@fini.net">wikimaster@fini.net</a></li>
+<li>Set WIKIWEBMASTER = <code>wikimaster@fini.net</code></li>
 <li>Set SMTPMAILHOST = localhost</li>
 <li>Set SMTPSENDERHOST = wiki.fini.net</li>
 </ul>
@@ -273,7 +269,7 @@ preferences)</li>
 <li>Set SKIN = pattern</li>
 <li>Set SKINSTYLE =</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li><em><strong>Note:</strong></em> See <a href="TWikiSkinBrowser" title="wikilink">TWikiSkinBrowser</a> for
 currently installed skins</li>
@@ -286,22 +282,22 @@ currently installed skins</li>
 <li>Set TWIKISTYLEURL =
 %PUBURL%/%TWIKIWEB%/<a href="PatternSkin" title="wikilink">PatternSkin</a>/style.css</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
-<li>Users or groups allowed to change or rename this %TOPIC% topic: (ex:
-<!-- raw HTML omitted --><!-- raw HTML omitted -->.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a>)</li>
+<li>Users or groups allowed to change or rename this <code>%TOPIC%</code> topic: (ex:
+MAINWEB.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a>)</li>
 <li>Set ALLOWTOPICCHANGE =
-<!-- raw HTML omitted --><!-- raw HTML omitted -->.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
+MAINWEB.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
 <li>Set ALLOWTOPICRENAME =
-<!-- raw HTML omitted --><!-- raw HTML omitted -->.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
+MAINWEB.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Users or groups allowed to <a href="%25TWIKIWEB%25.ManagingWebs">create new webs</a>:
 (ex:
-<!-- raw HTML omitted --><!-- raw HTML omitted -->.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a>)</li>
+MAINWEB.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a>)</li>
 <li>Set ALLOWWEBMANAGE =
-<!-- raw HTML omitted --><!-- raw HTML omitted -->.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
+MAINWEB.<a href="TWikiAdminGroup" title="wikilink">TWikiAdminGroup</a></li>
 </ul>
 <h2 id="preferences-control-settings">Preferences Control Settings<a hidden class="anchor" aria-hidden="true" href="#preferences-control-settings">#</a></h2>
 <ul>
@@ -311,7 +307,7 @@ preferences not set as <code>FINALPREFERENCES</code>. By default, user
 preferences will override topic preferences.</li>
 <li>Set READTOPICPREFS = on</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Topic level overrides user level preferences, on or off: If set to
 <code>on</code>, topic preferences will override user preferences. The user can
@@ -319,16 +315,16 @@ in turn override this behavior by setting further <code>FINALPREFERENCES</code>
 in his or her user topic.</li>
 <li>Set TOPICOVERRIDESUSER = off</li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li>Site-level preferences that are <strong>not</strong> allowed to be overridden by
-%WEB</li>
+<code>%WEB</code></li>
 </ul>
-<!-- raw HTML omitted -->
+<hr>
 <ul>
 <li><code>FINALPREFERENCES</code> locks site-level preferences that are <strong>not</strong>
 allowed to be overridden by
-<!-- raw HTML omitted --><!-- raw HTML omitted --> or user preferences:</li>
+<code>WEBPREFSTOPIC</code> or user preferences:</li>
 <li>Set FINALPREFERENCES = ATTACHFILESIZELIMIT, PREVIEWBGIMAGE,
 WIKITOOLNAME, WIKIWEBMASTER, SMTPMAILHOST, SMTPSENDERHOST,
 ALLOWWEBMANAGE, PROXYHOST, PROXYPORT</li>
