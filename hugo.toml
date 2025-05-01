@@ -1,6 +1,4 @@
-#baseURL = '/'
-# test for github pages which might need to get backed out before we got to prod
-baseURL = '.'
+baseURL = '/'
 
 # maybe, see https://discourse.gohugo.io/t/viewing-a-site-without-a-server/35825
 #uglyURLs = true
@@ -43,8 +41,8 @@ theme_color = "#a903fc"
 enabled = true
 title = "FINI"
 subtitle = "consulting services"
-imageUrl = "/chicks/chicks_wedding01.jpg"
-imageTitle = "Wedding picture of Christopher Hicks by Julie"
+imageUrl = "/servers-2010-08-03_18.37.59.jpg"
+imageTitle = "Servers that chicks was working on in 2010."
 imageWidth = 716
 imageHeight = 724
 
@@ -54,7 +52,7 @@ url = "/FiniServices"
 
 [[params.profileMode.buttons]]
 name = "Blog"
-url = "/posts"
+url = "/EdgeReports"
 
 [[params.profileMode.buttons]]
 name = "Terms"
@@ -69,7 +67,7 @@ weight = 10
 [[menu.main]]
 identifier = "posts"
 name = "Blog"
-url = "/posts"
+url = "/EdgeReports"
 weight = 20
 
 [[menu.main]]
