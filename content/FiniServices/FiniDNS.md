@@ -1,6 +1,6 @@
 +++
 title = 'FiniDNS'
-date = 2025-05-10T00:00:00+00:00
+date = 2025-05-09T00:00:00+00:00
 draft = false
 description = 'Your Global, Reliable DNS Solution'
 cover.hidden = true
