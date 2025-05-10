@@ -1,8 +1,8 @@
 +++
-title = 'IReserve'
-date = 2006-03-15T15:44:00+00:00
+title = 'iReserve'
+date = 2025-05-09T21:17:00+00:00
 draft = false
-description = 'Converted from twiki - v1.1'
+description = 'FINI insurance claims management solution'
 cover.hidden = true
 #tags = []
 +++
@@ -15,8 +15,8 @@ insurance, information technology and human-computer interfacing experts
 to build a system which works the way you want it to, not the way it
 wants you to.
 
-By using industry standard browsers (Internet Explorer, Netscape, and
-Mozilla) and Adobe Acrobat to access iReserve, little or no software
+By using industry standard web browsers
+and PDF technology to access iReserve, no software
 installation is required on your computer. This also means that the same
 set of information can be viewed, manipulated, and analyzed by many
 users simultaneously regardless of geography, Internet connection speed,
@@ -44,7 +44,7 @@ Visit the [iReserve Website](http://www.ireserve.info/).
   - Time Stamped
   - Attach documents (including scans and images)
 - Customized Reporting
-  - Microsoft Excel (.xls) and Adobe Acrobat (.pdf)
+  - Microsoft Excel (`.xls`) and Adobe Acrobat (`.pdf`)
   - User Defined Sorting and Cross Referencing
   - Lag-time studies
 - Reserve Tracking
@@ -53,5 +53,5 @@ Visit the [iReserve Website](http://www.ireserve.info/).
 - Customized Claim and Loss Prevention Coding
 - Real-time access
 - Master File support for managing multiple entities
-- Secure 128 bit encryption
+- Industry-standard SSL encryption.
 - Multi-Level User Access

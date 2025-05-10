@@ -6,8 +6,29 @@
     <description>Recent content on Flamingo Internet Navigators (FINI)</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 21:17:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iReserve</title>
+      <link>/finiservices/ireserve/</link>
+      <pubDate>Fri, 09 May 2025 21:17:00 +0000</pubDate>
+      <guid>/finiservices/ireserve/</guid>
+      <description>FINI insurance claims management solution</description>
+    </item>
+    <item>
+      <title>Cross Platform Applications</title>
+      <link>/finiservices/crossplatform/</link>
+      <pubDate>Fri, 09 May 2025 21:10:00 +0000</pubDate>
+      <guid>/finiservices/crossplatform/</guid>
+      <description>Cross platform applications avoid vendor lock-in</description>
+    </item>
+    <item>
+      <title>Database Analysis</title>
+      <link>/finiservices/databaseanalysis/</link>
+      <pubDate>Fri, 09 May 2025 21:00:00 +0000</pubDate>
+      <guid>/finiservices/databaseanalysis/</guid>
+      <description>Providing comprehensive database analysis for both relational and NoSQL databases.</description>
+    </item>
     <item>
       <title>FiniDNS</title>
       <link>/finiservices/finidns/</link>
@@ -20,7 +41,7 @@
       <link>/finiservices/applicationdevelopment/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/finiservices/applicationdevelopment/</guid>
-      <description>Converted from twiki - v1.8</description>
+      <description>Application Development by FINI</description>
     </item>
     <item>
       <title>ChristopherHicks</title>
@@ -30,25 +51,25 @@
       <description>Converted from twiki - v1.14</description>
     </item>
     <item>
-      <title>SystemsAnalysis</title>
+      <title>Systems Analysis</title>
       <link>/finiservices/systemsanalysis/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
       <guid>/finiservices/systemsanalysis/</guid>
-      <description>Converted from twiki - v1.5</description>
+      <description>Systems Analysis is part of how we can solve big problems.</description>
     </item>
     <item>
-      <title>TrainingClasses</title>
+      <title>Training Classes</title>
       <link>/finiservices/trainingclasses/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
       <guid>/finiservices/trainingclasses/</guid>
-      <description>Converted from twiki - v1.3</description>
+      <description>Learning from folks with hands-on experience is a great way to get ahead.</description>
     </item>
     <item>
-      <title>DatabaseAnalysis</title>
-      <link>/finiservices/databaseanalysis/</link>
-      <pubDate>Tue, 23 Feb 2010 17:55:00 +0000</pubDate>
-      <guid>/finiservices/databaseanalysis/</guid>
-      <description>Converted from twiki - v1.3</description>
+      <title>Systems Administration</title>
+      <link>/finiservices/systemadministration/</link>
+      <pubDate>Fri, 10 May 2024 05:06:00 +0000</pubDate>
+      <guid>/finiservices/systemadministration/</guid>
+      <description>Experienced sysadmins are available to solve your issue.</description>
     </item>
     <item>
       <title>TermsandConditions4</title>
@@ -58,11 +79,11 @@
       <description>Converted from twiki - v1.6</description>
     </item>
     <item>
-      <title>HostingServices</title>
+      <title>Hosting Services</title>
       <link>/finiservices/hostingservices/</link>
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
       <guid>/finiservices/hostingservices/</guid>
-      <description>Converted from twiki - v1.6</description>
+      <description>FINI has been hosting sites and services on the Internet for 30 years</description>
     </item>
     <item>
       <title>WebHome</title>
@@ -86,25 +107,11 @@
       <description>Converted from twiki - v1.7</description>
     </item>
     <item>
-      <title>FiniCommerce</title>
-      <link>/finiservices/finicommerce/</link>
-      <pubDate>Sat, 07 Oct 2006 20:10:00 +0000</pubDate>
-      <guid>/finiservices/finicommerce/</guid>
-      <description>Converted from twiki - v1.4</description>
-    </item>
-    <item>
       <title>StandardsReport</title>
       <link>/edgereports/standardsreport/</link>
       <pubDate>Sat, 07 Oct 2006 19:51:00 +0000</pubDate>
       <guid>/edgereports/standardsreport/</guid>
       <description>Converted from twiki - v1.5</description>
-    </item>
-    <item>
-      <title>SystemAdministration</title>
-      <link>/finiservices/systemadministration/</link>
-      <pubDate>Sat, 29 Jul 2006 14:11:00 +0000</pubDate>
-      <guid>/finiservices/systemadministration/</guid>
-      <description>Converted from twiki - v1.3</description>
     </item>
     <item>
       <title>Linux... changing the face of computing.</title>
@@ -121,18 +128,18 @@
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
-      <title>OthersSay</title>
-      <link>/otherssay/</link>
+      <title>Consulting Services</title>
+      <link>/finiservices/consulting/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>/otherssay/</guid>
-      <description>Converted from twiki - v1.2</description>
+      <guid>/finiservices/consulting/</guid>
+      <description>FINI can help you make better use of technology.</description>
     </item>
     <item>
-      <title>CrossPlatform</title>
-      <link>/finiservices/crossplatform/</link>
-      <pubDate>Sat, 29 Jul 2006 14:02:00 +0000</pubDate>
-      <guid>/finiservices/crossplatform/</guid>
-      <description>Converted from twiki - v1.2</description>
+      <title>Others Say</title>
+      <link>/finiservices/otherssay/</link>
+      <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
+      <guid>/finiservices/otherssay/</guid>
+      <description>Perspective from others in the industry</description>
     </item>
     <item>
       <title>RoavingFlamingians</title>
@@ -191,24 +198,10 @@
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
-      <title>FiniLever</title>
-      <link>/finiservices/finilever/</link>
-      <pubDate>Sun, 26 Mar 2006 17:13:00 +0000</pubDate>
-      <guid>/finiservices/finilever/</guid>
-      <description>Converted from twiki - v1.3</description>
-    </item>
-    <item>
       <title>FoundersStatement</title>
       <link>/foundersstatement/</link>
       <pubDate>Sun, 26 Mar 2006 16:07:00 +0000</pubDate>
       <guid>/foundersstatement/</guid>
-      <description>Converted from twiki - v1.1</description>
-    </item>
-    <item>
-      <title>IReserve</title>
-      <link>/finiservices/ireserve/</link>
-      <pubDate>Wed, 15 Mar 2006 15:44:00 +0000</pubDate>
-      <guid>/finiservices/ireserve/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
   </channel>
