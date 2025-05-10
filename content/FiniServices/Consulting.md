@@ -48,5 +48,4 @@ following industries:
 In conjunction with our consulting services FINI offers onsite and
 offsite [training classes](TrainingClasses).
 
-
-[Contact us](http://mailto:info@fini.net) today for references.
+TODO: insert new customer page

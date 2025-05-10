@@ -38,4 +38,3 @@ identify inefficiencies, and gain actionable insights from their data.
 | Data Migration Services | Planning and execution of data migration from one database system to another. |
 | Monitoring and Reporting | Setup of performance monitoring tools and delivery of regular performance reports. |
 | Training and Consultation | Workshops and personalized consulting on best practices for database management and optimization. |
-
