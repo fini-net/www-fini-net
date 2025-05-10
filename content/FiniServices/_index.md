@@ -9,17 +9,17 @@ cover.hidden = true
 
 ## FINI Hosting
 
-* [Hosting Services](HostingServices/)
-* [FiniDNS](FiniDNS/)
-* [iReserve](IReserve/)
+- [Hosting Services](HostingServices/)
+- [FiniDNS](FiniDNS/)
+- [iReserve](IReserve/)
 
 ## FINI Consulting
 
-* [Technology Consulting](Consulting/)
-* [Database Analysis](DatabaseAnalysis/)
-* [Systems Analysis](SystemsAnalysis/)
-* [Systems Administration](SystemAdministration/)
-* [Cross Platform](CrossPlatform/) [Application Development](ApplicationDevelopment/)
+- [Technology Consulting](Consulting/)
+- [Database Analysis](DatabaseAnalysis/)
+- [Systems Analysis](SystemsAnalysis/)
+- [Systems Administration](SystemAdministration/)
+- [Cross Platform](CrossPlatform/) [Application Development](ApplicationDevelopment/)
 
 ## FINI Training
 

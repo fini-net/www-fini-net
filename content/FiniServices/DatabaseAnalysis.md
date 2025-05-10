@@ -12,7 +12,7 @@ cover.hidden = true
 **Target Audience:** Businesses seeking to optimize database performance,
 identify inefficiencies, and gain actionable insights from their data.
 
-### Services:
+### Services
 
 - **Data Modeling and Schema Design:** Develop efficient database schemas for new and existing systems, for both relational and NoSQL architectures.  
 - **Query Optimization:** Fine-tune queries for faster execution and resource efficiency.  
@@ -21,7 +21,7 @@ identify inefficiencies, and gain actionable insights from their data.
 - **Performance Monitoring and Reporting:** Set up monitoring systems and provide regular reports on database performance metrics.  
 - **NoSQL Database Expertise:** Specialized analysis and optimization for ScyllaDB, Cassandra, and other NoSQL databases.
 
-### Value Proposition:
+### Value Proposition
 
 - Improve database performance and responsiveness.  
 - Reduce operational costs by optimizing resource utilization.  
