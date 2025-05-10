@@ -2,7 +2,7 @@
 title = 'Application Development'
 date = 2025-04-08
 draft = false
-description = 'Converted from twiki - v1.8'
+description = 'Application Development by FINI'
 cover.hidden = true
 #tags = []
 +++
@@ -41,7 +41,6 @@ games and applications that crash and take forever to load." Yep, we
 have too. But those aren't PIES.
 
 PIES are written totally in [Perl](http://www.perl.com/),
-[JavaScript](http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Guide),
 [MySQL](http://www.mysql.com/), and our own web database engine,
 FINIcase! PIES run on Linux. Combining these technologies can open the
 door to significant time and resource savings, not only internally,
@@ -89,4 +88,4 @@ Go ahead, break free of the monopoly and contact us to start benefiting
 from PIES technology today.
 
 If we can't convince you of the viability of PIES take a look at what
-[others are saying](OthersSay) about this new technology.
+[others are saying](../OthersSay/) about this new technology.

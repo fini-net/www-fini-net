@@ -1,13 +1,11 @@
 +++
-title = 'CrossPlatform'
-date = 2006-07-29T14:02:00+00:00
+title = 'Cross Platform Applications'
+date = 2025-05-09T21:10:00+00:00
 draft = false
-description = 'Converted from twiki - v1.2'
+description = 'Cross platform applications avoid vendor lock-in'
 cover.hidden = true
 #tags = []
 +++
-
-### Cross Platform Applications
 
 A cross-platform (or platform independent) software application works on
 more than one system platform (e.g. Linux, Macintosh and Windows).
@@ -44,10 +42,10 @@ engineered to allow integration (remember, they are engineered to
 maximize the software companies revenue, not yours).
 
 In fact, Microsoft Operating Systems and the proprietary software that
-runs on them are engineered for obsolescents. This means that you have
+runs on them are engineered for obsolescence. This means that you have
 to keep upgrading (buying ever newer versions) because the olders
-versions are no longer supported. Microsoft's Windows 98 and 2000, while
-wildly popular and widely deployed, are no longer supported by
+versions are no longer supported. Microsoft's Windows 2000, while
+wildly popular and widely deployed, is no longer supported by
 Microsoft.
 
 This ensures Microsoft and the like, repeating revenue from licensing as

@@ -1,15 +1,15 @@
 +++
-title = 'SystemAdministration'
-date = 2006-07-29T14:11:00+00:00
+title = 'Systems Administration'
+date = 2024-05-10T05:06:00+00:00
 draft = false
-description = 'Converted from twiki - v1.3'
+description = 'Experienced sysadmins are available to solve your issue.'
 cover.hidden = true
 #tags = []
 +++
 
-### System Administration
+## Systems Administration
 
-FINI can provide in-house or remote systems administration.
+FINI can provide remote systems administration.
 
 System administration services include:
 
