@@ -41,10 +41,12 @@ justresync:
         local fileDays
         fileDays=$(fileAgeDays .cache/justfile)
     
+        echo "{{BLUE}}.cache/justfile is $fileDays days old{{NORMAL}}"
+
         if (( fileDays > 10 )); then
             just justsync
         else
-            echo ".cache/justfile is new enough that we didn't download a new one"
+            echo "{{GREEN}}.cache/justfile is new enough that we didn't download a new one{{NORMAL}}"
         fi
     }
     
