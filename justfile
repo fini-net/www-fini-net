@@ -8,6 +8,7 @@ local_list:
 # sync justfile from www-chicks-net
 [group('Local_Sync')]
 justsync:
+    @echo "{{MAGENTA}}syncing .cache/justfile{{NORMAL}}"
     curl --create-dirs -o .cache/justfile https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/justfile
 
 # download justfile again if older than 10 days
