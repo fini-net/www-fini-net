@@ -4,12 +4,9 @@ date = 2006-07-29T14:05:00+00:00
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true
-#tags = ['edge-reports']
+author = "Christopher Hicks"
+tags = ['edge-reports','linux','free-software']
 +++
-
-### Linux... changing the face of computing
-
-By: Christopher Hicks
 
 Are you frustrated by your computer? Whether you're a first time user or
 a mainframe assembler hacker, the answer is almost definitely yes.

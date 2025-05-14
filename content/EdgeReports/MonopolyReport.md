@@ -1,17 +1,12 @@
 +++
-title = 'MonopolyReport'
+title = 'Microsoft Is A Monopoly'
 date = 2006-07-29T14:05:00+00:00
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true
-#tags = []
+author = "Christopher Hicks"
+tags = ["edge-report","free-software"]
 +++
-
-%META:TOPICPARENT{name="[EdgeReports](EdgeReports "wikilink")"}%
-
-### Microsoft Is A Monopoly
-
-By: Christopher Hicks
 
 Microsoft may be a Monopoly, but being a commercial software vendor is
 far worse. Do you hate Microsoft? Do you love Linux? Do you hate AOL? Do
@@ -37,10 +32,10 @@ can't get his nightly faxes out to his clients because his fax software
 hangs. It doesn't work for the mother who can't type letter without her
 computer crashing.
 
-This technology is becoming part of everyone's life. In the
-industrialized world, it is thoroughly entrenched in most people's life.
-These real people and businesses matter. It is worth building computers
-and software not just good enough, but well.
+This technology is becoming part of everyone's life. In the industrialized
+world, it is thoroughly entrenched in most people's life.  These real people
+and businesses matter. It is worth building computers and software not just
+good enough, but well.
 
 I hope that all that can help you see why U.S. District Judge Thomas
 Penfield Jackson's Findings of Fact from Friday matters to me. Someone
