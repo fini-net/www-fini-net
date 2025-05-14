@@ -49,20 +49,20 @@ standards established by the [W3C](W3C "wikilink") for the core
 technologies that constitute the World Wide Web:
 
 - Structural Languages
-    - [HTML 4.01](http://www.w3.org/TR/html4/)
-    - [XML 1.0](http://www.w3.org/TR/2000/REC-xml-20001006)
+  - [HTML 4.01](http://www.w3.org/TR/html4/)
+  - [XML 1.0](http://www.w3.org/TR/2000/REC-xml-20001006)
 
 - Presentation Languages
-    - [Cascading Style Sheets 1](http://www.w3.org/TR/REC-CSS1)
-    - [Cascading Style Sheets 2](http://www.w3.org/TR/REC-CSS2)
-    - [XSL (under development)](http://www.w3.org/TR/xsl/)
+  - [Cascading Style Sheets 1](http://www.w3.org/TR/REC-CSS1)
+  - [Cascading Style Sheets 2](http://www.w3.org/TR/REC-CSS2)
+  - [XSL (under development)](http://www.w3.org/TR/xsl/)
 
 - Object Models
-    - [Document Object Model 1 Core HTML/XML](http://www.w3.org/DOM/)
+  - [Document Object Model 1 Core HTML/XML](http://www.w3.org/DOM/)
 
 - Scripting
-    - [ECMAScript](http://www.ecma.ch/ecma1/STAND/ecma-262.htm) (the "official" version of JavaScript)
-    - [Mozilla Developer Documentation](http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference)
+  - [ECMAScript](http://www.ecma.ch/ecma1/STAND/ecma-262.htm) (the "official" version of JavaScript)
+  - [Mozilla Developer Documentation](http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference)
 
 ... as well as emerging standards, such as those for television-based
 and PDA-based browsers.
