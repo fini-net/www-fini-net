@@ -1,0 +1,20 @@
+# www-fini-net/.fini/redir.toml
+
+[rule.user_sites]
+apache_verb = "RedirectMatch"
+regex = "^/~(.*)$"
+replace = "https://users.fini.net/~$1"
+
+[apache_config]
+#line1 = "       RedirectMatch ^/$ https://www.fini.net/v/"
+line2 = "       RedirectMatch ^/~(.*)$ https://users.fini.net/~$1"
+
+# http remnants
+#        RedirectMatch ^/$ http://www.fini.net/v/
+#        RedirectMatch ^/$ http://www.fini.net/bin/view/
+#        RedirectMatch ^/~(.*)$ http://users.fini.net/~$1
+
+# foswiki remnants
+#        ScriptAlias /v/ "/www/sys/foswiki/bin/view/"
+#       ScriptAlias /bin/ "/www/sys/foswiki/bin/"
+#       Alias / "/www/sys/foswiki/"
