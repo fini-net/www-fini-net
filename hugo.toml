@@ -82,6 +82,12 @@ name = "Archive"
 url = "/archive"
 weight = 80
 
+[[menu.main]]
+identifier = "status"
+name = "Status"
+url = "https://status.fini.net"
+weight = 90
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/fini-net"
