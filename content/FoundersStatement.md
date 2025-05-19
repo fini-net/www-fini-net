@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[RoavingFlamingians](RoavingFlamingians "wikilink")"}%
-
 ### Founder's Statement
 
 Flamingo Internet Navigators is committed to providing information

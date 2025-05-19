@@ -1,6 +1,6 @@
 +++
 title = 'RoavingFlamingians'
-date = 2025-11-19
+date = 2025-05-19
 draft = false
 #description = 'Converted from twiki - v1.7'
 cover.hidden = true
@@ -36,7 +36,7 @@ You can email us at [info@fini.net](mailto:info@fini.net);
 
 #### Clients
 
-This is where we brag about our [clients](FiniClients).
+This is where we brag about our [clients](../FiniClients).
 
 #### Policies and Procedures
 
