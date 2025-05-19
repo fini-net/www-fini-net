@@ -1,13 +1,11 @@
 +++
 title = 'RoavingFlamingians'
-date = 2006-06-06T08:59:00+00:00
+date = 2025-05-19
 draft = false
-description = 'Converted from twiki - v1.7'
+#description = 'Converted from twiki - v1.7'
 cover.hidden = true
 #tags = []
 +++
-
-%META:TOPICPARENT{name="[WebHome](WebHome "wikilink")"}%
 
 ### Flamingians
 
@@ -34,21 +32,11 @@ migrated to become Flamingo Internet Navigators!
 Statement](FoundersStatement). His [Edge Reports](EdgeReports) are even
 better!
 
-**Cynthia Manuel**, Creative Director
-
-**Roaming Flamingians:** Aaron Marshall, John Lundin, Wolf McSherry,
-Mark Whittington, Rob Benson, Jeff Keller, Jeff Duffy, Walt Lin, Seth
-Fowler, Malia Kuhi, Karen Keller.
-
-Our NOC is located in Williamsburg Virginia. Our R&D Lab is located in
-Newport News, Virginia.
-
-You can email us at \<a
-href="[mailto:info@fini.net](mailto:info@fini.net)"\><info@fini.net>\</a\>
+You can email us at [info@fini.net](mailto:info@fini.net);
 
 #### Clients
 
-This is where we brag about our [clients](FiniClients).
+This is where we brag about our [clients](../FiniClients).
 
 #### Policies and Procedures
 

@@ -12,6 +12,7 @@ cover.hidden = true
 - [Hosting Services](HostingServices/)
 - [FiniDNS](FiniDNS/)
 - [iReserve](IReserve/)
+- [our status page](https://status.fini.net/)
 
 ## FINI Consulting
 

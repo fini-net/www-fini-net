@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-#### What do you get when you host with FINI?
+## What do you get when you host with FINI?
 
 You get a total solution with unparalled access and control. FINI puts
 YOU in control and that saves you time and money!
@@ -30,17 +30,11 @@ immediate, detailed view of the traffic on your site. This gives you a
 wealth of information to use when making decisions about the content and
 structure of your site.
 
-<!--
-%PUBURL%/%MAINWEB%/[WebImages](WebImages "wikilink")/bugzilla.jpg
-**Bugzilla** - Bugzilla is a "Defect Tracking System" or "Bug-Tracking
-System". Defect Tracking Systems allow individuals or groups to keep
-track of outstanding bugs in their product effectively. Successful
-projects often are the result of successful organization and
-communication. Bugzilla is a powerful tool that will help your team get
-organized and communicate effectively.
--->
-
-#### Additional Hosting Services
+## Additional Hosting Services
 
 - [FiniDNS](../FiniDNS)
 - [iReserve](../IReserve)
+
+## High Reliability
+
+Check out [our status page](https://status.fini.net/) to see how 99+% reliability.

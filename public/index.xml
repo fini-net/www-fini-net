@@ -6,8 +6,30 @@
     <description>Recent content on Flamingo Internet Navigators (FINI)</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 21:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChristopherHicks</title>
+      <link>/christopherhicks/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>/christopherhicks/</guid>
+      <description>Christopher &amp;#34;chicks&amp;#34; Hicks is the founder of FINI</description>
+    </item>
+    <item>
+      <title>RoavingFlamingians</title>
+      <link>/roavingflamingians/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>/roavingflamingians/</guid>
+      <description>&lt;h3 id=&#34;flamingians&#34;&gt;Flamingians&lt;/h3&gt;
+&lt;p&gt;Flamingo Internet Navigators is a small, independent research and
+development house. We like to think of ourselves as &amp;ldquo;a little company
+making a big difference&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;For many years the birds now here at FINI roamed the land trying to
+solve people&amp;rsquo;s information technology problems. While uniquely suited to
+this type of life, these birds found themselves increasingly frustrated
+by the limitations of the legacy and Microsoft technologies being
+deployed by organizations large and small.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>iReserve</title>
       <link>/finiservices/ireserve/</link>
@@ -44,13 +66,6 @@
       <description>Application Development by FINI</description>
     </item>
     <item>
-      <title>ChristopherHicks</title>
-      <link>/christopherhicks/</link>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/christopherhicks/</guid>
-      <description>Converted from twiki - v1.14</description>
-    </item>
-    <item>
       <title>Systems Analysis</title>
       <link>/finiservices/systemsanalysis/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
@@ -84,13 +99,6 @@
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
       <guid>/finiservices/hostingservices/</guid>
       <description>FINI has been hosting sites and services on the Internet for 30 years</description>
-    </item>
-    <item>
-      <title>WebHome</title>
-      <link>/webhome/</link>
-      <pubDate>Wed, 18 Jun 2008 20:40:00 +0000</pubDate>
-      <guid>/webhome/</guid>
-      <description>Converted from twiki - v1.36</description>
     </item>
     <item>
       <title>WebStatistics</title>
@@ -142,20 +150,6 @@
       <description>Perspective from others in the industry</description>
     </item>
     <item>
-      <title>RoavingFlamingians</title>
-      <link>/roavingflamingians/</link>
-      <pubDate>Tue, 06 Jun 2006 08:59:00 +0000</pubDate>
-      <guid>/roavingflamingians/</guid>
-      <description>Converted from twiki - v1.7</description>
-    </item>
-    <item>
-      <title>CHicksFavoritePerlModules</title>
-      <link>/chicksfavoriteperlmodules/</link>
-      <pubDate>Thu, 13 Apr 2006 15:19:00 +0000</pubDate>
-      <guid>/chicksfavoriteperlmodules/</guid>
-      <description>Converted from twiki - v1.1</description>
-    </item>
-    <item>
       <title>ExhibitA</title>
       <link>/termsandconditions/exhibita/</link>
       <pubDate>Sat, 01 Apr 2006 18:14:00 +0000</pubDate>
@@ -191,11 +185,11 @@
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
-      <title>FiniClients</title>
+      <title>FINI Clients</title>
       <link>/finiclients/</link>
       <pubDate>Tue, 28 Mar 2006 15:40:00 +0000</pubDate>
       <guid>/finiclients/</guid>
-      <description>Converted from twiki - v1.2</description>
+      <description>Our diverse set of consulting clients</description>
     </item>
     <item>
       <title>FoundersStatement</title>

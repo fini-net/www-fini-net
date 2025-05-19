@@ -7,8 +7,6 @@ cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[RoavingFlamingians](RoavingFlamingians "wikilink")"}%
-
 ### Founder's Statement
 
 Flamingo Internet Navigators is committed to providing information
@@ -30,5 +28,5 @@ dynamic and swiftly changing medium.
 Flamingo Internet Navigators proves there are no bounds to what can be
 accomplished.
 
-Christopher Hicks\<br /\> \<a
-href="[mailto:chicks@chicks.net](mailto:chicks@chicks.net)"\><chicks@chicks.net>\</a\>
+Christopher Hicks\<br /\>
+[chicks@chicks.net](mailto:chicks@chicks.net)
