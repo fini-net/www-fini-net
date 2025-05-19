@@ -1,34 +1,17 @@
 +++
 title = 'ChristopherHicks'
-date = 2025-04-08
+date = 2025-05-19
 draft = false
-description = 'Converted from twiki - v1.14'
+description = 'Christopher "chicks" Hicks is the founder of FINI'
 cover.hidden = true
 #tags = []
 +++
 
-%META:TOPICPARENT{name="[TWikiUsers](TWikiUsers "wikilink")"}%
-
-## [ChristopherHicks](ChristopherHicks "wikilink")
-
 - Name: Christopher Hicks
 - Email: <chicks@chicks.net>
 - Company Name: Flamingo Internet Navigators
-- Company URL: <http://www.fini.net/>
-- Personal Web Page: <http://www.chicks.net/>
+- Company URL: <https://www.fini.net/>
+- Personal Web Page: <https://www.chicks.net/>
 - Country: [USA](http://en.wikipedia.org/wiki/Unites_States)
-- Hobbies: Billiards, Movies, Remodeling,
-  [FrisbeeGolf](FrisbeeGolf "wikilink"),
-  [AmateurRadio](AmateurRadio "wikilink")
-
-### My Links
-
-- Blog: <http://www.bloglines.com/>
-- Projects: <http://www.ireserve.info/>
-- Waste of CPU:
-  [team](http://stats.distributed.net/team/tmsummary.php?project_id=8&team=31403)
-  [me](http://stats.distributed.net/participant/psummary.php?project_id=8&id=73444)
-- My sand boxen:
-  Sandbox.[ChristopherHicksSandbox](ChristopherHicksSandbox "wikilink")
-  and Sandbox.[ChickyTestPad](ChickyTestPad "wikilink")
-- [CHicksFavoritePerlModules](CHicksFavoritePerlModules "wikilink")
+- Hobbies: Billiards, Movies, Remodeling, Frisbee Golf, LEGO
+- My links: <https://www.chicks.net/links/>
