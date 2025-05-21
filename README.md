@@ -17,10 +17,20 @@ but there's a lot that is still broken.
 - Converted from TWiki (read the [notes](TWiki_Conversion_Notes.md))
 - Generating with `hugo`
 - GHA for `markdownlint`
+- Content cleanups
 
-## Code of Conduct
+## HOWTO contribute
 
-Please refer to the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about our expectations for contributors.
-I would guess the chances of collaboration on this repo are so small as to be unmeasurable,
-but this is a trivial compliance thing to check off and I'm trying to get all of my repos closer
-to best practices.
+This is basically a personal project, but I'm open to thoughtful contributions.
+
+The [Code of Conduct](CODE_OF_CONDUCT.md) explains general expectations for contributors.
+
+### Development process (inherited)
+
+Check out the [local justfile](https://github.com/fini-net/www-fini-net/blob/main/justfile)
+for the development process.
+
+Once you run `just justsync` the `justfile` from [www-chicks-net](https://github.com/chicks-net/www-chicks-net)
+will be downloaded and the
+[development cycle from www-chicks-net](https://github.com/chicks-net/www-chicks-net?tab=readme-ov-file#development-cycle)
+will work for this repo.
