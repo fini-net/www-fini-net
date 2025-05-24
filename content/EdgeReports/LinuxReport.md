@@ -1,6 +1,6 @@
 +++
 title = 'Linux... changing the face of computing.'
-date = 2006-07-29T14:05:00+00:00
+date = 1999-06-06
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true

@@ -1,11 +1,11 @@
 +++
 title = 'Microsoft Is A Monopoly'
-date = 2006-07-29T14:05:00+00:00
+date = 1999-11-15
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true
 author = "Christopher Hicks"
-tags = ["edge-report","free-software"]
+tags = ["edge-reports","free-software"]
 +++
 
 Microsoft may be a Monopoly, but being a commercial software vendor is
@@ -37,15 +37,15 @@ world, it is thoroughly entrenched in most people's life.  These real people
 and businesses matter. It is worth building computers and software not just
 good enough, but well.
 
-I hope that all that can help you see why U.S. District Judge Thomas
-Penfield Jackson's Findings of Fact from Friday matters to me. Someone
-that is not a geek has finally looked beyond their own stock portfolio.
-There is some hope that the world will begin to see beyond Bill's spin.
-Within a few years I won't have clients say "I went with the Microsoft
-solution so I don't have to worry about getting fired." Microsoft will
-cease to be seen as a nice purveyor of software and will be recognized
-as the biggest, clearest example of what we can't let happen to
-technology.
+I hope that all that can help you see why U.S. District Judge Thomas Penfield
+Jackson's
+[Findings of Fact](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
+from Friday matters to me. Someone that is not a geek has finally looked beyond
+their own stock portfolio.  There is some hope that the world will begin to see
+beyond Bill's spin.  Within a few years I won't have clients say "I went with
+the Microsoft solution so I don't have to worry about getting fired." Microsoft
+will cease to be seen as a nice purveyor of software and will be recognized as
+the biggest, clearest example of what we can't let happen to technology.
 
 That's not news to me. It's not news to the legions of Linux and Mac
 geeks out there. But it is news to many, many normal people. More people
@@ -81,7 +81,9 @@ so it allows you to be effective in your personal vigilence to privacy.
 In all, it represents the hope of the good that technology can be.
 
 Given the increasing popularity and respect for Linux I don't know
-whether Friday's Findings of Fact and the likelihood of a ruling
-strongly against Microsoft will do anything more than bring about the
-inevitable faster. But for those of us who have been victims of shoddy
-software for years, moving beyond Microsoft can't happen fast enough.
+whether Friday's
+[Findings of Fact](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact)
+and the likelihood of a ruling strongly against Microsoft will do anything more
+than bring about the inevitable faster. But for those of us who have been
+victims of shoddy software for years, moving beyond Microsoft can't happen fast
+enough.
