@@ -1,15 +1,25 @@
-import? '.cache/justfile'
+import? '.just/cache/justfile'
+import? '.just/cache/utility.just'
+import? '.just/cache/hugo.just'
 
 # "list" is already used in the parent (default with no args)
 [group('Local')]
 local_list:
     just --list
 
-# sync justfile from www-chicks-net
+# sync justfiles from www-chicks-net
 [group('Local_Sync')]
 justsync:
-    @echo "{{MAGENTA}}syncing .cache/justfile{{NORMAL}}"
-    curl --create-dirs -o .cache/justfile https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/justfile
+    @echo "{{MAGENTA}}syncing .just/cache/*{{NORMAL}}"
+    curl --create-dirs -o .just/cache/justfile https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/justfile
+    just _justsyncfile utility
+    just _justsyncfile hugo
+
+# sync justfiles from www-chicks-net
+[group('Local_Sync')]
+_justsyncfile filename:
+    @echo "{{BLUE}}syncing .just/cache/{{ filename }}.just{{NORMAL}}"
+    curl --create-dirs -o .just/cache/{{ filename }}.just https://raw.githubusercontent.com/chicks-net/www-chicks-net/refs/heads/main/.just/{{ filename }}.just
 
 # download justfile again if older than 10 days
 [group('Local_Sync')]
