@@ -36,7 +36,7 @@ go.work.sum
 .hugo_build.lock
 
 # repo-level cache for justfiles, etc.
-/.cache
+/.just/cache
 
 # our hugo run artifact
 /public.prev
