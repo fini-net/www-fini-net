@@ -6,7 +6,7 @@ on:
       - 'main'
 
 # global permissions
-permissions: read-all
+permissions: {}
 
 jobs:
   publish:
