@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.chicks.net)",
+      "WebFetch(domain:www.fini.net)",
+      "Bash(gh pr view:*)",
+      "Bash(git log:*)",
+      "Bash(markdownlint-cli2:*)",
+      "WebFetch(domain:developers.facebook.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
