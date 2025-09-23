@@ -1,0 +1,21 @@
+---
+name: Inclusiveness
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+# global permissions
+permissions: {}
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+    - name: Inclusiveness Analyzer
+      uses: microsoft/InclusivenessAnalyzer@v1.0.1
