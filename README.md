@@ -11,7 +11,7 @@ Web site content for [https://www.fini.net/](https://www.fini.net/)
 
 Rebuilding from the twiki/foswiki source code and turning it into a hugo site.
 This is not currently the live site on [https://www.fini.net/](https://www.fini.net/)
-but hopefully we will be live within a year.
+but hopefully we will be live within a few weeks or months.
 
 It is viewable at [https://fini-net.github.io/www-fini-net/](https://fini-net.github.io/www-fini-net/),
 but there's a lot that is still broken.
