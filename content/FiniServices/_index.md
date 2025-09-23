@@ -21,6 +21,7 @@ cover.hidden = true
 - [Systems Analysis](SystemsAnalysis/)
 - [Systems Administration](SystemAdministration/)
 - [Cross Platform](CrossPlatform/) [Application Development](ApplicationDevelopment/)
+- Please fill out the {{< fini-newclient-form >}} to begin the process.
 
 ## FINI Training
 

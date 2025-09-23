@@ -26,3 +26,7 @@ System administration services include:
 Let FINI remind you of how fun technology can be. Stop blaming yourself
 for shoddy software and bug-ridden operating systems. Stop being a slave
 to the machine and let the machine relieve your burden for awhile.
+
+## How can you start?
+
+Please fill out the {{< fini-newclient-form >}} to begin the process.
