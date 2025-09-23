@@ -48,4 +48,6 @@ following industries:
 In conjunction with our consulting services FINI offers onsite and
 offsite [training classes](TrainingClasses).
 
-TODO: insert new customer page
+## How can you start?
+
+Please fill out the {{< fini-newclient-form >}} to begin the process.
