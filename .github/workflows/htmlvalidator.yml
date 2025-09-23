@@ -1,0 +1,21 @@
+---
+name: HTML5Validator
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+# global permissions
+permissions: {}
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+    - uses: actions/checkout@v4
+    - uses: Cyb3r-Jak3/html5validator-action
+      with:
+        root: public/
