@@ -30,7 +30,7 @@ FINI may be contacted by email at
 [mailto:support@fini.net](mailto:support@fini.net)
 or by regular mail at:
 
-```
+```address
 FINI.net
 349 Bridgewater Drive
 Newport News, VA 23603
@@ -578,4 +578,4 @@ transferred by Customer to another party without the written consent of
 FINI, which shall not be withheld unreasonably; however, FINI may assign
 this Agreement to an affiliate.
 
-_Flamingians are known to thrive in large areas of uninhabitable wastelands._
+*Flamingians are known to thrive in large areas of uninhabitable wastelands.*
