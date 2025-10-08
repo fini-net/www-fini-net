@@ -539,13 +539,6 @@ after the mailbox is shut down will be lost and FINI will not be
 responding to messages. Altering email headers may result in criminal
 prosecution as well as account termination.
 
-5.07.6 Violations of the FINI policies outlined in this document can
-sometimes result in massive numbers of email responses. If a FINI
-account holder receives so much email that FINI resources are affected,
-FINI staff may shut down the account holder's mailbox. Any email sent
-after the mailbox is shut down will be lost and FINI will not be
-responsible for recovering it.
-
 #### 5.08 SSH bandwidth
 
 5.08.1 There is currently no limit per day for account SSH uploads or
