@@ -1,8 +1,8 @@
 +++
-title = 'TermsandConditions4'
+title = 'Terms and Conditions 4 (2002)'
 date = 2002-03-01
 draft = false
-description = 'Converted from twiki - v1.6'
+description = 'twiki v1.6 included revisions through 2009-03-31'
 cover.hidden = true
 #tags = []
 +++
