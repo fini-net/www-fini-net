@@ -1,5 +1,5 @@
 +++
-title = 'Terms and Conditions 4 (2002)'
+title = 'FINI Terms and Conditions 4 (2002)'
 date = 2002-03-01
 draft = false
 description = 'twiki v1.6 included revisions through 2009-03-31'

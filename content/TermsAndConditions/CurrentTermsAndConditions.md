@@ -1,8 +1,8 @@
 +++
-title = 'Terms and Conditions v5 (2025)'
+title = 'Current Terms and Conditions'
 date = 2025-10-08
 draft = false
-#description = ''
+description = 'Terms and Conditions v5 (2025)'
 cover.hidden = true
 #tags = []
 +++
