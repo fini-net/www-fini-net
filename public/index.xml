@@ -4,10 +4,24 @@
     <title>Flamingo Internet Navigators (FINI)</title>
     <link>/</link>
     <description>Recent content on Flamingo Internet Navigators (FINI)</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current Terms and Conditions</title>
+      <link>/termsandconditions/currenttermsandconditions/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/currenttermsandconditions/</guid>
+      <description>Terms and Conditions v5 (2025)</description>
+    </item>
+    <item>
+      <title>Master Domain Registration Agreement</title>
+      <link>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</guid>
+      <description>AppendixB/Exhibit A</description>
+    </item>
     <item>
       <title>ChristopherHicks</title>
       <link>/christopherhicks/</link>
@@ -87,13 +101,6 @@ deployed by organizations large and small.&lt;/p&gt;</description>
       <description>Experienced sysadmins are available to solve your issue.</description>
     </item>
     <item>
-      <title>TermsandConditions4</title>
-      <link>/termsandconditions/termsandconditions4/</link>
-      <pubDate>Tue, 31 Mar 2009 22:16:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions4/</guid>
-      <description>Converted from twiki - v1.6</description>
-    </item>
-    <item>
       <title>Hosting Services</title>
       <link>/finiservices/hostingservices/</link>
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
@@ -136,39 +143,25 @@ deployed by organizations large and small.&lt;/p&gt;</description>
       <description>Perspective from others in the industry</description>
     </item>
     <item>
-      <title>ExhibitA</title>
-      <link>/termsandconditions/exhibita/</link>
+      <title>OpenSRS Exhibit A</title>
+      <link>/termsandconditions/oldterms/exhibita/</link>
       <pubDate>Sat, 01 Apr 2006 18:14:00 +0000</pubDate>
-      <guid>/termsandconditions/exhibita/</guid>
+      <guid>/termsandconditions/oldterms/exhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
-      <title>CCexhibitA</title>
-      <link>/termsandconditions/ccexhibita/</link>
+      <title>OpenSRS/Tucows exhibit/appendix A</title>
+      <link>/termsandconditions/oldterms/ccexhibita/</link>
       <pubDate>Sat, 01 Apr 2006 15:48:00 +0000</pubDate>
-      <guid>/termsandconditions/ccexhibita/</guid>
+      <guid>/termsandconditions/oldterms/ccexhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
-      <title>BizexhibitB</title>
-      <link>/termsandconditions/bizexhibitb/</link>
+      <title>OpenSRS/Tucows schedule/exhibit B</title>
+      <link>/termsandconditions/oldterms/bizexhibitb/</link>
       <pubDate>Sat, 01 Apr 2006 06:11:00 +0000</pubDate>
-      <guid>/termsandconditions/bizexhibitb/</guid>
+      <guid>/termsandconditions/oldterms/bizexhibitb/</guid>
       <description>Converted from twiki - v1.1</description>
-    </item>
-    <item>
-      <title>TermsandConditions2</title>
-      <link>/termsandconditions/termsandconditions2/</link>
-      <pubDate>Sat, 01 Apr 2006 05:56:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions2/</guid>
-      <description>Converted from twiki - v1.2</description>
-    </item>
-    <item>
-      <title>TermsandConditions3</title>
-      <link>/termsandconditions/termsandconditions3/</link>
-      <pubDate>Sat, 01 Apr 2006 05:56:00 +0000</pubDate>
-      <guid>/termsandconditions/termsandconditions3/</guid>
-      <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>FINI Clients</title>
@@ -185,6 +178,20 @@ deployed by organizations large and small.&lt;/p&gt;</description>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
+      <title>FINI Terms and Conditions 4 (2002)</title>
+      <link>/termsandconditions/oldterms/termsandconditions4/</link>
+      <pubDate>Fri, 01 Mar 2002 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions4/</guid>
+      <description>twiki v1.6 included revisions through 2009-03-31</description>
+    </item>
+    <item>
+      <title>FINI Terms and Conditions v3 (2000)</title>
+      <link>/termsandconditions/oldterms/termsandconditions3/</link>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions3/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+    <item>
       <title>Microsoft Is A Monopoly</title>
       <link>/edgereports/monopolyreport/</link>
       <pubDate>Mon, 15 Nov 1999 00:00:00 +0000</pubDate>
@@ -196,6 +203,13 @@ deployed by organizations large and small.&lt;/p&gt;</description>
       <link>/edgereports/linuxreport/</link>
       <pubDate>Sun, 06 Jun 1999 00:00:00 +0000</pubDate>
       <guid>/edgereports/linuxreport/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+    <item>
+      <title>FINI Terms and Conditions v2 (1998)</title>
+      <link>/termsandconditions/oldterms/termsandconditions2/</link>
+      <pubDate>Thu, 03 Dec 1998 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions2/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
   </channel>

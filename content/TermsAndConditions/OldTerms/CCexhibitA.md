@@ -1,5 +1,5 @@
 +++
-title = 'CCexhibitA'
+title = 'OpenSRS/Tucows exhibit/appendix A'
 date = 2006-04-01T15:48:00+00:00
 draft = false
 description = 'Converted from twiki - v1.1'

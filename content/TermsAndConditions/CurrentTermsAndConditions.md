@@ -1,15 +1,15 @@
 +++
-title = 'TermsandConditions4'
-date = 2009-03-31T22:16:00+00:00
+title = 'Current Terms and Conditions'
+date = 2025-10-08
 draft = false
-description = 'Converted from twiki - v1.6'
+description = 'Terms and Conditions v5 (2025)'
 cover.hidden = true
 #tags = []
 +++
 
-## Flamingo Internet Navigators Terms and Conditions for Web Hosting and other Internet Services
+## FINI.net Terms and Conditions for Internet Services
 
-1 March 2002
+8 October 2025
 
 PLEASE READ THESE TERMS, CONDITIONS AND ACCEPTABLE USE GUIDELINES
 CAREFULLY BEFORE OPENING OR CONTINUING AN ACCOUNT WITH Flamingo Internet
@@ -26,12 +26,15 @@ FINI account.
 IMMEDIATELY END YOUR USE OF FINI SERVICES AND NOTIFY FINI SO THAT FINI
 MAY INITIATE CLOSURE OF YOUR ACCOUNT.**
 
-FINI may be contacted by email at \<a
-href="[mailto:support@fini.net](mailto:support@fini.net)"
-class=link\><support@fini.net>\</a\> or by regular mail at:
+FINI may be contacted by email at
+[mailto:support@fini.net](mailto:support@fini.net)
+or by regular mail at:
 
-Flamingo Internet Navigators\<br /\> 349 Bridgewater Drive\<br /\>
+```address
+FINI.net
+349 Bridgewater Drive
 Newport News, VA 23603
+```
 
 FINI reserves the right to modify the Terms, Conditions and Acceptable
 Use Guidelines, and/or modify the prices of its services, as well as
@@ -41,7 +44,7 @@ responsibility of the account holder to keep informed about these
 changes. Your continued use of FINI's services following such
 notification will be deemed acceptance of the modification.
 
-***1.00 Provision of Services***
+### 1.00 Provision of Services
 
 1.01 This Agreement defines the terms, conditions, and acceptable use
 for all types of accounts offered by FINI. FINI "services" are defined
@@ -94,10 +97,8 @@ Internet access provider services. FINI does not provide Internet access
 services, hardware or software. You are responsible for ensuring that
 such equipment or service is compatible with FINI's requirements. These
 requirements include conformance to the appropriate Internet Request for
-Comments (RFC's). RFC's can be obtained from \<a
-href="<ftp://ftp.chicks.net/pub/rfc/std/>"\><ftp://ftp.chicks.net/pub/rfc/std/>\</a\>
-as well as other public archives such as \<a class=link
-href="<http://www.ietf.org/>"\><http://www.ietf.org/>\</a\>.
+Comments (RFC's). RFC's can be obtained from public archives such as
+<https://www.rfc-editor.org/>.
 
 1.08 Any use of FINI scripts or software or third-party scripts or
 software distributed by FINI is governed by the End-user License
@@ -115,7 +116,8 @@ offer.
 
 1.09b **[OpenSRS](OpenSRS "wikilink")**: When requesting FINI to
 transfer or register your domain you are also obligated to comply with
-TUCOWS, Inc.'s [registration agreement](ExhibitA).
+TUCOWS, Inc.'s
+[registration agreement](TucowsDomainsMasterDomainRegistrationAgreeement.md).
 
 1.10 FINI reserves the right to obtain, lease and utilize the products
 and services of third party vendors in order to maintain services to
@@ -175,14 +177,13 @@ additional installation and related charges associated with such
 relocation. All FINI equipment or FINI provider equipment shall be
 returned to FINI upon termination of this Agreement.
 
-***2.00 Payment of fees***
+### 2.00 Payment of fees
 
 2.01 Current recurring and setup fees for FINI services can be found on
-the Web on the FINI web site found at
+the Web on the FINI web site found at <https://www.fini.net>.
 
-\<a class=link href="<http://www.fini.net>"\><http://www.fini.net>\</a\>
 FINI will publish an online notice of fee increases at least 30 days
-before such increases take effect.
+before it takes effect.
 
 2.02 FINI services are offered on a prepay basis. Payment for a minimum
 of one billing period of services must be received prior to the billing
@@ -191,8 +192,8 @@ forth herein are subject to suspension and/or account termination. You
 acknowledge responsibility that, even if your account is terminated, you
 will be held liable for any balance owed on the account.
 
-2.03 Acceptable means of payment include Cash, Personal Check, Cashier's
-Check, and Corporate Account Checks. Payment for a FINI account or
+2.03 Acceptable means of payment include Cashier's Checks, Credit Cards,
+ACH, and Corporate Account Checks. Payment for a FINI account or
 service by fraudulent means will result in immediate and permanent
 termination of the account, and possible criminal penalties.
 
@@ -205,8 +206,7 @@ suspended or terminated accounts.
 FINI no later than 30 days after the date on the first billing statement
 in which the error or problem appeared, in order to receive an
 adjustment or credit. Inquiries should be directed to FINI's Billing
-Department (\<a class=link
-href="[mailto:billing@fini.net](mailto:billing@fini.net)"\><billing@fini.net>\</a\>),
+Department ([mailto:billing@fini.net](mailto:billing@fini.net)),
 and should include all available information about the suspected error.
 
 2.07 Usage charges, if applicable, will be billed in arrears, and
@@ -221,7 +221,7 @@ month on any invoice not paid within such 10-day period. Failure of
 Customer to receive any invoice in no way relieves Customer of the
 obligation to pay for any rendered services.
 
-***3.00 Cancellation and Termination***
+### 3.00 Cancellation and Termination
 
 3.01 To cancel your account, you must contact FINI support via email or
 postal mail. Cancellation requests must include the account's login
@@ -288,34 +288,26 @@ termination. The rights and obligations of the parties shall survive any
 such termination or other cancellation or expiration of this Agreement
 or any Service Order:
 
-3.08.1 **DSL, [InterLATA](InterLATA "wikilink") Private Line & Frame
-Relay Service.** In the event Customer cancels or terminates the DSL,
-Private Line or Frame Relay Service under this Agreement or any Service
-Order prior to the end of the Initial Term or any subsequent Renewal
-Term, Customer agrees to pay FINI a termination charge (as liquidated
-damages and not as a penalty) as follows: (1) All non-recurring charges
-specified in this Agreement or any Service Order, plus (2) All
-disconnection, early cancellation or termination charges reasonably
-incurred by FINI on Customer's behalf, plus (3) The monthly recurring
-charge indicated in the Agreement times the number of months remaining
-in the term.
+#### 3.08.1 Termination of Leased Carrier Services
 
-3.08.2 **[IntraLATA](IntraLATA "wikilink") Private Line Services.** For
-services terminated prior to the end of the term, FINI will calculate
-the closest term satisfied by customer and revalue service rates
-according to the appropriate monthly rate for the term satisfied.
-Customer also agrees to pay all disconnection, early cancellation or
-termination charges reasonably incurred by FINI on the Customer's
-behalf.
+**Definitions** Leased Carrier Services involve a contract with a third party
+to provide FINI's customer with some long-term service.  Examples of such
+services non-exclusively include dedicated bandwidth, frequency allocation,
+Software as a Service (Saas), and cloud services like those provided by
+[AWS](https://aws.amazon.com/), Digital Ocean, and Azure.
 
-3.08.3 **Voice and ISDN Services.** For voice services or ISDN usage
-services terminated prior to the end of the term, Customer agrees to pay
-(as liquidated damages and not as a penalty), all prior usage re-rated
-at the rates of the next nearest term completed. All termination charges
-shall be due and payable within thirty (30) days of the effective date
-of termination.
+In the event Customer cancels or terminates the Leased Carrrier Service under
+this Agreement or any Service Order prior to the end of the Initial Term or any
+subsequent Renewal Term, Customer agrees to immediately pay FINI a termination
+charge (as liquidated damages and not as a penalty) as follows:
 
-***4.00 "As Is" Services; Limitation of Liability, Indemnification***
+1. All non-recurring charges specified in this Agreement or any Service Order, plus
+2. All disconnection, early cancellation or termination charges reasonably
+   incurred by FINI on Customer's behalf, plus
+3. The monthly recurring charge indicated in the Agreement times the number of
+   months remaining in the term.
+
+### 4.00 "As Is" Services; Limitation of Liability, Indemnification
 
 4.01 **"As Is" Services.** You acknowledge that FINI services are
 provided "as is". FINI, its employees, agents, suppliers, vendors and
@@ -354,7 +346,7 @@ LOST PROFITS) ARISING OUT OF OR IN RELATION TO THIS AGREEMENT OR THE
 ACCOUNT HOLDER'S USE OF OR INABILITY TO USE FINI's SERVICES. FINI's
 ENTIRE LIABILITY AND YOUR EXCLUSIVE REMEDY SHALL BE AT FINI's OPTION,
 EITHER RETURN OF THE SERVICE FEES PREPAID OR REPLACEMENT OF
-SERVICES.**In any case, FINI's entire liability under or arising out of
+SERVICES.**  In any case, FINI's entire liability under or arising out of
 this Agreement shall be limited to the amount you paid for the service
 in the twelve (12) months prior to the act or injury that gave rise to
 the liability. However, some jurisdictions may not allow a limitation on
@@ -393,7 +385,7 @@ governmental order or regulation or order of any court of competent
 jurisdiction, or any other similar thing or occurrence not within the
 control of the party.
 
-***5.00 Acceptable Use Guidelines***
+### 5.00 Acceptable Use Guidelines
 
 5.01 ***Use of Services*** \<A name="useserv"\>\</a\>
 
@@ -406,7 +398,7 @@ immediate termination of your FINI account.
 5.01.2 The account holder of record is responsible for all use of the
 account, with or without the knowledge of consent of the account holder.
 
-5.02 ***Use of Material***
+#### 5.02 Use of Material
 
 5.02.1 Materials in the public domain (e.g., images, text and programs)
 may be downloaded or uploaded using FINI services. Account holders may
@@ -432,7 +424,7 @@ discretion, as threatening, obscene, pornographic, profane, or material
 protected by trade secrets. This also includes links or any connection
 to such materials.
 
-5.03 ***Passwords***
+#### 5.03 Passwords
 
 5.03.1 Each FINI account user is responsible for the security of his or
 her password(s). Secure passwords are at least 6 characters long,
@@ -448,7 +440,7 @@ rules. Account holders who repeatedly choose insecure passwords may be
 assigned a password by FINI; continued failure to maintain password
 security may be grounds for account termination.
 
-5.04 ***System Security***
+#### 5.04 System Security
 
 5.04.1 The account holder is prohibited from utilizing FINI services to
 compromise the security or tamper with system resources or accounts on
@@ -463,7 +455,7 @@ administrators at other sites, in order to assist them in resolving
 security incidents. FINI will also fully cooperate with law enforcement
 authorities in investigating suspected lawbreakers.
 
-5.05 ***System Resources***
+#### 5.05 System Resources
 
 5.05.1 FINI will allocate system resources to provide all account
 holders with the best service possible. As a part of resource
@@ -482,7 +474,11 @@ the sessions of other Internet users, consuming excessive amounts of CPU
 time, memory or disk space, or otherwise affecting the performance of
 FINI servers.
 
-5.06 ***Web Page Publishing Guidelines***
+5.05.3 Cryptocurrency mining is also considered system abuse.  FINI
+does not offer its services for projects involving cryptocurrency.
+Failure to respect this policy is grounds for account termination.
+
+#### 5.06 Web Page Publishing Guidelines
 
 5.06.1 The account holder is solely responsible for the content of Web
 pages owned by the account.
@@ -497,10 +493,10 @@ system resources consumed by the page and applicable laws.
 5.06.3 Your account may be subject to additional fees depending on the
 total web transfers or "hits" to your account. The exact details of this
 rule depend on the type of account and are set forth in the account
-service features list located on the FINI web site at \<A class=link
-href="<http://www.fini.net>"\><http://www.fini.net>\</a\>
+service features list located on the FINI web site at
+<https://www.fini.net>.
 
-5.07 ***Email Use***
+#### 5.07 Email Use
 
 5.07.1 FINI will investigate complaints regarding email and may, in its
 sole discretion, take action based on the rules below. If an email
@@ -543,25 +539,18 @@ after the mailbox is shut down will be lost and FINI will not be
 responding to messages. Altering email headers may result in criminal
 prosecution as well as account termination.
 
-5.07.6 Violations of the FINI policies outlined in this document can
-sometimes result in massive numbers of email responses. If a FINI
-account holder receives so much email that FINI resources are affected,
-FINI staff may shut down the account holder's mailbox. Any email sent
-after the mailbox is shut down will be lost and FINI will not be
-responsible for recovering it.
+#### 5.08 SSH bandwidth
 
-5.08 ***FTP Use***
+5.08.1 There is currently no limit per day for account SSH uploads or
+downloads to our servers.  We recommend using asynchronous methods
+such as a `git` repo for static web serving
 
-5.08.1 There is currently no limit per day for account FTP uploads to
-servers. FTP downloads are included in the bandwidth and hit counts for
-the account holder's web site.
-
-***6.00 Miscellaneous***
+### 6.00 Miscellaneous
 
 6.01 This agreement will be governed by and construed in accordance with
 the laws of the Commonwealth of Virginia, excluding its conflict of laws
 principles, and the parties' consent to exclusive personal jurisdiction
-of and venue in court of competent jurisdiction located in Williamsburg,
+of and venue in court of competent jurisdiction located in Newport News,
 Virginia.
 
 6.02 Section 4 and your obligation to pay amounts due under this
@@ -589,10 +578,4 @@ transferred by Customer to another party without the written consent of
 FINI, which shall not be withheld unreasonably; however, FINI may assign
 this Agreement to an affiliate.
 
-Flamingians are known to thrive in large areas of uninhabitable
-wastelands.
-
-%META:FILEATTACHMENT{name="exhibita.htm" attachment="exhibita.htm"
-attr="" comment="" date="1143915176" path="exhibita.htm" size="109856"
-stream="exhibita.htm"
-user="Main.[CynthiaManuel](CynthiaManuel "wikilink")" version="1"}%
+*Flamingians are known to thrive in large areas of uninhabitable wastelands.*

@@ -1,5 +1,5 @@
 +++
-title = 'BizexhibitB'
+title = 'OpenSRS/Tucows schedule/exhibit B'
 date = 2006-04-01T06:11:00+00:00
 draft = false
 description = 'Converted from twiki - v1.1'

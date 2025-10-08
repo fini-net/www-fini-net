@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/christopherhicks/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+    <loc>/termsandconditions/currenttermsandconditions/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/christopherhicks/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/roavingflamingians/</loc>
@@ -37,12 +46,6 @@
   </url><url>
     <loc>/finiservices/systemadministration/</loc>
     <lastmod>2024-05-10T05:06:00+00:00</lastmod>
-  </url><url>
-    <loc>/termsandconditions/</loc>
-    <lastmod>2009-03-31T22:16:00+00:00</lastmod>
-  </url><url>
-    <loc>/termsandconditions/termsandconditions4/</loc>
-    <lastmod>2009-03-31T22:16:00+00:00</lastmod>
   </url><url>
     <loc>/finiservices/hostingservices/</loc>
     <lastmod>2009-03-31T13:37:00+00:00</lastmod>
@@ -77,26 +80,29 @@
     <loc>/finiservices/otherssay/</loc>
     <lastmod>2006-07-29T14:04:00+00:00</lastmod>
   </url><url>
-    <loc>/termsandconditions/exhibita/</loc>
+    <loc>/termsandconditions/oldterms/</loc>
     <lastmod>2006-04-01T18:14:00+00:00</lastmod>
   </url><url>
-    <loc>/termsandconditions/ccexhibita/</loc>
+    <loc>/termsandconditions/oldterms/exhibita/</loc>
+    <lastmod>2006-04-01T18:14:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/oldterms/ccexhibita/</loc>
     <lastmod>2006-04-01T15:48:00+00:00</lastmod>
   </url><url>
-    <loc>/termsandconditions/bizexhibitb/</loc>
+    <loc>/termsandconditions/oldterms/bizexhibitb/</loc>
     <lastmod>2006-04-01T06:11:00+00:00</lastmod>
-  </url><url>
-    <loc>/termsandconditions/termsandconditions2/</loc>
-    <lastmod>2006-04-01T05:56:00+00:00</lastmod>
-  </url><url>
-    <loc>/termsandconditions/termsandconditions3/</loc>
-    <lastmod>2006-04-01T05:56:00+00:00</lastmod>
   </url><url>
     <loc>/finiclients/</loc>
     <lastmod>2006-03-28T15:40:00+00:00</lastmod>
   </url><url>
     <loc>/foundersstatement/</loc>
     <lastmod>2006-03-26T16:07:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/oldterms/termsandconditions4/</loc>
+    <lastmod>2002-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/oldterms/termsandconditions3/</loc>
+    <lastmod>2000-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/edge-reports/</loc>
     <lastmod>1999-11-15T00:00:00+00:00</lastmod>
@@ -112,6 +118,9 @@
   </url><url>
     <loc>/edgereports/linuxreport/</loc>
     <lastmod>1999-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/termsandconditions/oldterms/termsandconditions2/</loc>
+    <lastmod>1998-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>
