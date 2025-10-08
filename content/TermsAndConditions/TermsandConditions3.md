@@ -1,6 +1,6 @@
 +++
 title = 'TermsandConditions3'
-date = 2006-04-01T05:56:00+00:00
+date = 2000-03-01
 draft = false
 description = 'Converted from twiki - v1.2'
 cover.hidden = true
