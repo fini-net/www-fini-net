@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FINI.net Consultants</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on FINI.net Consultants</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Terms and Conditions</title>
-      <link>//localhost:1313/termsandconditions/currenttermsandconditions/</link>
+      <link>/termsandconditions/currenttermsandconditions/</link>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/currenttermsandconditions/</guid>
+      <guid>/termsandconditions/currenttermsandconditions/</guid>
       <description>Terms and Conditions v5 (2025)</description>
     </item>
     <item>
       <title>Master Domain Registration Agreement</title>
-      <link>//localhost:1313/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</link>
+      <link>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</guid>
+      <guid>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</guid>
       <description>AppendixB/Exhibit A</description>
     </item>
     <item>
       <title>ChristopherHicks</title>
-      <link>//localhost:1313/christopherhicks/</link>
+      <link>/christopherhicks/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/christopherhicks/</guid>
+      <guid>/christopherhicks/</guid>
       <description>Christopher &amp;#34;chicks&amp;#34; Hicks is the founder of FINI</description>
     </item>
     <item>
       <title>RoavingFlamingians</title>
-      <link>//localhost:1313/roavingflamingians/</link>
+      <link>/roavingflamingians/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/roavingflamingians/</guid>
+      <guid>/roavingflamingians/</guid>
       <description>&lt;h3 id=&#34;flamingians&#34;&gt;Flamingians&lt;/h3&gt;
 &lt;p&gt;Flamingo Internet Navigators is a small, independent research and
 development house. We like to think of ourselves as &amp;ldquo;a little company
@@ -46,170 +46,170 @@ deployed by organizations large and small.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iReserve</title>
-      <link>//localhost:1313/finiservices/ireserve/</link>
+      <link>/finiservices/ireserve/</link>
       <pubDate>Fri, 09 May 2025 21:17:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/ireserve/</guid>
+      <guid>/finiservices/ireserve/</guid>
       <description>FINI insurance claims management solution</description>
     </item>
     <item>
       <title>Cross Platform Applications</title>
-      <link>//localhost:1313/finiservices/crossplatform/</link>
+      <link>/finiservices/crossplatform/</link>
       <pubDate>Fri, 09 May 2025 21:10:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/crossplatform/</guid>
+      <guid>/finiservices/crossplatform/</guid>
       <description>Cross platform applications avoid vendor lock-in</description>
     </item>
     <item>
       <title>Database Analysis</title>
-      <link>//localhost:1313/finiservices/databaseanalysis/</link>
+      <link>/finiservices/databaseanalysis/</link>
       <pubDate>Fri, 09 May 2025 21:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/databaseanalysis/</guid>
+      <guid>/finiservices/databaseanalysis/</guid>
       <description>Providing comprehensive database analysis for both relational and NoSQL databases.</description>
     </item>
     <item>
       <title>FiniDNS</title>
-      <link>//localhost:1313/finiservices/finidns/</link>
+      <link>/finiservices/finidns/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/finidns/</guid>
+      <guid>/finiservices/finidns/</guid>
       <description>Your Global, Reliable DNS Solution</description>
     </item>
     <item>
       <title>Application Development</title>
-      <link>//localhost:1313/finiservices/applicationdevelopment/</link>
+      <link>/finiservices/applicationdevelopment/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/applicationdevelopment/</guid>
+      <guid>/finiservices/applicationdevelopment/</guid>
       <description>Application Development by FINI</description>
     </item>
     <item>
       <title>Systems Analysis</title>
-      <link>//localhost:1313/finiservices/systemsanalysis/</link>
+      <link>/finiservices/systemsanalysis/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/systemsanalysis/</guid>
+      <guid>/finiservices/systemsanalysis/</guid>
       <description>Systems Analysis is part of how we can solve big problems.</description>
     </item>
     <item>
       <title>Training Classes</title>
-      <link>//localhost:1313/finiservices/trainingclasses/</link>
+      <link>/finiservices/trainingclasses/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/trainingclasses/</guid>
+      <guid>/finiservices/trainingclasses/</guid>
       <description>Learning from folks with hands-on experience is a great way to get ahead.</description>
     </item>
     <item>
       <title>Systems Administration</title>
-      <link>//localhost:1313/finiservices/systemadministration/</link>
+      <link>/finiservices/systemadministration/</link>
       <pubDate>Fri, 10 May 2024 05:06:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/systemadministration/</guid>
+      <guid>/finiservices/systemadministration/</guid>
       <description>Experienced sysadmins are available to solve your issue.</description>
     </item>
     <item>
       <title>Hosting Services</title>
-      <link>//localhost:1313/finiservices/hostingservices/</link>
+      <link>/finiservices/hostingservices/</link>
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/hostingservices/</guid>
+      <guid>/finiservices/hostingservices/</guid>
       <description>FINI has been hosting sites and services on the Internet for 30 years</description>
     </item>
     <item>
       <title>WebStatistics</title>
-      <link>//localhost:1313/archive/webstatistics/</link>
+      <link>/archive/webstatistics/</link>
       <pubDate>Thu, 25 Oct 2007 00:29:00 +0000</pubDate>
-      <guid>//localhost:1313/archive/webstatistics/</guid>
+      <guid>/archive/webstatistics/</guid>
       <description>Converted from twiki - v1.658</description>
     </item>
     <item>
       <title>TWikiPreferences</title>
-      <link>//localhost:1313/archive/twikipreferences/</link>
+      <link>/archive/twikipreferences/</link>
       <pubDate>Fri, 28 Sep 2007 13:13:00 +0000</pubDate>
-      <guid>//localhost:1313/archive/twikipreferences/</guid>
+      <guid>/archive/twikipreferences/</guid>
       <description>Converted from twiki - v1.7</description>
     </item>
     <item>
       <title>Why Should Businesses Care About Web Standards?</title>
-      <link>//localhost:1313/edgereports/standardsreport/</link>
+      <link>/edgereports/standardsreport/</link>
       <pubDate>Sat, 07 Oct 2006 19:51:00 +0000</pubDate>
-      <guid>//localhost:1313/edgereports/standardsreport/</guid>
+      <guid>/edgereports/standardsreport/</guid>
       <description>Converted from twiki - v1.5</description>
     </item>
     <item>
       <title>Consulting Services</title>
-      <link>//localhost:1313/finiservices/consulting/</link>
+      <link>/finiservices/consulting/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/consulting/</guid>
+      <guid>/finiservices/consulting/</guid>
       <description>FINI can help you make better use of technology.</description>
     </item>
     <item>
       <title>Others Say</title>
-      <link>//localhost:1313/finiservices/otherssay/</link>
+      <link>/finiservices/otherssay/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/otherssay/</guid>
+      <guid>/finiservices/otherssay/</guid>
       <description>Perspective from others in the industry</description>
     </item>
     <item>
       <title>OpenSRS Exhibit A</title>
-      <link>//localhost:1313/termsandconditions/oldterms/exhibita/</link>
+      <link>/termsandconditions/oldterms/exhibita/</link>
       <pubDate>Sat, 01 Apr 2006 18:14:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/exhibita/</guid>
+      <guid>/termsandconditions/oldterms/exhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>OpenSRS/Tucows exhibit/appendix A</title>
-      <link>//localhost:1313/termsandconditions/oldterms/ccexhibita/</link>
+      <link>/termsandconditions/oldterms/ccexhibita/</link>
       <pubDate>Sat, 01 Apr 2006 15:48:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/ccexhibita/</guid>
+      <guid>/termsandconditions/oldterms/ccexhibita/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>OpenSRS/Tucows schedule/exhibit B</title>
-      <link>//localhost:1313/termsandconditions/oldterms/bizexhibitb/</link>
+      <link>/termsandconditions/oldterms/bizexhibitb/</link>
       <pubDate>Sat, 01 Apr 2006 06:11:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/bizexhibitb/</guid>
+      <guid>/termsandconditions/oldterms/bizexhibitb/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>FINI Clients</title>
-      <link>//localhost:1313/finiclients/</link>
+      <link>/finiclients/</link>
       <pubDate>Tue, 28 Mar 2006 15:40:00 +0000</pubDate>
-      <guid>//localhost:1313/finiclients/</guid>
+      <guid>/finiclients/</guid>
       <description>Our diverse set of consulting clients</description>
     </item>
     <item>
       <title>FoundersStatement</title>
-      <link>//localhost:1313/foundersstatement/</link>
+      <link>/foundersstatement/</link>
       <pubDate>Sun, 26 Mar 2006 16:07:00 +0000</pubDate>
-      <guid>//localhost:1313/foundersstatement/</guid>
+      <guid>/foundersstatement/</guid>
       <description>Converted from twiki - v1.1</description>
     </item>
     <item>
       <title>FINI Terms and Conditions 4 (2002)</title>
-      <link>//localhost:1313/termsandconditions/oldterms/termsandconditions4/</link>
+      <link>/termsandconditions/oldterms/termsandconditions4/</link>
       <pubDate>Fri, 01 Mar 2002 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/termsandconditions4/</guid>
+      <guid>/termsandconditions/oldterms/termsandconditions4/</guid>
       <description>twiki v1.6 included revisions through 2009-03-31</description>
     </item>
     <item>
       <title>FINI Terms and Conditions v3 (2000)</title>
-      <link>//localhost:1313/termsandconditions/oldterms/termsandconditions3/</link>
+      <link>/termsandconditions/oldterms/termsandconditions3/</link>
       <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/termsandconditions3/</guid>
+      <guid>/termsandconditions/oldterms/termsandconditions3/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>Microsoft Is A Monopoly</title>
-      <link>//localhost:1313/edgereports/monopolyreport/</link>
+      <link>/edgereports/monopolyreport/</link>
       <pubDate>Mon, 15 Nov 1999 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/edgereports/monopolyreport/</guid>
+      <guid>/edgereports/monopolyreport/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>Linux... changing the face of computing.</title>
-      <link>//localhost:1313/edgereports/linuxreport/</link>
+      <link>/edgereports/linuxreport/</link>
       <pubDate>Sun, 06 Jun 1999 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/edgereports/linuxreport/</guid>
+      <guid>/edgereports/linuxreport/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
     <item>
       <title>FINI Terms and Conditions v2 (1998)</title>
-      <link>//localhost:1313/termsandconditions/oldterms/termsandconditions2/</link>
+      <link>/termsandconditions/oldterms/termsandconditions2/</link>
       <pubDate>Thu, 03 Dec 1998 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/termsandconditions/oldterms/termsandconditions2/</guid>
+      <guid>/termsandconditions/oldterms/termsandconditions2/</guid>
       <description>Converted from twiki - v1.2</description>
     </item>
   </channel>

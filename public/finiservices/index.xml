@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>FINI Services on FINI.net Consultants</title>
-    <link>//localhost:1313/finiservices/</link>
+    <link>/finiservices/</link>
     <description>Recent content in FINI Services on FINI.net Consultants</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 May 2025 21:17:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/finiservices/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/finiservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iReserve</title>
-      <link>//localhost:1313/finiservices/ireserve/</link>
+      <link>/finiservices/ireserve/</link>
       <pubDate>Fri, 09 May 2025 21:17:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/ireserve/</guid>
+      <guid>/finiservices/ireserve/</guid>
       <description>FINI insurance claims management solution</description>
     </item>
     <item>
       <title>Cross Platform Applications</title>
-      <link>//localhost:1313/finiservices/crossplatform/</link>
+      <link>/finiservices/crossplatform/</link>
       <pubDate>Fri, 09 May 2025 21:10:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/crossplatform/</guid>
+      <guid>/finiservices/crossplatform/</guid>
       <description>Cross platform applications avoid vendor lock-in</description>
     </item>
     <item>
       <title>Database Analysis</title>
-      <link>//localhost:1313/finiservices/databaseanalysis/</link>
+      <link>/finiservices/databaseanalysis/</link>
       <pubDate>Fri, 09 May 2025 21:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/databaseanalysis/</guid>
+      <guid>/finiservices/databaseanalysis/</guid>
       <description>Providing comprehensive database analysis for both relational and NoSQL databases.</description>
     </item>
     <item>
       <title>FiniDNS</title>
-      <link>//localhost:1313/finiservices/finidns/</link>
+      <link>/finiservices/finidns/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/finidns/</guid>
+      <guid>/finiservices/finidns/</guid>
       <description>Your Global, Reliable DNS Solution</description>
     </item>
     <item>
       <title>Application Development</title>
-      <link>//localhost:1313/finiservices/applicationdevelopment/</link>
+      <link>/finiservices/applicationdevelopment/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/applicationdevelopment/</guid>
+      <guid>/finiservices/applicationdevelopment/</guid>
       <description>Application Development by FINI</description>
     </item>
     <item>
       <title>Systems Analysis</title>
-      <link>//localhost:1313/finiservices/systemsanalysis/</link>
+      <link>/finiservices/systemsanalysis/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/systemsanalysis/</guid>
+      <guid>/finiservices/systemsanalysis/</guid>
       <description>Systems Analysis is part of how we can solve big problems.</description>
     </item>
     <item>
       <title>Training Classes</title>
-      <link>//localhost:1313/finiservices/trainingclasses/</link>
+      <link>/finiservices/trainingclasses/</link>
       <pubDate>Fri, 28 Mar 2025 12:14:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/trainingclasses/</guid>
+      <guid>/finiservices/trainingclasses/</guid>
       <description>Learning from folks with hands-on experience is a great way to get ahead.</description>
     </item>
     <item>
       <title>Systems Administration</title>
-      <link>//localhost:1313/finiservices/systemadministration/</link>
+      <link>/finiservices/systemadministration/</link>
       <pubDate>Fri, 10 May 2024 05:06:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/systemadministration/</guid>
+      <guid>/finiservices/systemadministration/</guid>
       <description>Experienced sysadmins are available to solve your issue.</description>
     </item>
     <item>
       <title>Hosting Services</title>
-      <link>//localhost:1313/finiservices/hostingservices/</link>
+      <link>/finiservices/hostingservices/</link>
       <pubDate>Tue, 31 Mar 2009 13:37:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/hostingservices/</guid>
+      <guid>/finiservices/hostingservices/</guid>
       <description>FINI has been hosting sites and services on the Internet for 30 years</description>
     </item>
     <item>
       <title>Consulting Services</title>
-      <link>//localhost:1313/finiservices/consulting/</link>
+      <link>/finiservices/consulting/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/consulting/</guid>
+      <guid>/finiservices/consulting/</guid>
       <description>FINI can help you make better use of technology.</description>
     </item>
     <item>
       <title>Others Say</title>
-      <link>//localhost:1313/finiservices/otherssay/</link>
+      <link>/finiservices/otherssay/</link>
       <pubDate>Sat, 29 Jul 2006 14:04:00 +0000</pubDate>
-      <guid>//localhost:1313/finiservices/otherssay/</guid>
+      <guid>/finiservices/otherssay/</guid>
       <description>Perspective from others in the industry</description>
     </item>
   </channel>
