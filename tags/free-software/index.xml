@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Free-Software on FINI.net Consultants</title>
+    <link>/tags/free-software/</link>
+    <description>Recent content in Free-Software on FINI.net Consultants</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Nov 1999 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Is A Monopoly</title>
+      <link>/edgereports/monopolyreport/</link>
+      <pubDate>Mon, 15 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>/edgereports/monopolyreport/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+    <item>
+      <title>Linux... changing the face of computing.</title>
+      <link>/edgereports/linuxreport/</link>
+      <pubDate>Sun, 06 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>/edgereports/linuxreport/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+  </channel>
+</rss>
