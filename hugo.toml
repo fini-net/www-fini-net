@@ -4,7 +4,7 @@ baseURL = '/'
 #uglyURLs = true
 #relativeURLs = true
 languageCode = 'en-us'
-title = "Flamingo Internet Navigators (FINI)"
+title = "FINI.net Consultants"
 
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 
@@ -39,8 +39,8 @@ theme_color = "#a903fc"
 
 [params.profileMode]
 enabled = true
-title = "FINI"
-subtitle = "consulting services"
+title = "FINI.net"
+subtitle = "technology consulting services"
 imageUrl = "/servers-2010-08-03_18.37.59.jpg"
 imageTitle = "Servers that chicks was working on in 2010."
 imageWidth = 716
@@ -51,18 +51,32 @@ name = "Our Services"
 url = "/FiniServices"
 
 [[params.profileMode.buttons]]
+name = "New Clients"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSdwOgvaqUax1uGf89m79s7hFK90JK81jqZ8wAYhQGcg9thHmA/viewform?usp=header"
+
+[[params.profileMode.buttons]]
 name = "Blog"
 url = "/EdgeReports"
 
 [[params.profileMode.buttons]]
-name = "Terms"
-url = "/TermsAndConditions"
+name = "Feedback"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSe0kmh8-z6qh6Ajw3SFjyDTaxJS7jJ1h5IXg_QlJFYTBgOIxg/viewform?usp=header"
+
+[[params.profileMode.buttons]]
+name = "Service Status"
+url = "https://status.fini.net"
 
 [[menu.main]]
 identifier = "services"
 name = "Services"
 url = "/FiniServices"
 weight = 10
+
+[[menu.main]]
+identifier = "feedback"
+name = "Feedback"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSe0kmh8-z6qh6Ajw3SFjyDTaxJS7jJ1h5IXg_QlJFYTBgOIxg/viewform?usp=header"
+weight = 15
 
 [[menu.main]]
 identifier = "posts"

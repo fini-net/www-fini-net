@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TermsAndConditions on Flamingo Internet Navigators (FINI)</title>
-    <link>/termsandconditions/</link>
-    <description>Recent content in TermsAndConditions on Flamingo Internet Navigators (FINI)</description>
+    <title>TermsAndConditions on FINI.net Consultants</title>
+    <link>//localhost:1313/termsandconditions/</link>
+    <description>Recent content in TermsAndConditions on FINI.net Consultants</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/termsandconditions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/termsandconditions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Terms and Conditions</title>
-      <link>/termsandconditions/currenttermsandconditions/</link>
+      <link>//localhost:1313/termsandconditions/currenttermsandconditions/</link>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/termsandconditions/currenttermsandconditions/</guid>
+      <guid>//localhost:1313/termsandconditions/currenttermsandconditions/</guid>
       <description>Terms and Conditions v5 (2025)</description>
     </item>
     <item>
       <title>Master Domain Registration Agreement</title>
-      <link>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</link>
+      <link>//localhost:1313/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</guid>
+      <guid>//localhost:1313/termsandconditions/tucowsdomainsmasterdomainregistrationagreeement/</guid>
       <description>AppendixB/Exhibit A</description>
     </item>
   </channel>

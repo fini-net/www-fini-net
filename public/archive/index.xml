@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Archives on Flamingo Internet Navigators (FINI)</title>
-    <link>/archive/</link>
-    <description>Recent content in Archives on Flamingo Internet Navigators (FINI)</description>
+    <title>Archives on FINI.net Consultants</title>
+    <link>//localhost:1313/archive/</link>
+    <description>Recent content in Archives on FINI.net Consultants</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Oct 2007 00:29:00 +0000</lastBuildDate>
-    <atom:link href="/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WebStatistics</title>
-      <link>/archive/webstatistics/</link>
+      <link>//localhost:1313/archive/webstatistics/</link>
       <pubDate>Thu, 25 Oct 2007 00:29:00 +0000</pubDate>
-      <guid>/archive/webstatistics/</guid>
+      <guid>//localhost:1313/archive/webstatistics/</guid>
       <description>Converted from twiki - v1.658</description>
     </item>
     <item>
       <title>TWikiPreferences</title>
-      <link>/archive/twikipreferences/</link>
+      <link>//localhost:1313/archive/twikipreferences/</link>
       <pubDate>Fri, 28 Sep 2007 13:13:00 +0000</pubDate>
-      <guid>/archive/twikipreferences/</guid>
+      <guid>//localhost:1313/archive/twikipreferences/</guid>
       <description>Converted from twiki - v1.7</description>
     </item>
   </channel>
