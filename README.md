@@ -30,7 +30,7 @@ This is basically a personal project, but I'm open to thoughtful contributions.
 
 - [Code of Conduct](.github/CODE_OF_CONDUCT.md) explains our expectations for contributors.
 - [Contributing Guide](.github/CONTRIBUTING.md) includes a step-by-step guide to our
-  [development processs](.github/CONTRIBUTING.md#development-process).
+  [development process](.github/CONTRIBUTING.md#development-process).
 - [Security Policy](.github/SECURITY.md)
 
 ### Development process (inherited)
