@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FINI.net Consultants</title>
+    <link>/termsandconditions/oldterms/</link>
+    <description>Recent content on FINI.net Consultants</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2006 18:14:00 +0000</lastBuildDate>
+    <atom:link href="/termsandconditions/oldterms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSRS Exhibit A</title>
+      <link>/termsandconditions/oldterms/exhibita/</link>
+      <pubDate>Sat, 01 Apr 2006 18:14:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/exhibita/</guid>
+      <description>Converted from twiki - v1.1</description>
+    </item>
+    <item>
+      <title>OpenSRS/Tucows exhibit/appendix A</title>
+      <link>/termsandconditions/oldterms/ccexhibita/</link>
+      <pubDate>Sat, 01 Apr 2006 15:48:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/ccexhibita/</guid>
+      <description>Converted from twiki - v1.1</description>
+    </item>
+    <item>
+      <title>OpenSRS/Tucows schedule/exhibit B</title>
+      <link>/termsandconditions/oldterms/bizexhibitb/</link>
+      <pubDate>Sat, 01 Apr 2006 06:11:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/bizexhibitb/</guid>
+      <description>Converted from twiki - v1.1</description>
+    </item>
+    <item>
+      <title>FINI Terms and Conditions 4 (2002)</title>
+      <link>/termsandconditions/oldterms/termsandconditions4/</link>
+      <pubDate>Fri, 01 Mar 2002 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions4/</guid>
+      <description>twiki v1.6 included revisions through 2009-03-31</description>
+    </item>
+    <item>
+      <title>FINI Terms and Conditions v3 (2000)</title>
+      <link>/termsandconditions/oldterms/termsandconditions3/</link>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions3/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+    <item>
+      <title>FINI Terms and Conditions v2 (1998)</title>
+      <link>/termsandconditions/oldterms/termsandconditions2/</link>
+      <pubDate>Thu, 03 Dec 1998 00:00:00 +0000</pubDate>
+      <guid>/termsandconditions/oldterms/termsandconditions2/</guid>
+      <description>Converted from twiki - v1.2</description>
+    </item>
+  </channel>
+</rss>
