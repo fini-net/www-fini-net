@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
 #      - name: Generate your content
 #        run: echo "Optional placeholder. Put your project's static website generator command here."
