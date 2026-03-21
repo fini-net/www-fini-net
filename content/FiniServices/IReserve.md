@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-### iReserve
+## iReserve
 
 iReserve is a web application designed to manage professional and
 general liability claims. The design has melded the knowledge of
@@ -37,7 +37,7 @@ Oracle and Sybase.
 
 Visit the [iReserve Website](http://www.ireserve.info/).
 
-### Features
+## Features
 
 - Claims Administration
 - Diary/Notes

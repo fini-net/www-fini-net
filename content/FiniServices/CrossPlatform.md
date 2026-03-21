@@ -11,7 +11,7 @@ A cross-platform (or platform independent) software application works on
 more than one system platform (e.g. Linux, Macintosh and Windows).
 Cross-platform software is considered "portable" software.
 
-#### Productivity through Portablility
+## Productivity through Portablility
 
 The majority of proprietary software today is limited to a single
 platform. In this model business productivity is severely limited unless
@@ -30,7 +30,7 @@ Cross-platform software totally eliminates these physical contraints to
 workflow. This leads to reductions in your physical and personnel costs
 and greatly enhances productivity.
 
-#### Combining Portability and Integration
+## Combining Portability and Integration
 
 Today, in addition to cross platform issues, most companies are focused
 on application integration, which allows for workflow across
@@ -54,7 +54,7 @@ access and maintain YOUR data. So proprietary software companies
 effectively hold your company's data hostage, while you repeatedly pay
 them ransom.
 
-#### Break Free From The Monopoly
+## Break Free From The Monopoly
 
 FINI can free you from this extortion. FINI develops open source
 applications that are cross platform and that allow for and encourage

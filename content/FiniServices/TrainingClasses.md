@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-### Information Technology Training
+## Information Technology Training
 
 FINI offers on-site and remote training services for information
 technology professionals.
