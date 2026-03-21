@@ -223,6 +223,8 @@ obligation to pay for any rendered services.
 
 ### 3.00 Cancellation and Termination
 
+
+# TODO: API usageb
 3.01 To cancel your account, you must contact FINI support via email or
 postal mail. Cancellation requests must include the account's login
 name, and your name, address and phone number and other identifying
@@ -485,8 +487,8 @@ pages owned by the account.
 
 5.06.2 FINI will investigate complaints regarding inappropriate material
 on Web pages hosted on FINI servers and may, in its sole discretion,
-require that the material be removed or take action as outlined in \<A
-class=link href="#useserv"\>5.01.1\</a\> above. Criteria for determining
+require that the material be removed or take action as outlined in
+[5.01.1](#useserv) above. Criteria for determining
 whether a page is appropriate include, but are not limited to, the
 system resources consumed by the page and applicable laws.
 
@@ -501,10 +503,9 @@ service features list located on the FINI web site at
 5.07.1 FINI will investigate complaints regarding email and may, in its
 sole discretion, take action based on the rules below. If an email
 message is found to violate one of the policies below, or to contain
-unlawful material, as described in \<a class=link
-href="#usemat2"\>5.02.2\</a\> and \<a class=link
-href="#usemat3"\>5.02.3\</a\> above, FINI may take action as outlined in
-\<a class=link href="#useserv"\>5.01.1\</a\> above.
+unlawful material, as described in [5.02.2](#usemat2) and
+[5.02.3](#usemat3) above, FINI may take action as outlined in
+[5.01.1](#useserv) above.
 
 5.07.2 FINI account holders may not send email to any user who does not
 wish to receive it. FINI recognizes that email is an informal medium;
@@ -515,11 +516,9 @@ user after receiving a request to stop.
 informational, are strictly prohibited. FINI account holders may send
 advertising material only to addresses which have specifically requested
 it. FINI will not forward mail of accounts terminated for bulk mailing
-or unsolicited advertising. More information can be found at \<a
-class=link
-href="<http://spam.abuse.net>"\><http://spam.abuse.net>\</a\>, but while
-that site provides good information it should not be construed as
-necessarily the policy of FINI.
+or unsolicited advertising. More information can be found at
+<https://multirbl.valli.org/>, but while that site provides good information it
+should not be construed as the policy of FINI.
 
 5.07.4 FINI account holders may not send, propagate, or reply to mail
 bombs. Mail bombing is defined as either emailing copies of a single
@@ -544,6 +543,8 @@ prosecution as well as account termination.
 5.08.1 There is currently no limit per day for account SSH uploads or
 downloads to our servers.  We recommend using asynchronous methods
 such as a `git` repo for static web serving
+
+# TODO: API usage?
 
 ### 6.00 Miscellaneous
 
