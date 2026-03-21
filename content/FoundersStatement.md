@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-### Founder's Statement
+## Founder's Statement
 
 Flamingo Internet Navigators is committed to providing information
 systems solutions that meet the needs of your business. First we listen

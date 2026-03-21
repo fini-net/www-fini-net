@@ -7,7 +7,7 @@ cover.hidden = true
 #tags = []
 +++
 
-### Flamingians
+## Flamingians
 
 Flamingo Internet Navigators is a small, independent research and
 development house. We like to think of ourselves as "a little company
@@ -34,11 +34,11 @@ better!
 
 You can email us at [info@fini.net](mailto:info@fini.net);
 
-#### Clients
+### Clients
 
 This is where we brag about our [clients](../FiniClients).
 
-#### Policies and Procedures
+### Policies and Procedures
 
 FINI Terms of Service versions 1, [2](TermsandConditions2), and
 [3](TermsandConditions3) are out of date. They have been superceeded by

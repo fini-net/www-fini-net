@@ -67,7 +67,7 @@ technologies that constitute the World Wide Web:
 ... as well as emerging standards, such as those for television-based
 and PDA-based browsers.
 
-#### So What Does All This Mean to the Bottom Line?
+## So What Does All This Mean to the Bottom Line?
 
 By deploying Internet solutions that rigidly adhere to the core web
 technologies, you:
@@ -90,7 +90,7 @@ fraction of those who wish be a part of it? Denying access to even small
 portions of a target audience can make a big difference to your profit
 margin.
 
-#### FINI Takes Standards Based Architecture a Step Further
+## FINI Takes Standards Based Architecture a Step Further
 
 By rigidly adhering to the standards of the core technologies while
 developing solutions, we discovered that we could create a single
