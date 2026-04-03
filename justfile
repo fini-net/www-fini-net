@@ -6,6 +6,7 @@ import? '.just/cue-verify.just'
 import? '.just/copilot.just'
 import? '.just/claude.just'
 import? '.just/shellcheck.just'
+import? '.just/hugo.just'
 
 # "list" is already used in the parent (default with no args)
 [group('Local')]
