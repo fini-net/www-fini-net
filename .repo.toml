@@ -1,0 +1,15 @@
+# .repo.toml
+
+[about]
+description = "Consulting company web site https://www.fini.net/"
+topics = ["consultancy", "hugo-site", "justfile", "website"]
+
+[urls]
+git_ssh = "git@github.com:fini-net/www-fini-net.git"
+web_url = "https://github.com/fini-net/www-fini-net"
+
+[flags]
+claude = true
+claude-review = true
+copilot-review = true
+standard-release = true
