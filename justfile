@@ -1,6 +1,11 @@
-import? '.just/cache/justfile'
-import? '.just/cache/utility.just'
-import? '.just/cache/hugo.just'
+import? '.just/gh-process.just'
+import? '.just/template-sync.just'
+import? '.just/repo-toml.just'
+import? '.just/pr-hook.just'
+import? '.just/cue-verify.just'
+import? '.just/copilot.just'
+import? '.just/claude.just'
+import? '.just/shellcheck.just'
 
 # "list" is already used in the parent (default with no args)
 [group('Local')]
