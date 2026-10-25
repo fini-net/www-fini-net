@@ -3,20 +3,11 @@ baseURL = '/'
 # maybe, see https://discourse.gohugo.io/t/viewing-a-site-without-a-server/35825
 #uglyURLs = true
 #relativeURLs = true
-languageCode = 'en-us'
+locale = 'en-us'
 title = "FINI.net Consultants"
-
-theme = ["github.com/adityatelange/hugo-PaperMod"]
 
 [[module.imports]]
 path = "github.com/adityatelange/hugo-PaperMod"
-
-# ignore txt files (they came from TWiki conversion and should go away eventually)
-[module]
-[[module.mounts]]
-  source = 'content'
-  target = 'content'
-  excludeFiles = ['*.txt']
 
 [params]
 #body_classes = "avenir bg-near-white"
