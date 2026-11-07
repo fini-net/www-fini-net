@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="fini_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.02"
+     inkscape:cx="-2275"
+     inkscape:cy="-2701.0368"
+     inkscape:window-width="1172"
+     inkscape:window-height="794"
+     inkscape:window-x="2106"
+     inkscape:window-y="353"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="-2288.0952"
+       y="-2705.6067"
+       width="32.795698"
+       height="21.198156"
+       id="rect2" />
+    <rect
+       x="-2288.2132"
+       y="-2719.9515"
+       width="7684.9425"
+       height="2763.1254"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffdd55;stroke:#ffdd55;stroke-width:0.264583"
+       id="rect4"
+       width="6.0760398"
+       height="2.7027757"
+       x="-605.51379"
+       y="-716.28522"
+       ry="0" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583"
+       id="rect3"
+       width="6.0963902"
+       height="2.9465885"
+       x="-605.53412"
+       y="-719.49603" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.0203213,-0.1422491)"
+       id="text1"
+       style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#9955ff;stroke:#9955ff"><tspan
+         x="-2288.2129"
+         y="-2709.0032"
+         id="tspan4"><tspan
+           style="font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan3">FINI</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.3861047,-0.89413721)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#aca793;stroke:#aca793"><tspan
+         x="-2288.0957"
+         y="-2695.1074"
+         id="tspan5">.net</tspan></text>
+  </g>
+</svg>
